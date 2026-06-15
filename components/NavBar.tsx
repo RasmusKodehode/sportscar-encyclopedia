@@ -6,13 +6,13 @@ import HamburgerMenu from "./Hamburger";
 
 export default function NavBar() {
   return (
-    <div className="flex flex-row justify-between w-full h-20 px-3 py-7 bg-primary">
+    <div className="flex flex-row justify-between w-full h-20 px-6 py-7 bg-primary">
       <Link href="/">Home</Link>
       <div className="flex md:hidden">
         <HamburgerMenu />
       </div>
       <div className="md:flex md:flex-row md:gap-3 md:h-fit md:items-center hidden">
-        <Link href="/">About This Project</Link>
+        <Link href="/about">About This Project</Link>
         <Link href="/">The Cars</Link>
         <Link href="/">The Circuits</Link>
         <Link href="/">Year By Year</Link>
