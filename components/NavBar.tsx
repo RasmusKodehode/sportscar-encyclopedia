@@ -13,8 +13,8 @@ export default function NavBar() {
       </div>
       <div className="md:flex md:flex-row md:gap-3 md:h-fit md:items-center hidden">
         <Link href="/about">About This Project</Link>
-        <Link href="/">The Cars</Link>
-        <Link href="/">The Circuits</Link>
+        <Link href="/the-cars">The Cars</Link>
+        <Link href="/the-circuits">The Circuits</Link>
         <Link href="/">Year By Year</Link>
       </div>
     </div>

@@ -36,8 +36,8 @@ export default function HamburgerMenu() {
       {isOpen && (
         <div className="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50">
           <Link href="/about">About This Project</Link>
-          <Link href="/">The Cars</Link>
-          <Link href="/">The Circuits</Link>
+          <Link href="/the-cars">The Cars</Link>
+          <Link href="/the-circuits">The Circuits</Link>
           <Link href="/">Year By Year</Link>
         </div>
       )}
