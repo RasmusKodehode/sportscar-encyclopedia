@@ -38,7 +38,7 @@ export default function HamburgerMenu() {
           <Link href="/about">About This Project</Link>
           <Link href="/the-cars">The Cars</Link>
           <Link href="/the-circuits">The Circuits</Link>
-          <Link href="/">Year By Year</Link>
+          <Link href="/year-by-year">Year By Year</Link>
         </div>
       )}
     </div>
