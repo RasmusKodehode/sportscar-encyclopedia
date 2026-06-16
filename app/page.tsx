@@ -2,62 +2,59 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
+      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start gap-10">
+        <div className="flex flex-col gap-2">
+          <h1 className="text-4xl font-extrabold">
+            Welcome to the sportscar encyclopedia!
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p>
+            This is meant to be a library of top-class sportscars and sportscar
+            racing championships and events since 1999.
+          </p>
+          <p>
+            The debut of the Le Mans Prototype in 1999 marked the start of the
+            modern era of sportscar racing, with the new cars being able to race
+            not only at the 24h of Le Mans, but also in a new championship
+            series in America using the same regulations from the ACO. After a
+            period of instability in the 2nd half of the 2000s sportscar racing
+            was again on the up, and in 2012 the FIA World Endurance
+            Championship was launched. This led to the demise of the top class
+            in America, but after the creation of the Le Mans Hypercar in 2021
+            and LMDh in 2023 the top class of sportscar racing is again shared
+            across championships both in Europe and America.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <div className="flex flex-col gap-3">
+          <h2 className="text-3xl font-bold">FAQ</h2>
+          <div className="flex flex-col gap-2">
+            <h3 className="text-2xl font-bold">Why 1999?</h3>
+            <p>
+              1999 marked the start of the modern Le Mans Prototype, after
+              several years of different formulas and classes since the end of
+              Group C in 1993, and it was also the start of the first
+              championship to run Le Mans regulations since the end of 1992. You
+              can read more about that in the history section.
+            </p>
+          </div>
+          <div className="flex flex-col gap-2">
+            <h3 className="text-2xl font-bold">What is a sportscar?</h3>
+            <p>
+              A sportscar is a closed-wheel racing car, traditionally based on
+              road-going cars with 2 seats. Over time the top class evolved to
+              include cars built specifically for racing, but the regulations
+              have kept the 2-seater, enclosed wheel layout.
+            </p>
+          </div>
+          <div className="flex flex-col gap-2">
+            <h3 className="text-2xl font-bold">What is a Le Mans Prototype?</h3>
+            <p>
+              A Le Mans Prototype (LMP) is a specially built racing car to a set
+              of regulations which has been in existance since the 1990s. This
+              is unlike GT-cars, which are usually based on a road-going model
+              you can buy (if you have enough money...).
+            </p>
+          </div>
         </div>
       </main>
     </div>
