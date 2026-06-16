@@ -64,7 +64,7 @@ export default function YearByYear() {
               href="https://web.archive.org/web/19991126085346/http://www.americanlemans.com/pages/news99/quotes981105.html"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline text-blue-300 hover:text-blue-600"
+              className="underline text-blue-600 hover:text-blue-800"
             >
               American Le Mans Series was launched in 1999
             </a>{" "}
