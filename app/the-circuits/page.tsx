@@ -14,6 +14,16 @@ export default function Citcuits() {
             Cancelled"). The lap record is the fastest lap ever recorded by a
             sportscar in an official session.
           </p>
+          <p>
+            The circuits included are all the locations and layouts to have
+            either hosted or were supposed to host races in the series covered.
+            Listed is the name or reference to the layout and circuit length, as
+            well as the number of races ran there, and the number of times a
+            race there was cancelled. The lap record listed is the fastest lap
+            at any point in the weekend (usually from qualifying). In the era of
+            average times in qualifying the lap record is the single fastest
+            lap.
+          </p>
         </div>
       </main>
     </div>
