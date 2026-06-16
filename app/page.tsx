@@ -53,6 +53,41 @@ export default function Home() {
               a road-going model you can buy (if you have enough money...).
             </p>
           </div>
+          <div className="flex flex-col gap-2">
+            <h3 className="text-2xl font-bold">Which series are included?</h3>
+            <p>
+              In general, the championships considered are ACO-backed series
+              including the top class of sportscar racing. In the early years
+              this was only the American Le Mans Series (ALMS) under Dr Don
+              Panoz. It briefly expanded to run the European Le Mans Series
+              (ELMS) and the stillborn Asia-Pacific Le Mans Series (APLMS). In
+              2004 ACO launched the Le Mans Endurance Series (LMES), later
+              renamed Le Mans Series (LMS), running predominantly in Europe. In
+              2009 the first season of the Asian Le Mans Series (AsLMS) was run,
+              and in 2010 the Intercontinental Le Mans Cup (ILMC) was started.
+              It evolved into the FIA World Endurance Championship in 2012 which
+              has continued until present. Since 2023 IMSA has also run the top
+              class, after years of running a mix of its own regulations and
+              LMP2 as its top class.
+            </p>
+          </div>
+          <div className="flex flex-col gap-2">
+            <h3 className="text-2xl font-bold">
+              Which series aren't included?
+            </h3>
+            <p>
+              In the early 2000's the FIA Sportscar championship included
+              LMP-spec cars in the top class, however it also contained cars
+              running to a different, older regulation set called SR1. This also
+              applies for the Grand-Am-organized series that broke away from
+              IMSA ahead of the 1998 season. It too ran the SR1 class for
+              several years before replacing it with its own top-class
+              regulations in 2004. The Japan Le Mans Challenge (JLMC) ran for 2
+              seasons as an ACO-backed championship with ACO-spec classes, but
+              in order to fill the grid cars were entered not conforming to the
+              regulations.
+            </p>
+          </div>
         </div>
       </main>
     </div>
