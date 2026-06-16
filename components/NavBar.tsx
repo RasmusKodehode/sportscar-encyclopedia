@@ -6,7 +6,7 @@ import HamburgerMenu from "./Hamburger";
 
 export default function NavBar() {
   return (
-    <div className="flex flex-row justify-between w-full h-20 px-6 py-7 bg-primary">
+    <div className="flex flex-row justify-between w-full h-20 px-6 py-7 bg-blue-100">
       <Link href="/">Home</Link>
       <div className="flex md:hidden">
         <HamburgerMenu />
