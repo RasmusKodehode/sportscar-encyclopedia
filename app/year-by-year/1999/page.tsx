@@ -3,11 +3,11 @@ import Image from "next/image";
 export default function NinetyNine() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-4">
+      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-8">
         <h1>1999 Season</h1>
         <div className="flex flex-col gap-2">
           <h2>Series and Regulation News</h2>
-          <ul className="list-disc list-inside">
+          <ul>
             <li>
               Following the class restructuring from the ACO, teams running in
               the old LMGT1 class had a choice of class for 1999.
@@ -44,7 +44,7 @@ export default function NinetyNine() {
         </div>
         <div className="flex flex-col gap-2">
           <h2>Manufacturer News</h2>
-          <ul className="list-disc list-inside">
+          <ul>
             <li>
               Mercedes took the CLK-LM and updated it to LMGTP regulations,
               becoming the CLR.
@@ -521,8 +521,372 @@ export default function NinetyNine() {
             </table>
           </div>
         </div>
-        <div>
-            <h2>Calendar</h2>
+        <div className="flex flex-col gap-2 w-full">
+          <h2>Calendar</h2>
+          <ol className="flex flex-col gap-4">
+            <li>
+              <p className="font-bold">
+                47th Annual Exxon Superflo 12 Hours of Sebring
+              </p>
+              <p>Sebring International Raceway, Sebring, Florida</p>
+              <p>Date: 20.03.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 12 Hours</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 6.019 km</p>
+              <p>Laps Completed: 313</p>
+              <p>Distance Covered: 1883.947 km</p>
+              <p>Number of cars entered: 60 (30 LMP, 12 GTS, 18 GT)</p>
+              <p>Number of cars finished: 27 (13 LMP, 6 GTS, 8 GT)</p>
+              <p>
+                Pole Position: #42 BMW Motorsport, BMW V12 LMR, Jörg
+                Müller(DEU), JJ Lehto(FIN), Tom Kristensen(DEN), 1.49,850
+              </p>
+              <p>
+                Overall Winner: #42 BMW Motorsport, BMW V12 LMR, Jörg
+                Müller(DEU), JJ Lehto(FIN), Tom Kristensen(DEN), 12:00.59,075
+              </p>
+              <p>
+                GTS Winner: #56 Martin Snow Racing, Porsche 911 GT2, Martin
+                Snow(USA), Melanie Snow(USA), Patrick Huisman(NED), +26 Laps
+              </p>
+              <p>
+                GT Winner: #23 Alex Job Racing, Porsche 911 Carrera RSR, Kelly
+                Collins(USA), Cort Wagner(USA), Darrly Havens(USA), +29 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Grand Prix at Road Atlanta</p>
+              <p>Road Atlanta, Braselton, Georgia</p>
+              <p>Date: 18.04.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 2 Hours 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 4.088 km</p>
+              <p>Laps Completed: 120</p>
+              <p>Distance Covered: 490.560 km</p>
+              <p>Number of cars entered: 45 (22 LMP, 7 GTS, 16 GT)</p>
+              <p>Number of cars finished: 33 (14 LMP, 6 GTS, 13 GT)</p>
+              <p>
+                Pole Position: #16 Dyson Racing, Riley & Scott MK III - Ford,
+                Andy Wallace(GBR), James Weaver(GBR), 1.13,817
+              </p>
+              <p>
+                Overall Winner: #0 Team Rafanelli SRL, Riley & Scott MK III -
+                Judd, Eric van de Poele(BEL), Mimmo Schiattarella(ITA),
+                2:46.08,594
+              </p>
+              <p>
+                GTS Winner: #99 Schumacher Racing, Porsche 911 GT2, Larry
+                Schumacher(USA), John O'Steen(USA), +10 Laps
+              </p>
+              <p>
+                GT Winner: #7 Prototype Technology Group, BMW M3, Brian
+                Cunningham(USA), Johannes van Overbeek(USA), +13 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">
+                67<sup>e</sup> 24 Heures du Mans
+              </p>
+              <p>Circuit de la Sarthe, Le Mans, France</p>
+              <p>Date: 12-13.06.1999</p>
+              <p>Series: Standalone event</p>
+              <p>Race Format: 24 Hours</p>
+              <p>Classes: LMP, LMGTP, LMGTS, LMGT</p>
+              <p>Circuit Length: 13.605 km</p>
+              <p>Laps Completed: 365</p>
+              <p>Distance Covered: 4965.825 km</p>
+              <p>
+                Number of cars entered: 48 (20 LMP, 8 LMGTP, 16 LMGTS, 4 LMGT)
+              </p>
+              <p>
+                Number of cars finished: 22 (9 LMP, 1 LMGTP, 9 LMGTS, 3 LMGT)
+              </p>
+              <p>
+                Pole Position: #1 Toyota Motorsports, Toyota GT-One, Martin
+                Brundle(GBR), Emmanuel Collard(FRA), Vincenzo Sospiri(ITA),
+                3.29,930
+              </p>
+              <p>
+                Overall Winner: #15 BMW Motorsport, BMW V12 LMR, Joachim
+                Winkelhock(DEU), Pierluigi Martini(ITA), Yannick Dalmas(FRA),
+                24:00.00,000
+              </p>
+              <p>
+                LMGTP Winner: #3 Toyota Motorsports, Toyota GT-One, Ukyo
+                Katayama(JAP), Keiichi Tsuchiya(JAP), Toshio Suzuki(JAP), +1 Lap
+              </p>
+              <p>
+                LMGTS Winner: #51 Viper Team Oreca, Dodge Viper GTS-R, Olivier
+                Beretta(MON), Karl Wendlinger(AUT), Dominique Dupuy(FRA), +40
+                Laps
+              </p>
+              <p>
+                LMGT Winner: #81 Manthey Racing, Porsche 911 GT3-R, Uwe
+                Alzen(DEU), Patrick Huisman(NED), Luca Riccitelli(ITA), +48 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Grand Prix at Mosport</p>
+              <p>Mosport International Raceway, Bowmanville, Ontario</p>
+              <p>Date: 27.06.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 2 Hours 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 3.957 km</p>
+              <p>Laps Completed: 122</p>
+              <p>Distance Covered: 482.754 km</p>
+              <p>Number of cars entered: 35 (18 LMP, 7 GTS, 10 GT)</p>
+              <p>Number of cars finished: 27 (12 LMP, 6 GTS, 9 GT)</p>
+              <p>
+                Pole Position: #2 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                Johnny O'Connell(USA), Jan Magnussen(DEN), 1.10,514
+              </p>
+              <p>
+                Overall Winner: #2 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                Johnny O'Connell(USA), Jan Magnussen(DEN), 2:45.11,870
+              </p>
+              <p>
+                GTS Winner: #91 Dodge Viper Team Oreca, Dodge Viper GTS-R,
+                Olivier Beretta(MON), David Donohue(USA), +11 Laps
+              </p>
+              <p>
+                GT Winner: #23 Alex Job Racing, Porsche 911 Carrera RSR, Cort
+                Wagner(USA), Dirk Müller(DEU), +14 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Grand Prix of Sonoma</p>
+              <p>Sears Point Raceway, Sonoma, California</p>
+              <p>Date: 25.07.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 2 Hours 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 4.056 km</p>
+              <p>Laps Completed: 97</p>
+              <p>Distance Covered: 393.432 km</p>
+              <p>Number of cars entered: 45 (22 LMP, 8 GTS, 15 GT)</p>
+              <p>Number of cars finished: 37 (17 LMP, 8 GTS, 12 GT)</p>
+              <p>
+                Pole Position: #42 BMW Motorsport, BMW V12 LMR, JJ Lehto(FIN),
+                Steve Soper(GBR), 1.22,387
+              </p>
+              <p>
+                Overall Winner: #42 BMW Motorsport, BMW V12 LMR, JJ Lehto(FIN),
+                Steve Soper(GBR), 2:44.00,499
+              </p>
+              <p>
+                GTS Winner: #91 Dodge Viper Team Oreca, Dodge Viper GTS-R,
+                Olivier Beretta(MON), David Donohue(USA), +7 Laps
+              </p>
+              <p>
+                GT Winner: #9 Prototype Technology Group, BMW M3, Boris
+                Said(USA), Hans-Joachim Stuck(DEU), +9 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Rose City Grand Prix</p>
+              <p>Portland International Raceway, Portland, Oregon</p>
+              <p>Date: 01.08.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 2 Hours 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 3.129 km</p>
+              <p>Laps Completed: 137</p>
+              <p>Distance Covered: 428.673 km</p>
+              <p>Number of cars entered: 42 (21 LMP, 7 GTS, 14 GT)</p>
+              <p>Number of cars finished: 28 (14 LMP, 4 GTS, 10 GT)</p>
+              <p>
+                Pole Position: #42 BMW Motorsport, BMW V12 LMR, JJ Lehto(FIN),
+                Steve Soper(GBR), 1.04,387
+              </p>
+              <p>
+                Overall Winner: #1 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                David Brabham(AUS), Eric Bernard(FRA), 2:45.52,773
+              </p>
+              <p>
+                GTS Winner: #91 Dodge Viper Team Oreca, Dodge Viper GTS-R,
+                Olivier Beretta(MON), David Donohue(USA), +11 Laps
+              </p>
+              <p>
+                GT Winner: #23 Manthey Racing/Alex Job Racing, Porsche 911
+                GT3-R, Dirk Müller(DEU), Cort Wagner(USA), +15 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">2nd Annual Petit Le Mans</p>
+              <p>Road Atlanta, Braselton, Georgia</p>
+              <p>Date: 18.09.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 1000 Miles or 10 Hours</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 4.088 km</p>
+              <p>Laps Completed: 394</p>
+              <p>Distance Covered: 1610.672 km</p>
+              <p>Number of cars entered: 50 (22 LMP, 13 GTS, 15 GT)</p>
+              <p>Number of cars finished: 31 (13 LMP, 9 GTS, 9 GT)</p>
+              <p>
+                Pole Position: #1 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                David Brabham(AUS), Eric Bernard(FRA), Andy Wallace(GBR),
+                1.10,873
+              </p>
+              <p>
+                Overall Winner: #1 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                David Brabham(AUS), Eric Bernard(FRA), Andy Wallace(GBR),
+                8:56.31,991
+              </p>
+              <p>
+                GTS Winner: #91 Dodge Viper Team Oreca, Dodge Viper GTS-R,
+                Olivier Beretta(MON), Karl Wendlinger(AUT), Marc Duez(BEL), +37
+                Laps
+              </p>
+              <p>
+                GT Winner: #23 Manthey Racing/Alex Job Racing, Porsche 911
+                GT3-R, Dirk Müller(DEU), Sascha Maassen(DEU), Cort Wagner(USA),
+                +47 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Visa Sports Car Championships</p>
+              <p>Laguna Seca Raceway, Monterey, California</p>
+              <p>Date: 10.10.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format, 2 Hours, 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 3.602 km</p>
+              <p>Laps Completed: 121</p>
+              <p>Distance Covered: 435.842 km</p>
+              <p>Number of cars entered: 44 (19 LMP, 10 GTS, 15 GT)</p>
+              <p>Number of cars finished: 28 (12 LMP, 7 GTS, 9 GT)</p>
+              <p>
+                Pole Position: #1 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                David Brabham(AUS), Eric Bernard(FRA), 1.15,974
+              </p>
+              <p>
+                Overall Winner: #42 BMW Motorsport, BMW V12 LMR, JJ Lehto(FIN),
+                Steve Soper(GBR), 2:45.08,543
+              </p>
+              <p>
+                GTS Winner: #91 Dodge Viper Team Oreca, Dodge Viper GTS-R,
+                Olivier Beretta(MON), Karl Wendlinger(AUT), +11 Laps
+              </p>
+              <p>
+                GT Winner: #02 Reiser Callas Rennsport, Porsche 911 Carrera RSR,
+                Johnny Mowlem(GBR), David Murry(USA), +13 Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Le Mans Fuji 1000 km</p>
+              <p>Fuji International Speedway, Oyama, Japan</p>
+              <p>Date: 07.11.1999</p>
+              <p>Series: Non-Championship</p>
+              <p>Race Format: 1000 km or 6 Hours</p>
+              <p>Classes: LMP, LMGTP, LMGTS, LMGT, GT500, GT300</p>
+              <p>Circuit Length: 4.469 km</p>
+              <p>Laps Completed: 228</p>
+              <p>Distance Covered: 1018.932 km</p>
+              <p>
+                Number of cars entered: 23 (3 LMP, 2 LMGTP, 7 LMGTS, 4 LMGT, 5
+                GT500, 2 GT300)
+              </p>
+              <p>
+                Number of cars finished: 15 (2 LMP, 1 LMGTP, 4 LMGTS, 3 LMGT, 4
+                GT500, 1 GT300)
+              </p>
+              <p>
+                Pole Position: #1 Toyota Motorsports, Toyota GT-One, Ukyo
+                Katayama(JAP), Keiichi Tsuchiya(JAP), Toshio Suzuki(JAP),
+                1.16,349
+              </p>
+              <p>
+                Overall Winner: #23 Nissan Motorsports, Nissan R391, Erik
+                Comas(FRA), Satoshi Motoyama(JAP), Masami Kageyama(JAP),
+                5:32.56,125
+              </p>
+              <p>
+                LMGTP Winner: #1 Toyota Motorsports, Toyota GT-One, Ukyo
+                Katayama(JAP), Keiichi Tsuchiya(JAP), Toshio Suzuki(JAP), +1 Lap
+              </p>
+              <p>
+                GT500 Winner: #35 Matsumoto-Kiyoshi Team Tom's, Toyota Supra,
+                Pierre-Henri Raphanel(FRA), Shininchi Yamaji(JAP), Takeshi
+                Tsuchiya(JAP), +17 Laps
+              </p>
+              <p>
+                LMGTS Winner: #60 Team Goh/Chamberlain Engineering, Dodge Viper
+                GTS-R, Seiji Ara(JAP), Hideki Okada(JAP), +25 Laps
+              </p>
+              <p>
+                LMGT Winner: #81 Team Taisan Advan, Porsche 911 GT3-R, Hideshi
+                Matsuda(JAP), Dominik Schwager(DEU), +31 Laps
+              </p>
+              <p>
+                GT300 Winner: #91 910 Racing, Porsche 911 3.8 RSR, Masamitsu
+                Ishihara(JAP), Keiichi Takahashi(JAP), Tomohiko Sunako(JAP), +50
+                Laps
+              </p>
+            </li>
+            <li>
+              <p className="font-bold">Grand Prix of Las Vegas</p>
+              <p>Las Vegas Motor Speedway, Las Vegas, Nevada</p>
+              <p>Date: 07.11.1999</p>
+              <p>Series: ALMS</p>
+              <p>Race Format: 2 Hours 45 minutes</p>
+              <p>Classes: LMP, GTS, GT</p>
+              <p>Circuit Length: 3.621 km</p>
+              <p>Laps Completed: 129</p>
+              <p>Distance Covered: 467.109 km</p>
+              <p>Number of cars entered: 37 (16 LMP, 8 GTS, 13 GT)</p>
+              <p>Number of cars finished: 25 (9 LMP, 6 GTS, 10 GT)</p>
+              <p>
+                Pole Position: #1 Panoz Motor Sports, Panoz LMP-1 Roadster-S,
+                David Brabham(AUS), Eric Bernard(FRA), 1.07,404
+              </p>
+              <p>
+                Overall Winner: #42 BMW Motorsport, BMW V12 LMR, JJ Lehto(FIN),
+                Steve Soper(GBR), 2:45.26,196
+              </p>
+              <p>
+                GTS Winner: #92 Dodge Viper Team Oreca, Dodge Viper GTS-R, Karl
+                Wendlinger(AUT), Tommy Archer(USA), +9 Laps
+              </p>
+              <p>
+                GT Winner: #23 Manthey Racing/Alex Job Racing, Porsche 911
+                GT3-R, Dirk Müller(DEU), Cort Wagner(USA), +12 Laps
+              </p>
+            </li>
+          </ol>
+        </div>
+        <div className="flex flex-col gap-2 w-full">
+          <h2>Season Totals</h2>
+          <div>
+            <p>Number of Races: 10</p>
+            <p>Total Distance Covered: 12177.746 km</p>
+          </div>
+        </div>
+        <div className="flex flex-col gap-2 w-full">
+          <h2>Misc Links</h2>
+          <ul>
+            <li>
+              <a
+                href="https://web.archive.org/web/19991126085346/http://www.americanlemans.com/pages/news99/3mosp/mosp-990627-b.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                BMW withdraws from Mosport
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://web.archive.org/web/20000124021725/http://professionalsportscar.com/news/100199.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                San Diego race postponed, replaced by Las Vegas
+              </a>
+            </li>
+          </ul>
         </div>
       </main>
     </div>

@@ -127,7 +127,7 @@ export default function YearByYear() {
         </div>
         <div className="flex flex-col gap-3">
           <h2 className="text-3xl font-bold">Year by Year</h2>
-          <ul className="list-disc list-inside">
+          <ul>
             <li>
               <Link href="/year-by-year/1999" className="underline hover:text-blue-800">1999</Link>
             </li>
