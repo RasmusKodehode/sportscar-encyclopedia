@@ -1,11 +1,21 @@
 import Image from "next/image";
 
+import BMWV12LMR from "../../public/BMWV12LMR.webp";
+import AUDIR8R from "../../public/AUDIR8R.jpg";
+import AUDIR8C from "../../public/AUDIR8C.jpg";
+import PANOZLMP1RoadsterS from "../../public/PANOZLMP1RoadsterS.jpg";
+import MERCEDESBENZCLR from "../../public/MERCEDESBENZCLR.jpg";
+import TOYOTAGTONE from "../../public/TOYOTAGT-ONE.jpg";
+import NISSANR391 from "../../public/NISSANR391.jpeg";
+import PORSCHELMP2000 from "../../public/PORSCHELMP2000.jpg";
+
 export default function Cars() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start">
+      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-8">
+        <h1>The Cars</h1>
         <div className="flex flex-col gap-2">
-          <h1>The Cars</h1>
+          <h2>Overview</h2>
           <p>
             Due to the nature of the regulations, allowing manufacturers to
             develop road-relevant technologies several brands have built
@@ -72,6 +82,189 @@ export default function Cars() {
             big update at round 2 in 2015 (Ostensibly the same as Toyota in
             2012-2013).
           </p>
+        </div>
+        <div className="flex flex-col gap-8 w-full">
+          <h2>By Manufacturer</h2>
+          <div className="flex flex-col gap-1">
+            <h3>BMW</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">BMW V12 LMR</p>
+                <p>Engine: 6.0L V12 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Williams F1</p>
+                <p>First Event: 1999 Sebring</p>
+                <p>Last Event: 2000 Las Vegas</p>
+                <p>Evolution of the 1998 V12 LM</p>
+                <Image
+                  src={BMWV12LMR}
+                  width={500}
+                  height={500}
+                  alt="BMW V12 LMR"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Audi</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Audi R8R</p>
+                <p>Engine: 3.6L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>
+                  Designed by Michael Pfadenhauer & Wolfgang Appel, built by
+                  Dallara
+                </p>
+                <p>First Event: 1999 Sebring</p>
+                <p>Last Event: 2000 Silverstone</p>
+                <p>Newly developed for 1999</p>
+                <Image
+                  src={AUDIR8R}
+                  width={500}
+                  height={500}
+                  alt="Audi R8R"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R8C</p>
+                <p>Engine: 3.6L V8 Twin-turbo</p>
+                <p>Ruleset: LMGTP</p>
+                <p>Designed by Peter Elleray from Racing Technology Norfolk</p>
+                <p>First Event: 1999 Le Mans</p>
+                <p>Last Event: 1999 Le Mans</p>
+                <p>
+                  Added after the R8R following the announcement of the LMGTP
+                  regulations
+                </p>
+                <Image
+                  src={AUDIR8C}
+                  width={500}
+                  height={500}
+                  alt="Audi R8C"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Panoz</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Panoz LMP-1 Roadster-S</p>
+                <p>Engine: Elan 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Reynard Motorsport</p>
+                <p>First Event: 1999 Road Atlanta</p>
+                <p>Last Event: 2002 Sonoma</p>
+                <p>
+                  Developed to replace the Esperante GTR-1 for the LMP class
+                </p>
+                <Image
+                  src={PANOZLMP1RoadsterS}
+                  width={500}
+                  height={500}
+                  alt="Panoz LMP-1 Roadster-S"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Toyota</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Toyota GT-One</p>
+                <p>Engine: 3.6L V8 Twin-turbo</p>
+                <p>Ruleset: LMGTP</p>
+                <p>Designed by Andre de Cortanze from Toyota Team Europe</p>
+                <p>First Event: 1999 Le Mans</p>
+                <p>Last Event: 1999 Fuji</p>
+                <p>Evolution of the 1998-car to suit the new LMGTP class</p>
+                <Image
+                  src={TOYOTAGTONE}
+                  width={500}
+                  height={500}
+                  alt="Toyota GT-One"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Mercedes-Benz</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Mercedes-Benz CLR</p>
+                <p>Engine: 5.7L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMGTP</p>
+                <p>Designed by Gerhard Ungar from HWA division of AMG</p>
+                <p>First Event: 1999 Le Mans</p>
+                <p>Last Event: 1999 Le Mans</p>
+                <p>Evolution of the 1998 CLK-LM to suit the LMGTP class</p>
+                <Image
+                  src={MERCEDESBENZCLR}
+                  width={500}
+                  height={500}
+                  alt="Mercedes-Benz CLR"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Nissan</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Nissan R391</p>
+                <p>Engine: 5.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>
+                  Designed by Nigel Stroud & Doug Skinner from G-Force
+                  Technologies
+                </p>
+                <p>First Event: 1999 Le Mans</p>
+                <p>Last Event: 1999 Fuji</p>
+                <p>Developed for the LMP class to replace the R390 GT1 car</p>
+                <Image
+                  src={NISSANR391}
+                  width={500}
+                  height={500}
+                  alt="Nissan R391"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Porsche</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Porsche LMP2000</p>
+                <p>Engine: 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>
+                  Designed by Wiet Huidekoper and Norbert Singer for Porsche
+                </p>
+                <p>First Event: N/A</p>
+                <p>Last Event: N/A</p>
+                <p>
+                  The car was set to debut in 1999, but delayed until 2000 after
+                  a disagreement over the engine type. The car was ultimately
+                  scrapped in the spring of 1999 and never raced.
+                </p>
+                <Image
+                  src={PORSCHELMP2000}
+                  width={500}
+                  height={500}
+                  alt="Porsche LMP2000"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </div>
