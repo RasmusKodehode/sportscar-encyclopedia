@@ -28,3 +28,64 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+table,
+th,
+td {
+  border: solid black 1px;
+}
+
+th,
+td {
+  padding: 3px;
+}
+
+a {
+  text-decoration-line: underline;
+  color: var(--color-blue-600);
+  @media (hover: hover) {
+    color: var(--color-blue-800) /*#193cb8 */;
+  }
+}
+
+h1 {
+  font-size: var(--text-4xl) /* 2.25rem = 36px */;
+  line-height: var(
+    --tw-leading,
+    var(--text-4xl--line-height) /* calc(2.5 / 2.25) ≈ 1.111111 */
+  );
+  --tw-font-weight: var(--font-weight-extrabold) /* 800 */;
+  font-weight: var(--font-weight-extrabold) /* 800 */;
+  @property --tw-font-weight {
+    syntax: "*";
+    inherits: false;
+  }
+}
+
+h2 {
+  font-size: var(--text-3xl) /* 1.875rem = 30px */;
+  line-height: var(
+    --tw-leading,
+    var(--text-3xl--line-height) /* calc(2.25 / 1.875) ≈ 1.2 */
+  );
+  --tw-font-weight: var(--font-weight-bold) /* 700 */;
+  font-weight: var(--font-weight-bold) /* 700 */;
+  @property --tw-font-weight {
+    syntax: "*";
+    inherits: false;
+  }
+}
+
+h3 {
+  font-size: var(--text-2xl) /* 1.5rem = 24px */;
+  line-height: var(
+    --tw-leading,
+    var(--text-2xl--line-height) /* calc(2 / 1.5) ≈ 1.333333 */
+  );
+  --tw-font-weight: var(--font-weight-bold) /* 700 */;
+  font-weight: var(--font-weight-bold) /* 700 */;
+  @property --tw-font-weight {
+    syntax: "*";
+    inherits: false;
+  }
+}

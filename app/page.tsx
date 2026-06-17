@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
       <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start gap-10">
         <div className="flex flex-col gap-2">
-          <h1 className="text-4xl font-extrabold">
+          <h1>
             Welcome to the sportscar encyclopedia!
           </h1>
           <p>
@@ -26,9 +26,9 @@ export default function Home() {
           </p>
         </div>
         <div className="flex flex-col gap-3">
-          <h2 className="text-3xl font-bold">FAQ</h2>
+          <h2>FAQ</h2>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">Why 1999?</h3>
+            <h3>Why 1999?</h3>
             <p>
               1999 marked the start of the modern Le Mans Prototype, after
               several years of different formulas and classes since the end of
@@ -38,7 +38,7 @@ export default function Home() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">What is a sportscar?</h3>
+            <h3>What is a sportscar?</h3>
             <p>
               A sportscar is a closed-wheel racing car, traditionally based on
               road-going cars with 2 seats. Over time the top class evolved to
@@ -47,7 +47,7 @@ export default function Home() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">What is a Le Mans Prototype?</h3>
+            <h3>What is a Le Mans Prototype?</h3>
             <p>
               A Le Mans Prototype (LMP) is a specially built racing car to a set
               of regulations which has been in existance since the 1990s. This

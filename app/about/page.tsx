@@ -5,7 +5,7 @@ export default function About() {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
       <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start">
         <div className="flex flex-col gap-2">
-          <h1 className="text-4xl font-extrabold">About this project</h1>
+          <h1>About this project</h1>
           <p>
             This project started in the summer of 2022 as a byproduct of
             excitement of the prospect of the amount of new cars announced for

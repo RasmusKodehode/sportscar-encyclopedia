@@ -5,9 +5,9 @@ export default function YearByYear() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
       <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start gap-7">
-        <h1 className="text-4xl font-extrabold">Year By Year</h1>
+        <h1>Year By Year</h1>
         <div className="flex flex-col gap-2">
-          <h2 className="text-3xl font-bold">Overview</h2>
+          <h2>Overview</h2>
           <p>
             As Group C died out in the early 90s, leading to the end of the
             World Sportscar Championship at the end of 1992 and the GTP class
@@ -65,7 +65,6 @@ export default function YearByYear() {
               href="https://web.archive.org/web/19991126085346/http://www.americanlemans.com/pages/news99/quotes981105.html"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline text-blue-600 hover:text-blue-800"
             >
               American Le Mans Series was launched in 1999
             </a>{" "}
@@ -76,9 +75,9 @@ export default function YearByYear() {
           </p>
         </div>
         <div className="flex flex-col gap-3">
-          <h2 className="text-3xl font-bold">FAQ</h2>
+          <h2>FAQ</h2>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">Which series are included?</h3>
+            <h3>Which series are included?</h3>
             <p>
               In general, the championships considered are ACO-backed series
               including the top class of sportscar racing. In the early years
@@ -96,7 +95,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">
+            <h3>
               Which series aren't included?
             </h3>
             <p>
@@ -113,7 +112,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">
+            <h3>
               Are there other events included?
             </h3>
             <p>
