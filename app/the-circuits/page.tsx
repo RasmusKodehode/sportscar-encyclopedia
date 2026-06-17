@@ -1,11 +1,12 @@
 import Image from "next/image";
 
-export default function Citcuits() {
+export default function Circuits() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start">
+      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-8">
+        <h1>The Circuits</h1>
         <div className="flex flex-col gap-2">
-          <h1>The Circuits</h1>
+          <h2>Overview</h2>
           <p>
             This is a list of all circuits to have featured on the calendar for
             sportscar racing, both ALMS and its short lived sister series,
@@ -24,6 +25,117 @@ export default function Citcuits() {
             average times in qualifying the lap record is the single fastest
             lap.
           </p>
+        </div>
+        <div className="flex flex-col gap-8 w-full">
+          <h2>List of Circuits and Layouts</h2>
+          <div className="flex flex-col gap-1">
+            <h3>Sebring International Raceway, Sebring, Florida</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 6.019 km</p>
+                <p>Races Hosted: 15 (1999-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.43,195 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Road Atlanta, Braselton, Georgia</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.088 km</p>
+                <p>Races Hosted: 18 (1999-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.06,242 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit de la Sarthe, Le Mans, France</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Circuit des 24 Heures (1999-2001)</p>
+                <p>Circuit Length: 12.605 km</p>
+                <p>Races Hosted: 3 (1999-2001)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 3.29,930 (1999)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Mosport Park, Bowmanville, Ontario</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.957 km</p>
+                <p>Races Hosted: 15 (1999-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.04,094 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Sonoma Raceway, Sonoma, California</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Sports Car Course</p>
+                <p>Circuit Length: 4.056 km</p>
+                <p>Races Hosted: 3 (1999-2001)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.20,683 (2000)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Portland International Raceway, Portland, Oregon</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.129 km</p>
+                <p>Races Hosted: 4 (1999-2001, 2004)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.04,121 (2001)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Laguna Seca Raceway, Monterey, California</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.602 km</p>
+                <p>Races Hosted: 15 (1999-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.10,103 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Fuji International Speedway, Oyama, Japan</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix 90s</p>
+                <p>Circuit Length: 4.469 km</p>
+                <p>Races Hosted: 1 (1999)</p>
+                <p>Races Cancelled: 1 (2000)</p>
+                <p>Lap Record: 1.16,349 (1999)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Las Vegas Motor Speedway, Las Vegas, Nevada</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Road Course</p>
+                <p>Circuit Length: 3.621 km</p>
+                <p>Races Hosted: 2 (1999-2000)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.06,628 (2000)</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </div>
