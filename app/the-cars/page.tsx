@@ -8,6 +8,10 @@ import MERCEDESBENZCLR from "../../public/MERCEDESBENZCLR.jpg";
 import TOYOTAGTONE from "../../public/TOYOTAGT-ONE.jpg";
 import NISSANR391 from "../../public/NISSANR391.jpeg";
 import PORSCHELMP2000 from "../../public/PORSCHELMP2000.jpg";
+import AUDIR8 from "../../public/AUDIR8.jpg";
+import PANOZLMP07 from "../../public/PANOZLMP07.jpg";
+import CADILLACNORTHSTARLMP from "../../public/CADILLACNORTHSTARLMP.jpeg";
+import ASCARIA410 from "../../public/ASCARIA410.jpg";
 
 export default function Cars() {
   return (
@@ -147,6 +151,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Audi R8</p>
+                <p>Engine: 3.6L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>
+                  Designed by Michael Pfadenhauer & Wolfgang Appel, built by
+                  Dallara
+                </p>
+                <p>First Event: 2000 Sebring</p>
+                <p>Last Event: 2006 Lime Rock</p>
+                <p>Evolution of the R8R</p>
+                <Image
+                  src={AUDIR8}
+                  width={500}
+                  height={500}
+                  alt="Audi R8"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -167,6 +190,26 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Panoz LMP-1 Roadster-S"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Panoz LMP07</p>
+                <p>Engine: Zytek 4.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Andy Thorby from Elan Motorsport Technologies</p>
+                <p>First Event: 2000 Adelaide</p>
+                <p>Last Event: 2001 Le Mans</p>
+                <p>
+                  The engine was brand new and specifically built by Zytek for
+                  this car. It was plagued by technical and mechanical issues,
+                  and it was abandoned after Le Mans
+                </p>
+                <Image
+                  src={PANOZLMP07}
+                  width={500}
+                  height={500}
+                  alt="Panoz LMP07"
                   className="w-72"
                 />
               </li>
@@ -260,6 +303,51 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Porsche LMP2000"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Cadillac</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Cadillac Northstar LMP</p>
+                <p>Engine: 4.0L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Riley & Scott for Cadillac</p>
+                <p>First Event: 2000 Sebring</p>
+                <p>Last Event: 2000 Adelaide</p>
+                <p>Run by Cadillac in ALMS and DAMS in Europe</p>
+                <Image
+                  src={CADILLACNORTHSTARLMP}
+                  width={500}
+                  height={500}
+                  alt="Cadillac Northstar LMP"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Ascari Cars</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Ascari A410</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by John McNeil</p>
+                <p>First Event: 2000 Silverstone</p>
+                <p>Last Event: 2002 Le Mans</p>
+                <p>
+                  Heavily based on the Lola T92/10 Group C car, renamed Ascari
+                  KZR-1 from 2002 onwards.
+                </p>
+                <Image
+                  src={ASCARIA410}
+                  width={500}
+                  height={500}
+                  alt="Ascari A410"
                   className="w-72"
                 />
               </li>
