@@ -95,9 +95,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3>
-              Which series aren't included?
-            </h3>
+            <h3>Which series aren't included?</h3>
             <p>
               In the early 2000's the FIA Sportscar championship included
               LMP-spec cars in the top class, however it also contained cars
@@ -112,9 +110,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3>
-              Are there other events included?
-            </h3>
+            <h3>Are there other events included?</h3>
             <p>
               After the demise of the World Sportscar Championship in 1992 Le
               Mans ran as a non-championship event for many years. As part of
@@ -125,11 +121,14 @@ export default function YearByYear() {
             </p>
           </div>
         </div>
-        <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-3 w-full">
           <h2 className="text-3xl font-bold">Year by Year</h2>
           <ul>
             <li>
-              <Link href="/year-by-year/1999" className="underline hover:text-blue-800">1999</Link>
+              <Link href="/year-by-year/1999">1999</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2000">2000</Link>
             </li>
           </ul>
         </div>
