@@ -136,6 +136,78 @@ export default function Circuits() {
               </li>
             </ul>
           </div>
+          <div className="flex flex-col gap-1">
+            <h3>San Diego Street Circuit, San Diego, California</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 1999/2000 ALMS version</p>
+                <p>Circuit Length: 2.462 km</p>
+                <p>Races Hosted: 0</p>
+                <p>Races Cancelled: 1 (2000)</p>
+                <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Charlotte Motor Speedway, Concord, North Carolina</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Road Course</p>
+                <p>Circuit Length: 3.621 km</p>
+                <p>Races Hosted: 1 (2000)</p>
+                <p>Races Cancelled: 1 (2001)</p>
+                <p>Lap Record: 1.04,096 (2000)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Silverstone Circuit, Silverstone, Great Britain</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Bridge Grand Prix Circuit</p>
+                <p>Circuit Length: 5.141 km</p>
+                <p>Races Hosted: 6 (2000, 2004-2005, 2007-2009)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.30,359 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Nürburgring, Nürburg, Germany</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Original Grand Prix Strecke</p>
+                <p>Circuit Length: 4.556 km</p>
+                <p>Races Hosted: 1 (2000)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.27,938 (2000)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Texas Motor Speedway, Fort Worth, Texas</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Road Course</p>
+                <p>Circuit Length: 3.740 km</p>
+                <p>Races Hosted: 2 (2000-2001)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.12,716 (2000)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Adelaide Street Circuit, Adelaide, Australia</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: F1 Grand Prix Circuit</p>
+                <p>Circuit Length: 3.780 km</p>
+                <p>Races Hosted: 1 (2000)</p>
+                <p>Races Cancelled: 1 (2001)</p>
+                <p>Lap Record: 1.23,804 (2000)</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </div>
