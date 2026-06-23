@@ -208,6 +208,118 @@ export default function Circuits() {
               </li>
             </ul>
           </div>
+          <div className="flex flex-col gap-1">
+            <h3>Donington Park, Leicestershire, Great Britain</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.020 km</p>
+                <p>Races Hosted: 2 (2001, 2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.20,756 (2006)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>
+              Circuito Permanente del Jarama, San Sebastian de los Reyes, Spain
+            </h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.850 km</p>
+                <p>Races Hosted: 2 (2001, 2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.22,285 (2001)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodromo Fernanda Pires da Silva, Estoril, Portugal</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.182 km</p>
+                <p>Races Hosted: 2 (2001, 2011)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.28,876 (2001)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Salzburgring, Plainfeld, Austria</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.241 km</p>
+                <p>Races Hosted: 0</p>
+                <p>Races Cancelled: 1 (2001)</p>
+                <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodrom Most, Most, Czech Republic</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.149 km</p>
+                <p>Races Hosted: 1 (2001)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.18,110 (2001)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit Mont-Tremblant, Mont-Tremblant, Quebec</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.260 km</p>
+                <p>Races Hosted: 0</p>
+                <p>Races Cancelled: 1 (2001)</p>
+                <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Mid-Ohio Sports Car Course, Lexington, Ohio</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.634 km</p>
+                <p>Races Hosted: 11 (2001-2002, 2004-2012)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.07,969 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>
+              Autodromo di Vallelunga Piero Taruffi, Campagnano di Roma, Italy
+            </h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix Short</p>
+                <p>Circuit Length: 3.222 km</p>
+                <p>Races Hosted: 1 (2001)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.06,987 (2001)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Sepang International Circuit, Kuala Lumpur, Malaysia</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 5.543 km</p>
+                <p>Races Hosted: 0</p>
+                <p>Races Cancelled: 2 (2001-2002)</p>
+                <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </div>
