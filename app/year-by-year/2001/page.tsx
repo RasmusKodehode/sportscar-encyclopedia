@@ -4,7 +4,7 @@ export default function ZeroOne() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
       <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-8">
-        <h1>2000 Season</h1>
+        <h1>2001 Season</h1>
         <div className="flex flex-col gap-2">
           <h2>Series and Regulation News</h2>
           <ul>

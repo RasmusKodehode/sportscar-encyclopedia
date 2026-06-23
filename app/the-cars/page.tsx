@@ -12,6 +12,10 @@ import AUDIR8 from "../../public/AUDIR8.jpg";
 import PANOZLMP07 from "../../public/PANOZLMP07.jpg";
 import CADILLACNORTHSTARLMP from "../../public/CADILLACNORTHSTARLMP.jpeg";
 import ASCARIA410 from "../../public/ASCARIA410.jpg";
+import CADILLACNORTHSTARLMP01 from "../../public/CADILLACNORTHSTARLMP01.jpeg";
+import CHRYSLERLMP from "../../public/CHRYSLERLMP.jpg";
+import BENTLEYEXP from "../../public/BENTLEYEXPSpeed8.jpg";
+import MGLOLA from "../../public/MGLOLAEX257.jpeg";
 
 export default function Cars() {
   return (
@@ -327,6 +331,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Cadillac Northstar LMP01</p>
+                <p>Engine: 4.0L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Riley & Scott and Nigel Stroud</p>
+                <p>First Event: 2001 Le Mans</p>
+                <p>Last Event: 2001 Petit Le Mans</p>
+                <p>
+                  2000 Riley chassis with new bodywork redesigned by Nigel
+                  Stroud
+                </p>
+                <Image
+                  src={CADILLACNORTHSTARLMP01}
+                  width={500}
+                  height={500}
+                  alt="Cadillac Northstar LMP01"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -348,6 +371,75 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Ascari A410"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Chrysler</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Chrysler LMP</p>
+                <p>Engine: Mopar 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Wiet Huidekoper for Dallara</p>
+                <p>First Event: 2001 Donington</p>
+                <p>Last Event: 2001 Le Mans</p>
+                <p>
+                  Built by Dallara with their experience with Audi, Chrysler
+                  took on the car into their factory program
+                </p>
+                <Image
+                  src={CHRYSLERLMP}
+                  width={500}
+                  height={500}
+                  alt="Chrysler LMP"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Bentley</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Bentley EXP Speed 8</p>
+                <p>Engine: Audi 3.6L/4.0L V8 Twin-turbo</p>
+                <p>Ruleset: LMPGTP</p>
+                <p>Designed by Peter Elleray from Racing Technology Norfolk</p>
+                <p>First Event: 2001 Le Mans</p>
+                <p>Last Event: 2002 Le Mans</p>
+                <p>
+                  Same engine as the Audi R8, but modified and expanded in 2002.
+                  Chassis was an evolution of the Audi R8C from 1999
+                </p>
+                <Image
+                  src={BENTLEYEXP}
+                  width={500}
+                  height={500}
+                  alt="Bentley EXP Speed 8"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>MG</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">MG-Lola EX257</p>
+                <p>Engine: AER 2.0L I4 Turbo</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Lola Cars for MG</p>
+                <p>First Event: 2001 Le Mans</p>
+                <p>Last Event: 2002 Le Mans</p>
+                <p>Developed for the new lightweight LMP675 class</p>
+                <Image
+                  src={MGLOLA}
+                  width={500}
+                  height={500}
+                  alt="MG-Lola EX257"
                   className="w-72"
                 />
               </li>
