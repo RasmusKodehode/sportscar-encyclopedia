@@ -57,10 +57,17 @@ export default function Circuits() {
             <ul className="flex flex-col gap-4">
               <li>
                 <p>Layout: Circuit des 24 Heures (1999-2001)</p>
-                <p>Circuit Length: 12.605 km</p>
+                <p>Circuit Length: 13.605 km</p>
                 <p>Races Hosted: 3 (1999-2001)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 3.29,930 (1999)</p>
+              </li>
+              <li>
+                <p>Layout: Circuit des 24 Heures (2002-2005)</p>
+                <p>Circuit Length: 13.650 km</p>
+                <p>Races Hosted: 4 (2002-2005)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 3.29,905 (2002)</p>
               </li>
             </ul>
           </div>
@@ -85,6 +92,13 @@ export default function Circuits() {
                 <p>Races Hosted: 3 (1999-2001)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.20,683 (2000)</p>
+              </li>
+              <li>
+                <p>Layout: Extended Sports Car Course</p>
+                <p>Circuit Length: 4.072 km</p>
+                <p>Races Hosted: 4 (2002-2005)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.21,688 (2005)</p>
               </li>
             </ul>
           </div>
@@ -317,6 +331,54 @@ export default function Circuits() {
                 <p>Races Hosted: 0</p>
                 <p>Races Cancelled: 2 (2001-2002)</p>
                 <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Road America, Elkhart Lake, Wisconsin</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 6.477 km</p>
+                <p>Races Hosted: 12 (2002-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.46,935 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>RFK Memorial Stadium Circuit, Washington D.C.</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 2.673 km</p>
+                <p>Races Hosted: 1 (2002)</p>
+                <p>Races Cancelled: 1 (2003)</p>
+                <p>Lap Record: 1.03,287 (2002)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit Trois-Rivieres, Trois-Rivieres, Quebec</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 2.448 km</p>
+                <p>Races Hosted: 2 (2002-2003)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 0.57,740 (2003)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Bayfront Park Street Circuit, Miami, Florida</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 2002-Version</p>
+                <p>Circuit Length: 2.232 km</p>
+                <p>Races Hosted: 1 (2002)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.03,873 (2002)</p>
               </li>
             </ul>
           </div>
