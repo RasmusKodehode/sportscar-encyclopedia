@@ -16,6 +16,10 @@ import CADILLACNORTHSTARLMP01 from "../../public/CADILLACNORTHSTARLMP01.jpeg";
 import CHRYSLERLMP from "../../public/CHRYSLERLMP.jpg";
 import BENTLEYEXP from "../../public/BENTLEYEXPSpeed8.jpg";
 import MGLOLA from "../../public/MGLOLAEX257.jpeg";
+import PANOZLMP01EVO from "../../public/PANOZLMP01EVO.jpg";
+import CADILLACNORTHSTARLMP02 from "../../public/CADILLACNORTHSTARLMP02.jpeg";
+import RILEYMK3C from "../../public/RILEY&SCOTTMK3C.jpg";
+import COURAGEC60 from "../../public/COURAGEC60.jpg";
 
 export default function Cars() {
   return (
@@ -217,6 +221,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Panoz LMP01 Evo</p>
+                <p>Engine: Elan 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Reynard Motorsport</p>
+                <p>First Event: 2002 Sebring</p>
+                <p>Last Event: 2002 Petit Le Mans</p>
+                <p>
+                  Modified and developed version of the LMP-1 Roadster-S to stay
+                  competitive after the failure of the LMP07
+                </p>
+                <Image
+                  src={PANOZLMP01EVO}
+                  width={500}
+                  height={500}
+                  alt="Panoz LMP01 Evo"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -350,6 +373,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Cadillac Northstar LMP02</p>
+                <p>Engine: 4.0L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Nigel Stroud</p>
+                <p>First Event: 2002 Sebring</p>
+                <p>Last Event: 2002 Petit Le Mans</p>
+                <p>
+                  After using a Riley & Scott-based chassis for the previous two
+                  years, Cadillac designed an all new chassis for 2002
+                </p>
+                <Image
+                  src={CADILLACNORTHSTARLMP02}
+                  width={500}
+                  height={500}
+                  alt="Cadillac Northstar LMP02"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -440,6 +482,51 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="MG-Lola EX257"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Riley & Scott</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Riley & Scott MK III C</p>
+                <p>Engine: Elan 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Bob and Bill Riley</p>
+                <p>First Event: 2002 Sebring</p>
+                <p>Last Event: 2003 Le Mans</p>
+                <p>
+                  Brand new version of the MK III following the ending of the
+                  Cadillac project
+                </p>
+                <Image
+                  src={RILEYMK3C}
+                  width={500}
+                  height={500}
+                  alt="Riley & Scott MK 3 C"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Courage Competition</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Courage C60</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2002 Le Mans</p>
+                <p>Last Event: 2003 Le Mans</p>
+                <p>New car for the LMP900 regs to replace the outgoing C52</p>
+                <Image
+                  src={COURAGEC60}
+                  width={500}
+                  height={500}
+                  alt="Courage C60"
                   className="w-72"
                 />
               </li>
