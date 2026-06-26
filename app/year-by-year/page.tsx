@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function YearByYear() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white gap-8">
+      <main className="flex flex-1 w-full flex-col items-center justify-start lg:py-12 lg:px-16 bg-white gap-8 py-4 px-6">
         <h1>Year By Year</h1>
         <div className="flex flex-col gap-2">
           <h2>Overview</h2>
