@@ -69,6 +69,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 3.29,905 (2002)</p>
               </li>
+              <li>
+                <p>Layout: Bugatti Circuit (2002-2005)</p>
+                <p>Circuit Length: 4.180 km</p>
+                <p>Races Hosted: 1 (2003)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.27,775 (2003)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -379,6 +386,25 @@ export default function Circuits() {
                 <p>Races Hosted: 1 (2002)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.03,873 (2002)</p>
+              </li>
+              <li>
+                <p>Layout: 2003-Version</p>
+                <p>Circuit Length: 1.851 km</p>
+                <p>Races Hosted: 1 (2003)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 0.47,848 (2003)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodromo Hermanos Rodriguez, Mexico City, Mexico</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 2002-2003 CART version</p>
+                <p>Circuit Length: 4.484 km</p>
+                <p>Races Hosted: 0</p>
+                <p>Races Cancelled: 1 (2003)</p>
+                <p>Lap Record: N/A</p>
               </li>
             </ul>
           </div>
