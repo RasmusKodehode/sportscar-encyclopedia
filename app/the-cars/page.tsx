@@ -20,6 +20,10 @@ import PANOZLMP01EVO from "../../public/PANOZLMP01EVO.jpg";
 import CADILLACNORTHSTARLMP02 from "../../public/CADILLACNORTHSTARLMP02.jpeg";
 import RILEYMK3C from "../../public/RILEY&SCOTTMK3C.jpg";
 import COURAGEC60 from "../../public/COURAGEC60.jpg";
+import PANOZLMP01 from "../../public/PANOZLMP01.jpg";
+import BENTLEYSPEED8 from "../../public/BENTLEYSpeed8.jpg";
+import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
+import DURANGO from "../../public/DURANGOPM02.jpg";
 
 export default function Cars() {
   return (
@@ -237,6 +241,25 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Panoz LMP01 Evo"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Panoz LMP01</p>
+                <p>Engine: Elan 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Reynard Motorsport</p>
+                <p>First Event: 2003 Sebring</p>
+                <p>Last Event: 2003 Petit Le Mans</p>
+                <p>
+                  Rebranded version of the LMP-1 Roadster-S run by the factory
+                  supported JML Team Panoz in 2003
+                </p>
+                <Image
+                  src={PANOZLMP01}
+                  width={500}
+                  height={500}
+                  alt="Panoz LMP01"
                   className="w-72"
                 />
               </li>
@@ -464,6 +487,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Bentley Speed 8</p>
+                <p>Engine: Audi 3.6L/4.0L V8 Twin-turbo</p>
+                <p>Ruleset: LMPGTP</p>
+                <p>Designed by Peter Elleray from Racing Technology Norfolk</p>
+                <p>First Event: 2003 Sebring</p>
+                <p>Last Event: 2003 Le Mans</p>
+                <p>
+                  New car evolved from the EXP Speed 8 to better suit the
+                  increased capacity engine
+                </p>
+                <Image
+                  src={BENTLEYSPEED8}
+                  width={500}
+                  height={500}
+                  alt="Bentley Speed 8"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -527,6 +569,54 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Courage C60"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Lister Motor Company</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Lister Storm LMP</p>
+                <p>Engine: Chevrolet 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Andy Thorby</p>
+                <p>First Event: 2004 Le Mans</p>
+                <p>Last Event: 2005 Spa</p>
+                <p>
+                  Originally planned to use a Judd V10 but a Chevy V8 was
+                  selected instead
+                </p>
+                <Image
+                  src={LISTERSTORM}
+                  width={500}
+                  height={500}
+                  alt="Lister Storm LMP"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Automotive Durango</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Durango PM02</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Someone, Maybe GMS?</p>
+                <p>First Event: 2003 Le Mans</p>
+                <p>Last Event: 2003 Le Mans</p>
+                <p>
+                  New car to improve on the GMS Durango LMP1 from the previous 3
+                  years
+                </p>
+                <Image
+                  src={DURANGO}
+                  width={500}
+                  height={500}
+                  alt="Durango PM02"
                   className="w-72"
                 />
               </li>
