@@ -203,6 +203,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.27,938 (2000)</p>
               </li>
+              <li>
+                <p>Layout: Grand Prix Strecke w/o F1 chicane</p>
+                <p>Circuit Length: 5.137 km</p>
+                <p>Races Hosted: 7 (2004-2009, 2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.36,192 (2015)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -405,6 +412,42 @@ export default function Circuits() {
                 <p>Races Hosted: 0</p>
                 <p>Races Cancelled: 1 (2003)</p>
                 <p>Lap Record: N/A</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodromo Nazionale di Monza, Monza, Italy</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 5.793 km</p>
+                <p>Races Hosted: 4 (2004-2005, 2007-2008)</p>
+                <p>Races Cancelled: 1 (2006)</p>
+                <p>Lap Record: 1.31,470 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Lime Rock Park, Lakeville, Connecticut</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Original Circuit with old chicane</p>
+                <p>Circuit Length: 2.478 km</p>
+                <p>Races Hosted: 4 (2004-2007)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 0.44,659 (2007)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit de Spa-Francorchamps, Stavelot, Belgium</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Endurance (2004-2006)</p>
+                <p>Circuit Length: 6.976 km</p>
+                <p>Races Hosted: 3 (2004-2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 2.05,964 (2004)</p>
               </li>
             </ul>
           </div>
