@@ -953,6 +953,7 @@ export default function ZeroThree() {
               <a
                 href="https://web.archive.org/web/20030429193432/http:/www.imsaracing.net/imsa.cfm?h=/2003/news/header.htm&p=/2003/news/031303t.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Both Bentleys excluded from Sebring qualifying
               </a>
@@ -961,6 +962,7 @@ export default function ZeroThree() {
               <a
                 href="https://web.archive.org/web/20031117033216/http:/www.imsaracing.net/imsaNS.cfm?h=/2003/news/header.htm&p=/2003/news/6-282003164513ALMS.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Road Atlanta qualifying rained out
               </a>
