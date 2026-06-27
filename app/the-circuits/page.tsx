@@ -119,6 +119,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.04,121 (2001)</p>
               </li>
+              <li>
+                <p>Layout: Grand Prix w/ paved chicane runoff</p>
+                <p>Circuit Length: 3.161 km</p>
+                <p>Races Hosted: 2 (2005-2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.02,712 (2005)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -448,6 +455,18 @@ export default function Circuits() {
                 <p>Races Hosted: 3 (2004-2006)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 2.05,964 (2004)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Intercity Istanbul Park, Istanbul, Turkey</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 5.338 km</p>
+                <p>Races Hosted: 2 (2005-2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.39,359 (2005)</p>
               </li>
             </ul>
           </div>
