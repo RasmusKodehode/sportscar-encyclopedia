@@ -24,6 +24,8 @@ import PANOZLMP01 from "../../public/PANOZLMP01.jpg";
 import BENTLEYSPEED8 from "../../public/BENTLEYSpeed8.jpg";
 import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
 import DURANGO from "../../public/DURANGOPM02.jpg";
+import ZYTEK04 from "../../public/ZYTEK04S.jpg";
+import PESCAROLOC60 from "../../public/PESCAROLOC60.jpg";
 
 export default function Cars() {
   return (
@@ -617,6 +619,59 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Durango PM02"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Zytek</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Zytek 04S</p>
+                <p>Engine: 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Reynard Motorsport</p>
+                <p>First Event: 2004 Monza</p>
+                <p>Last Event: 2005 Istanbul</p>
+                <p>
+                  Initially developed for LMP675 in 2002 before Reynard went
+                  bankrupt, IRM renamed it the DBA 03S and raced it in 2003,
+                  with Zytek taking over production in 2004
+                </p>
+                <Image
+                  src={ZYTEK04}
+                  width={500}
+                  height={500}
+                  alt="Zytek 04S"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Pescarolo Sport</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Pescarolo C60</p>
+                <p>Engine: Judd 5.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>
+                  Designed by Andre de Cortanze, further developed by Henri
+                  Pescarolo
+                </p>
+                <p>First Event: 2004 Monza</p>
+                <p>Last Event: 2004 Spa</p>
+                <p>
+                  Pescarolo took the Courage C60 Evo from 2003 and developed it
+                  on their own, badging it as the Pescarolo C60 and replacing
+                  the Peugeot engine with the latest Judd GV5 V10
+                </p>
+                <Image
+                  src={PESCAROLOC60}
+                  width={500}
+                  height={500}
+                  alt="Pescarolo C60"
                   className="w-72"
                 />
               </li>
