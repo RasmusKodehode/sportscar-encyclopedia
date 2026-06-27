@@ -26,6 +26,10 @@ import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
 import DURANGO from "../../public/DURANGOPM02.jpg";
 import ZYTEK04 from "../../public/ZYTEK04S.jpg";
 import PESCAROLOC60 from "../../public/PESCAROLOC60.jpg";
+import PORSCHERSSPYDER from "../../public/PORSCHERSSpyder.jpg";
+import COURAGEHYBRID from "../../public/COURAGEC60Hybrid.jpg";
+import LISTERHYBRID from "../../public/LISTERSTORMLMPHybrid.jpg";
+import PESCAROLOHYBRID from "../../public/PESCAROLOC60Hybrid.jpg";
 
 export default function Cars() {
   return (
@@ -358,6 +362,24 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Porsche RS Spyder</p>
+                <p>Engine: 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP2 (2004-2008)</p>
+                <p>
+                  Designed by Michael Mauer and Michael Pfadenhauer for Porsche
+                </p>
+                <p>First Event: 2005 Laguna Seca</p>
+                <p>Last Event: 2006 Laguna Seca</p>
+                <p>Raced by Penske Motorsport as a factory team in ALMS</p>
+                <Image
+                  src={PORSCHERSSPYDER}
+                  width={500}
+                  height={500}
+                  alt="Porsche RS Spyder"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -574,6 +596,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Courage C60 Hybrid</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2005 Spa</p>
+                <p>Last Event: 2005 Istanbul</p>
+                <p>Upgraded C60 for the hybrid regulations</p>
+                <Image
+                  src={COURAGEHYBRID}
+                  width={500}
+                  height={500}
+                  alt="Courage C60 Hybrid"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -595,6 +633,25 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Lister Storm LMP"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Lister Storm LMP Hybrid</p>
+                <p>Engine: Chevrolet 6.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>Designed by Andy Thorby</p>
+                <p>First Event: 2005 Silverstone</p>
+                <p>Last Event: 2006 Donington</p>
+                <p>
+                  New bodywork and updated aero to fit the new hybrid
+                  regulations
+                </p>
+                <Image
+                  src={LISTERHYBRID}
+                  width={500}
+                  height={500}
+                  alt="Lister Storm LMP Hybrid"
                   className="w-72"
                 />
               </li>
@@ -672,6 +729,28 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Pescarolo C60"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Pescarolo C60 Hybrid</p>
+                <p>Engine: Judd 5.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>
+                  Designed by Andre de Cortanze, further developed by Henri
+                  Pescarolo
+                </p>
+                <p>First Event: 2005 Spa</p>
+                <p>Last Event: 2006 Jarama</p>
+                <p>
+                  Updated version of the C60 to fit the new Hybrid transition
+                  regulations between LMP900 and LMP1
+                </p>
+                <Image
+                  src={PESCAROLOHYBRID}
+                  width={500}
+                  height={500}
+                  alt="Pescarolo C60 Hybrid"
                   className="w-72"
                 />
               </li>
