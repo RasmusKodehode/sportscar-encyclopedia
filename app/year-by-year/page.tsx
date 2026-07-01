@@ -1,12 +1,13 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function YearByYear() {
   return (
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
-      <main className="flex flex-1 w-full flex-col items-center justify-start py-12 px-16 bg-white sm:items-start gap-7">
-        <h1 className="text-4xl font-extrabold">Year By Year</h1>
+      <main className="flex flex-1 w-full flex-col items-center justify-start lg:py-12 lg:px-16 bg-white gap-8 py-4 px-6">
+        <h1>Year By Year</h1>
         <div className="flex flex-col gap-2">
-          <h2 className="text-3xl font-bold">Overview</h2>
+          <h2>Overview</h2>
           <p>
             As Group C died out in the early 90s, leading to the end of the
             World Sportscar Championship at the end of 1992 and the GTP class
@@ -64,7 +65,6 @@ export default function YearByYear() {
               href="https://web.archive.org/web/19991126085346/http://www.americanlemans.com/pages/news99/quotes981105.html"
               target="_blank"
               rel="noopener noreferrer"
-              className="underline text-blue-600 hover:text-blue-800"
             >
               American Le Mans Series was launched in 1999
             </a>{" "}
@@ -75,9 +75,9 @@ export default function YearByYear() {
           </p>
         </div>
         <div className="flex flex-col gap-3">
-          <h2 className="text-3xl font-bold">FAQ</h2>
+          <h2>FAQ</h2>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">Which series are included?</h3>
+            <h3>Which series are included?</h3>
             <p>
               In general, the championships considered are ACO-backed series
               including the top class of sportscar racing. In the early years
@@ -95,9 +95,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">
-              Which series aren't included?
-            </h3>
+            <h3>Which series aren't included?</h3>
             <p>
               In the early 2000's the FIA Sportscar championship included
               LMP-spec cars in the top class, however it also contained cars
@@ -112,9 +110,7 @@ export default function YearByYear() {
             </p>
           </div>
           <div className="flex flex-col gap-2">
-            <h3 className="text-2xl font-bold">
-              Are there other events included?
-            </h3>
+            <h3>Are there other events included?</h3>
             <p>
               After the demise of the World Sportscar Championship in 1992 Le
               Mans ran as a non-championship event for many years. As part of
@@ -124,6 +120,35 @@ export default function YearByYear() {
               have also been included.
             </p>
           </div>
+        </div>
+        <div className="flex flex-col gap-3 w-full">
+          <h2 className="text-3xl font-bold">Year by Year</h2>
+          <ul>
+            <li>
+              <Link href="/year-by-year/1999">1999</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2000">2000</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2001">2001</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2002">2002</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2003">2003</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2004">2004</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2005">2005</Link>
+            </li>
+            <li>
+              <Link href="/year-by-year/2006">2006</Link>
+            </li>
+          </ul>
         </div>
       </main>
     </div>
