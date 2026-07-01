@@ -30,6 +30,11 @@ import PORSCHERSSPYDER from "../../public/PORSCHERSSpyder.jpg";
 import COURAGEHYBRID from "../../public/COURAGEC60Hybrid.jpg";
 import LISTERHYBRID from "../../public/LISTERSTORMLMPHybrid.jpg";
 import PESCAROLOHYBRID from "../../public/PESCAROLOC60Hybrid.jpg";
+import AUDIR10 from "../../public/AUDIR10TDI.jpg";
+import COURAGELC70 from "../../public/COURAGELC70.jpg";
+import ZYTEK06 from "../../public/ZYTEK06S.jpg";
+import CREATIONHYBRID from "../../public/CREATIONCA06H.jpg";
+import LAVAGGI from "../../public/LAVAGGILS1.jpg";
 
 export default function Cars() {
   return (
@@ -185,6 +190,25 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Audi R8"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R10 TDI</p>
+                <p>Engine: 5.5L V12 Twin-turbo Diesel</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Wolfgang Appel and Ulrich Baretzky for Audi</p>
+                <p>First Event: 2006 Sebring</p>
+                <p>Last Event: 2008 Laguna Seca</p>
+                <p>
+                  Designed to replace the ageing R8, with a revolutionary diesel
+                  powerplant
+                </p>
+                <Image
+                  src={AUDIR10}
+                  width={500}
+                  height={500}
+                  alt="Audi R10 TDI"
                   className="w-72"
                 />
               </li>
@@ -612,6 +636,27 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Courage LC70</p>
+                <p>
+                  Engine: Mugen 4.5L V8 Naturally Aspirated/AER 3.6L V8 Turbo
+                </p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2006 Istanbul</p>
+                <p>Last Event: 2007 Silverstone</p>
+                <p>
+                  New car for the new LMP1 regulations, also developed into the
+                  LC75 for LMP2
+                </p>
+                <Image
+                  src={COURAGELC70}
+                  width={500}
+                  height={500}
+                  alt="Courage LC70"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -704,6 +749,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Zytek 06S</p>
+                <p>Engine: 4.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>
+                  Originally designed by Reynard, then bought by IRM before
+                  being taken over by Zytek
+                </p>
+                <p>First Event: 2006 Spa</p>
+                <p>Last Event: 2006 Laguna Seca</p>
+                <p>Evolution to fit the Hybrid regulations in 2006</p>
+                <Image
+                  src={ZYTEK06}
+                  width={500}
+                  height={500}
+                  alt="Zytek 06S"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -751,6 +815,60 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Pescarolo C60 Hybrid"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Creation Autosportif</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Creation CA06/H</p>
+                <p>Engine: Judd 5.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>
+                  Originally designed by Reynard before being bought by IRM and
+                  later modified by KWM
+                </p>
+                <p>First Event: 2006 Istanbul</p>
+                <p>Last Event: 2006 Laguna Seca</p>
+                <p>
+                  Updated version of Creation's DBA 03S which the team bought
+                  when Zytek took over production
+                </p>
+                <Image
+                  src={CREATIONHYBRID}
+                  width={500}
+                  height={500}
+                  alt="Creation CA06 H"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Scuderia Lavaggi</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Lavaggi LS1</p>
+                <p>
+                  Engine: Ford 6.0L V8 Naturally Aspirated/AER 4.0L V8
+                  Twin-turbo
+                </p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Giovanni Lavaggi</p>
+                <p>First Event: 2006 Jarama</p>
+                <p>Last Event: 2009 Nurburgring</p>
+                <p>
+                  Lavaggi dreamt of being a driver-constructor, building the car
+                  and operating the team himself on a small budget
+                </p>
+                <Image
+                  src={LAVAGGI}
+                  width={500}
+                  height={500}
+                  alt="Lavaggi LS1"
                   className="w-72"
                 />
               </li>
