@@ -70,6 +70,13 @@ export default function Circuits() {
                 <p>Lap Record: 3.29,905 (2002)</p>
               </li>
               <li>
+                <p>Layout: Circuit des 24 Heures (2006)</p>
+                <p>Circuit Length: 13.650 km</p>
+                <p>Races Hosted: 1 (2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 3.30,466 (2006)</p>
+              </li>
+              <li>
                 <p>Layout: Bugatti Circuit (2002-2005)</p>
                 <p>Circuit Length: 4.180 km</p>
                 <p>Races Hosted: 1 (2003)</p>
@@ -467,6 +474,30 @@ export default function Circuits() {
                 <p>Races Hosted: 2 (2005-2006)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.39,359 (2005)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Reliant Park Street Circuit, Houston, Texas</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Indycar layout with temporary T1 chicane</p>
+                <p>Circuit Length: 2.720 km</p>
+                <p>Races Hosted: 1 (2006)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.04,459 (2006)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Miller Motorsports Park, Grantsville, Utah</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Full Circuit</p>
+                <p>Circuit Length: 7.220 km</p>
+                <p>Races Hosted: 2 (2006-2007)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 2.18,128 (2007)</p>
               </li>
             </ul>
           </div>
