@@ -35,7 +35,8 @@ export default function ZeroZero() {
               >
                 added as the season opener
               </a>{" "}
-              in 2000. Three overseas races were also included on the calendar,
+              in 2000, and its original slot was again taken by Las egas Motor
+              Speedway. Three overseas races were also included on the calendar,
               two of them later revealed to be{" "}
               <a
                 href="https://web.archive.org/web/20000303110252/http://www.americanlemans.com/pages/news99/alms000114.html"
@@ -46,11 +47,21 @@ export default function ZeroZero() {
               </a>{" "}
               in Europe, and the Race of a Thousand Years on New Year's Eve in
               Adelaide, Australia. All three were set to launch separate Le Mans
-              Series' in 2001.
+              Series' in 2001. Another race in{" "}
+              <a
+                href="https://www.autosport.com/gt/news/race-schedule-for-2000-5044931/5044931/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Asia was also planned in August
+              </a>
+              , but the event dropped of the calendar without a venue agreed on.
             </li>
             <li>
               Despite the luke warm interest at the 1000km event at Fuji, the
-              ACO scheduled another edition to give it another try.
+              ACO scheduled another edition to give it another try, once again
+              offering Le Mans entries to class winners hoping to attract more
+              local entries.
             </li>
           </ul>
         </div>
