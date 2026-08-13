@@ -61,37 +61,72 @@ export default function ZeroZero() {
               After the scary accidents suffered by the Mercedes' at Le Mans was
               found to be because of a fundamental aerodynamic instability of
               the car, the team withdrew from racing and the CLRs never raced
-              again.
+              again. Mercedes instead focused on its involvement in F1 with
+              McLaren, and in DTM.
             </li>
             <li>
-              Nissan and Toyota both also withdrew from sportscars at the end of
-              the year, with Toyota planning to enter F1.
+              Despite ending 1999 with a win at the Fuji 1000 km race and thus
+              earning an entry for Le Mans in 2000, Nissan leadership decided
+              that the sportscar project wasn't worth the investment in a time
+              of economic difficulty, and the program was shut down in the
+              beginning of 2000.
             </li>
             <li>
-              BMW entered F1 in 2000, thus the team didn't return to Le Mans for
-              2000. However Team Schnitzer continued racing the cars with
-              factory support for the full ALMS Season.
+              Toyota also withdrew from sportscars at the end of the year,
+              having shown potental but no wins with the GT-One. With the
+              WRC-program having also been axed at the end of 1999, Toyota Team
+              Europe turned its focus to F1, preparing for an entry in 2002.
             </li>
             <li>
-              After getting up to speed in 1999, Audi revealed the open cockpit
-              R8 derived from the R8R. The team planned a full season of ALMS,
-              but with the new cars going back to Europe to prepare for Le Mans,
-              the R8R was brought back to complete the events at Charlotte and
-              Silverstone. The closed cockpit R8C was found to be less
-              preferable to the open cockpit design, and thus shelved at the end
-              of the season.
+              The partnership between BMW and Williams continued, and after
+              winning Le Mans in 1999 BMW built a new engine to power the
+              Williams F1 cars in 2000. Development of the V12 LMR ceased, and
+              the team would not take up the automatic Le Mans entry for 2000.
+              Team Schnitzer would continue running the cars with factory
+              support, bringing 2 cars to the full ALMS season.
             </li>
             <li>
-              Cadillac joined with the new Northstar LMP with the chassis
-              designed and built by Riley & Scott, the car debuting in the
-              Grand-Am sanctioned 24h of Daytona. Riley & Scott operated the
-              cars as Team Cadillac in selected ALMS races, with french team
-              DAMS operating the cars in the Sports Racing World Cup.
+              With the experience gained from running both the open-cockpit R8Rs
+              and closed-cockpit R8Cs in 1999, Audi was forced to make a choice
+              of direction for 2000. With the R8R deemed to have a higher
+              potential ceiling the team went for a new open-cockpit car. The
+              new R8 retained the 3.6L engine from 1999, but a brand new car was
+              built around it. Appel and Pfadenhauer once again designed the new
+              car, and Dallara continued as constructor. Team Joest continued
+              operating the cars, bringing 2 new R8s for Sebring. However as the
+              new cars went back to Europe to prepare for Le Mans, two older
+              R8Rs completed the races at Charlotte and Silverstone, before the
+              R8s returned to complete the rest of the season following Le Mans.
+            </li>
+            <li>
+              The RTN-run R8Cs struggled both for pace and reliability, largely
+              due to the extremely short development timeline. With Audi opting
+              for a new open-cockpit for 2000 the R8Cs were shelved and wouldn't
+              return.
+            </li>
+            <li>
+              Cadillac joined with the new Northstar LMP. The car was designed
+              and built by Riley & Scott around a twin-turbo version of the
+              Northstar 4.0L V8. Riley & Scott operated the cars in North
+              America under the Team Cadillac banner, debuting the car in the
+              Grand-Am sanctioned 24h of Daytona before competing in a selection
+              of ALMS races. Cadillac also struck a deal with french team DAMS
+              to run two factory cars in the European Sports Racing World Cup.
+              For Le Mans a total of 4 Cadillacs were entered, 2 from Team
+              Cadillac and 2 from DAMS.
             </li>
             <li>
               Ascari launched the A410, competing at the European ALMS-rounds in
               addition to the Sports Racing World Cup, but the team debuted too
               late to get an entry for Le Mans.
+            </li>
+            <li>
+              Meanwhile Porsche continued development of the LMP2000 after
+              postponing the project to 2000. A new engine was needed, and the
+              team took a 5.5L V10 redeveloped from a 3.5L F1 engine originally
+              built in 1992. The new car completed a shakedown in November 1999,
+              but the project was cancelled before the car could make its
+              competitive debut.
             </li>
           </ul>
         </div>

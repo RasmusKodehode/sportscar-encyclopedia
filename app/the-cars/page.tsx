@@ -119,7 +119,10 @@ export default function Cars() {
                 <p className="font-bold">BMW V12 LMR</p>
                 <p>Engine: 6.0L V12 Naturally Aspirated</p>
                 <p>Ruleset: LMP900</p>
-                <p>Designed by Williams F1</p>
+                <p>
+                  Designed by Graham Humphrys and Williams Grand Prix
+                  Engineering
+                </p>
                 <p>First Event: 1999 Sebring</p>
                 <p>Last Event: 2000 Las Vegas</p>
                 <p>Evolution of the 1998 V12 LM</p>
@@ -159,7 +162,7 @@ export default function Cars() {
                 <p className="font-bold">Audi R8C</p>
                 <p>Engine: 3.6L V8 Twin-turbo</p>
                 <p>Ruleset: LMGTP</p>
-                <p>Designed by Peter Elleray from Racing Technology Norfolk</p>
+                <p>Designed by Peter Elleray and Tony Southgate from Racing Technology Norfolk</p>
                 <p>First Event: 1999 Le Mans</p>
                 <p>Last Event: 1999 Le Mans</p>
                 <p>

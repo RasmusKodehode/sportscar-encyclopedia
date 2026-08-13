@@ -9,8 +9,13 @@ export default function NinetyNine() {
           <h2>Series and Regulation News</h2>
           <ul>
             <li>
-              Following the class restructuring from the ACO, teams running in
-              the old LMGT1 class had a choice of class for 1999.
+              Following the controversies in 1998 the class structure was
+              revised. LM-P1 remained largely unchanged, and simply renamed LMP.
+              The LMGT1 class was replaced by Le Mans Grand Touring Prototype
+              (LMGTP), removing any homologation requirements for entries. Both
+              classes were aligned to run 90L fuel tanks and 900kg minimum
+              weight, but they were still differentiated with LMPs allowed to
+              run wider tyres than LMGTPs.
             </li>
             <li>
               For the inaugural season of the ALMS an{" "}
@@ -46,44 +51,92 @@ export default function NinetyNine() {
           <h2>Manufacturer News</h2>
           <ul>
             <li>
-              Mercedes took the CLK-LM and updated it to LMGTP regulations,
-              becoming the CLR.
+              After a tough Le Mans in 1998 where the CLK-LM proved fast but
+              unreliable Mercedes went into 1999 with a heavily updated car,
+              called the CLR. The new car took full advantage of the aero
+              regulations to maximise efficiency, combined with a new 5.7L
+              engine. The team tested intensely in the spring of 1999 ahead of a
+              3 car effort at Le Mans, but the team also planned to enter
+              selected ALMS races in the 2nd half of the season.
             </li>
             <li>
-              Toyota did the same, requiring only minor updates to their GT-One.
+              Toyota too arrived with an updated GT-One, having focused on
+              strengthening the gearbox after problems in 1998. Toyota Team
+              Europe continued operating the cars, bringing 3 cars to Le Mans as
+              well as 1 car to the Fuji race at the end of the season.
             </li>
             <li>
-              Nissan chose to modify the R390 to become the open-cockpit R391
-              for the LMP-class.
+              Nissan also returned for 1999, replacing the R390 GT1 with the
+              open-cockpit R391. The new car was built around a new 5.0L
+              naturally aspirated engine, compared to the smaller, turbocharged
+              unit in the R390. The design was done by G-Force Technologies in
+              the UK and included collaboration with Courage Competition. The
+              factory team went to Le Mans with 2 new R391s, as well as a
+              Nissan-engined Courage C52. Nissan would continue development over
+              the summer before bringing a single updated R391 to the Fuji 1000
+              km race at the end of the season.
             </li>
             <li>
-              Porsche started work on a new car for the LMP-class. The LMP2000
-              was initially supposed to debut in 1999, but discussions over
-              which engine to use delayed the project to 2000, and then it was
-              cancelled in the spring of 1999 due to internal politics.
+              After poor performance at Le Mans in 1998, BMW went into 1999 with
+              a major overhaul. Graham Humphrys came in as chief designer, with
+              Williams Grand Prix Engineering still in charge of construction.
+              The team discovered a loophole allowing them to reduce the size of
+              the roll hoop, reducing drag and improving downforce. Team
+              Schnitzer continued operating the cars, starting the season with 2
+              cars at Sebring. 3 cars were originally entered for Le Mans, but
+              following pre-qualifying in May, but only 2 was entered for the
+              race itself. The team would then go on to complete the rest of the
+              ALMS season with 2 cars.
             </li>
             <li>
-              BMW modified their V12 LM from 1998 built for the previous year's
-              LMP regulations into the V12 LMR to race in the new LMP class,
-              bringing the cars to Sebring for the ALMS season opener, and
-              competing in the remaining races after Le Mans.
-            </li>
-            <li>
-              Audi joined the sportscar scene with two newly developed cars, the
-              R8R for the LMP class, and the R8C for the LMGTP class. The R8R
-              was designed and built by Dallara in Italy and operated with the
-              help of Joest Racing, whereas the R8C was designed by Racing
-              Technology Norfolk in the UK and operated by Audi Sport Team
-              UK.Audi brought the R8R to Sebring as preparation for Le Mans, but
-              didn't compete in any other races that season. With the
-              developement of the R8C starting later, that car was only sent to
+              Audi was the big newcomer in 1999. Development of the LMP-spec R8R
+              started in mid-1997, based around a new 3.6L twin-turbo V8. Audi
+              partnered with Dallara for construction, and brought in Michael
+              Pfadenhauer and Wolfgang Appel to do the design. Joest Racing
+              operated the cars after running the Porsche LMPs in 1998, they
+              took 2 cars to Sebring, before a pair of refined R8Rs traveled to
               Le Mans.
             </li>
             <li>
-              Panoz also designed the new LMP-1 Roadster-S, a front-engined
-              open-cockpit LMP based on the old Esperante GTR-1. It debuted at
-              the second ALMS race at Road Atlanta and then completed the rest
-              of the season in addition to Le Mans.
+              When the LMGTP regulations were finalized in mid 1998 Audi decided
+              to develop a new closed-cockpit as well. The late publication of
+              the regulations meant development only starting in September 1998,
+              led by Racing Technology Norfolk. The R8C took the same basic
+              chassis and engine as the R8R, with Tony Southgate and Peter
+              Elleray working on the aero. The extermely tight timeline meant
+              testing only started in April 1999, 2 months before Le Mans, with
+              development continuing right up until race week including a new
+              untested gearbox mounted during race week. Operating the cars was
+              Audi Sport UK headed by Richard Lloyd, with the aim of running 2
+              cars for Le Mans.
+            </li>
+            <li>
+              Panoz also started development of a new car to replace the
+              Esperante GTR-1. An initial concept from designer Andy Thorby
+              featuring a mid/rear-engined LMGTP-class car was binned in
+              December of 1998, instead the team turned to the constructor of
+              the Esperante GTR-1, Reynard Motorsport, to rework the car into an
+              open-cockpit LMP. The team spent time in the Jordan wind tunnel to
+              sort out the aero, and the 6.0L engine from the previous car was
+              retained. While the new car was under development the team started
+              the season with 2 older Esperantes at Sebring, before the first
+              LMP-1 Roadster-S debuted at the 2nd round at Road Atlanta. A 2nd
+              car was completed in time for Le Mans, with the team then going on
+              to complete the rest of the ALMS season.
+            </li>
+            <li>
+              After winning Le Mans in 1998 Porsche started development of their
+              new car. The team had experience with both open- and
+              closed-cockpit cars having run both the LMP1-98 and the 911 GT1-98
+              in across the two major categories in 1998. Porsche decided the
+              LMP-class was the most sensible route to go, and in August
+              development of the new LMP2000 started. Norbert Singer and Wiet
+              Huidekoper designed the car, initially planning to use the 3.2L
+              engine from the 911 GT1-98. However as development went on the
+              engine was considered to be overweight and underpowered compared
+              to the targets set for the new car. It was therefore announced in
+              November 1998 that the project would be postponed until 2000 while
+              a new powerplant was sourced.
             </li>
           </ul>
         </div>

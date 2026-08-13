@@ -11,6 +11,21 @@ export default function Home() {
             racing championships and events since 1999.
           </p>
           <p>
+            The 24 Hours of Le Mans has always been one of the most famous motor
+            races in the world, and it has been a test ground for innovation of
+            car technology as long as the race has existed. The fame of the
+            event has meant organizers all over the world have wanted to see
+            these cars race in their country in front of their fans, letting
+            more people experience the spirit of Le Mans. The popularity of
+            sportscars grew with the Group C era in the 80s and early 90s, with
+            specialized, aerodynamic sports prototypes racing in Europe, North
+            America and Japan. As the various championships moved more towards
+            production-based cars and engines, the sport became more fragmented
+            and popularity declined. The ACO understood that a new set of
+            regulations was needed, to bring back the appeal and thrill of Group
+            C. Enter, the Le Mans Prototype...
+          </p>
+          <p>
             The debut of the Le Mans Prototype in 1999 marked the start of the
             modern era of sportscar racing, with the new cars being able to race
             not only at the 24h of Le Mans, but also in a new championship
