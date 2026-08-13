@@ -121,6 +121,15 @@ export default function ZeroZero() {
               late to get an entry for Le Mans.
             </li>
             <li>
+              For 2000 Courage Competition developed a brand new car, the C60.
+              Paolo Capone remained in charge as chief designer, and the car was
+              built around the 4.0L Judd V10. With the debut of the new car the
+              factory team took a hiatus and focused on supporting customer SMG
+              Competition who debuted the car at the Silverstone ALMS-round, and
+              the older C52s were sold to the new Pescarolo Sport team who
+              fitted them with new Peugeot engines.
+            </li>
+            <li>
               Meanwhile Porsche continued development of the LMP2000 after
               postponing the project to 2000. A new engine was needed, and the
               team took a 5.5L V10 redeveloped from a 3.5L F1 engine originally
@@ -648,7 +657,7 @@ export default function ZeroZero() {
               <p>Number of cars entered: 36 (15 LMP, 8 GTS, 13 GT)</p>
               <p>Number of cars finished: 28 (9 LMP, 8 GTS, 11 GT)</p>
               <p>
-                Pole Position: #0 Team Rafanelli, Lola B2K/10 - Judd, Mimmo
+                Pole Position: #0 Team Rafanelli, Lola B2K/10 - Judd, Domenico
                 Schiattarella(ITA), Didier de Radigues(BEL), 1.37,030
               </p>
               <p>

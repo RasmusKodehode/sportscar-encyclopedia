@@ -7,6 +7,7 @@ import PANOZLMP1RoadsterS from "../../public/PANOZLMP1RoadsterS.jpg";
 import MERCEDESBENZCLR from "../../public/MERCEDESBENZCLR.jpg";
 import TOYOTAGTONE from "../../public/TOYOTAGT-ONE.jpg";
 import NISSANR391 from "../../public/NISSANR391.jpeg";
+import COURAGEC52 from "../../public/COURAGEC52.jpg";
 import PORSCHELMP2000 from "../../public/PORSCHELMP2000.jpg";
 import AUDIR8 from "../../public/AUDIR8.jpg";
 import PANOZLMP07 from "../../public/PANOZLMP07.jpg";
@@ -162,7 +163,10 @@ export default function Cars() {
                 <p className="font-bold">Audi R8C</p>
                 <p>Engine: 3.6L V8 Twin-turbo</p>
                 <p>Ruleset: LMGTP</p>
-                <p>Designed by Peter Elleray and Tony Southgate from Racing Technology Norfolk</p>
+                <p>
+                  Designed by Peter Elleray and Tony Southgate from Racing
+                  Technology Norfolk
+                </p>
                 <p>First Event: 1999 Le Mans</p>
                 <p>Last Event: 1999 Le Mans</p>
                 <p>
@@ -359,6 +363,82 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Nissan R391"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Courage Competition</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Courage C52</p>
+                <p>Engine: Nissan 3.5L V8 Twin-turbo</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 1999 Le Mans</p>
+                <p>Last Event: 1999 Le Mans</p>
+                <p>
+                  Evolution of the C51 from 1998 under partnership with Nissan
+                </p>
+                <Image
+                  src={COURAGEC52}
+                  width={500}
+                  height={500}
+                  alt="Courage C60"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Courage C60</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP900</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2002 Le Mans</p>
+                <p>Last Event: 2003 Le Mans</p>
+                <p>New car for the LMP900 regs to replace the outgoing C52</p>
+                <Image
+                  src={COURAGEC60}
+                  width={500}
+                  height={500}
+                  alt="Courage C60"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Courage C60 Hybrid</p>
+                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2005 Spa</p>
+                <p>Last Event: 2005 Istanbul</p>
+                <p>Upgraded C60 for the hybrid regulations</p>
+                <Image
+                  src={COURAGEHYBRID}
+                  width={500}
+                  height={500}
+                  alt="Courage C60 Hybrid"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Courage LC70</p>
+                <p>
+                  Engine: Mugen 4.5L V8 Naturally Aspirated/AER 3.6L V8 Turbo
+                </p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2006 Istanbul</p>
+                <p>Last Event: 2007 Silverstone</p>
+                <p>
+                  New car for the new LMP1 regulations, also developed into the
+                  LC75 for LMP2
+                </p>
+                <Image
+                  src={COURAGELC70}
+                  width={500}
+                  height={500}
+                  alt="Courage LC70"
                   className="w-72"
                 />
               </li>
@@ -599,64 +679,6 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Riley & Scott MK 3 C"
-                  className="w-72"
-                />
-              </li>
-            </ul>
-          </div>
-          <div className="flex flex-col gap-1">
-            <h3>Courage Competition</h3>
-            <ul className="flex flex-col gap-4">
-              <li>
-                <p className="font-bold">Courage C60</p>
-                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP900</p>
-                <p>Designed by Paolo Catone</p>
-                <p>First Event: 2002 Le Mans</p>
-                <p>Last Event: 2003 Le Mans</p>
-                <p>New car for the LMP900 regs to replace the outgoing C52</p>
-                <Image
-                  src={COURAGEC60}
-                  width={500}
-                  height={500}
-                  alt="Courage C60"
-                  className="w-72"
-                />
-              </li>
-              <li>
-                <p className="font-bold">Courage C60 Hybrid</p>
-                <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
-                <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
-                <p>Designed by Paolo Catone</p>
-                <p>First Event: 2005 Spa</p>
-                <p>Last Event: 2005 Istanbul</p>
-                <p>Upgraded C60 for the hybrid regulations</p>
-                <Image
-                  src={COURAGEHYBRID}
-                  width={500}
-                  height={500}
-                  alt="Courage C60 Hybrid"
-                  className="w-72"
-                />
-              </li>
-              <li>
-                <p className="font-bold">Courage LC70</p>
-                <p>
-                  Engine: Mugen 4.5L V8 Naturally Aspirated/AER 3.6L V8 Turbo
-                </p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
-                <p>Designed by Paolo Catone</p>
-                <p>First Event: 2006 Istanbul</p>
-                <p>Last Event: 2007 Silverstone</p>
-                <p>
-                  New car for the new LMP1 regulations, also developed into the
-                  LC75 for LMP2
-                </p>
-                <Image
-                  src={COURAGELC70}
-                  width={500}
-                  height={500}
-                  alt="Courage LC70"
                   className="w-72"
                 />
               </li>

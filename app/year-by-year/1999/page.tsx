@@ -77,6 +77,16 @@ export default function NinetyNine() {
               km race at the end of the season.
             </li>
             <li>
+              Alongside the partnership with Nissan, Courage Competition also
+              returned in 1999. The team spent the winter developing the
+              1998-spec C51 into the C52, built around an updated 3.5L engine
+              from the Nissan R390. The team also switched from Michelin to
+              Bridgestone tyres, requiring the suspension and rear diffuser to
+              be updated for 1999. The factory team brought a single C52 to Le
+              Mans in 1999, in addition to supporting the 3rd Nissan-run C52 and
+              the older Pescarolo-run C50.
+            </li>
+            <li>
               After poor performance at Le Mans in 1998, BMW went into 1999 with
               a major overhaul. Graham Humphrys came in as chief designer, with
               Williams Grand Prix Engineering still in charge of construction.
@@ -469,6 +479,23 @@ export default function NinetyNine() {
                 </tr>
                 <tr>
                   <td>Pedro Lamy(POR)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>
+                    <strong>Courage Competition</strong>
+                  </td>
+                  <td rowSpan={3}>Courage C52</td>
+                  <td rowSpan={3}>13</td>
+                  <td>Alex Caffi(ITA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Andrea Montermini(ITA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Domenico Schiattarella(ITA)</td>
                   <td>Le Mans</td>
                 </tr>
                 <tr>
