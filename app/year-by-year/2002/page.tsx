@@ -119,9 +119,11 @@ export default function ZeroTwo() {
               season with the two last ALMS rounds.
             </li>
             <li>
-              After building the C60 in 2000, for 2002 Courage too joined as a
-              factory team, competing in the FIA Sportscar Championship and Le
-              Mans, whilst also supporting its customer Pescarolo.
+              Having spent 2000 and 2001 supporting its customers and getting
+              the C60 up to speed, for 2002 the Courage factory team returned.
+              The team brought a single C60 to the FIA Sportscar Championship
+              and Le Mans, while also supporting customer Pescarolo Sport who
+              ran their Peugeot-powered C60s.
             </li>
             <li>
               After joining the prototype field in 2001 Chrysler changed their

@@ -14,8 +14,8 @@ export default function ZeroZero() {
               smaller, lighter prototypes. The prototypes running under Grand Am
               rules and the FIA Sportscar Championship rules could be modified
               to run in either class. The 900/675-designation refers to the
-              minimum weight of the cars, 900 kg for the top class, 675 kg for
-              the other.
+              minimum weight of the cars, 900 kg for the former, 675 kg for
+              the latter.
             </li>
             <li>
               ALMS revealed{" "}
@@ -27,7 +27,7 @@ export default function ZeroZero() {
                 an expanded calendar
               </a>{" "}
               for 2000, including new events at Charlotte and Texas. Following
-              the the postponement of the San Diego Race in 1999 it was{" "}
+              the postponement of the San Diego Race in 1999 it was{" "}
               <a
                 href="https://web.archive.org/web/19991013112215/http://americanlemans.com/pages/news99/alms991001-2.html"
                 target="_blank"
@@ -35,7 +35,7 @@ export default function ZeroZero() {
               >
                 added as the season opener
               </a>{" "}
-              in 2000, and its original slot was again taken by Las egas Motor
+              in 2000, and its original slot was again taken by Las Vegas Motor
               Speedway. Three overseas races were also included on the calendar,
               two of them later revealed to be{" "}
               <a
@@ -133,8 +133,8 @@ export default function ZeroZero() {
             </li>
             <li>
               For 2000 Courage Competition developed a brand new car, the C60.
-              Paolo Capone remained in charge as chief designer, and the car was
-              built around the 4.0L Judd V10. With the debut of the new car the
+              Paolo Catone remained in charge as chief designer, and the car was
+              built around a 4.0L Judd V10. With the launch of the new car the
               factory team took a hiatus and focused on supporting customer SMG
               Competition who debuted the car at the Silverstone ALMS-round, and
               the older C52s were sold to the new Pescarolo Sport team who

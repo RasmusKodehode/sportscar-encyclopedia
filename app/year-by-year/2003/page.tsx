@@ -90,14 +90,17 @@ export default function ZeroThree() {
             </li>
             <li>
               Courage continued into 2003, racing its C60 against Pescarolo's
-              now upgraded C60 Evo whilst also developing the C65 which debuted
+              now redesigned C60 Evo whilst also developing the C65 which debuted
               at Le Mans in the LMP675 class.
             </li>
             <li>
-              Lister produced its first prototype for 2003, but for the first
-              year chose to focus on Le Mans where the car made its debut,
-              before entering the 1000 km race at Le Mans at the end of the
-              year.
+              Lister Cars had competed in GT racing since the 90s with the
+              Lister Storm, but for 2003 the manufacturer decided to switch to
+              prototype racing. Andy Thorby was hired as chief designer,
+              originally planning the car around a Judd V10 engine before a
+              Chevrolet V8 was eventually chosen. The new car debuted at Sebring
+              as preparations for Le Mans, before the team entered the new 1000
+              km race at Le Mans at the end of the season.
             </li>
             <li>
               Having run a GMS-designed car in the FIA Sportscar Championship
@@ -377,27 +380,19 @@ export default function ZeroThree() {
                   <td>Le Mans</td>
                 </tr>
                 <tr>
-                  <td rowSpan={3}>
-                    <strong>Courage Competition</strong>
-                  </td>
-                  <td rowSpan={3}>Courage C60</td>
-                  <td rowSpan={3}>13</td>
-                  <td>Jean-Marc Gounon(FRA)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td>Jonathan Cochet(FRA)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td>Stephan Gregoire(FRA)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td rowSpan={6}>
+                  <td rowSpan={8}>
                     <strong>Lister Racing</strong>
                   </td>
-                  <td rowSpan={6}>Lister Storm LMP</td>
+                  <td rowSpan={8}>Lister Storm LMP</td>
+                  <td rowSpan={2}>6</td>
+                  <td>Jamie Campbell-Walter(GBR)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Ian MacKellar(GBR)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
                   <td rowSpan={3}>20</td>
                   <td>Jamie Campbell-Walter(GBR)</td>
                   <td>
@@ -428,6 +423,23 @@ export default function ZeroThree() {
                 <tr>
                   <td>Tom Coronel(NED)</td>
                   <td>LM1000k</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>
+                    <strong>Courage Competition</strong>
+                  </td>
+                  <td rowSpan={3}>Courage C60</td>
+                  <td rowSpan={3}>13</td>
+                  <td>Jean-Marc Gounon(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Jonathan Cochet(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Stephan Gregoire(FRA)</td>
+                  <td>Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>

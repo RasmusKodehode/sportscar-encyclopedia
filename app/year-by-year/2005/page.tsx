@@ -125,8 +125,8 @@ export default function ZeroFive() {
             <li>
               With the sponsorship from Essex Invest moving to Zytek, it left
               Lister with a reduced budget for 2005. The team started at Spa,
-              but by the Silverstone round the team debuted a new Hybrid version
-              of the car in the hope that it would be more competitive.
+              but by the Silverstone round the team debuted the new Storm LMP
+              Hybrid in the hope that it would be more competitive.
             </li>
             <li>
               Porsche{" "}
