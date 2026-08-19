@@ -692,7 +692,7 @@ export default function Cars() {
                 <p>Engine: Chevrolet 6.0L V8 Naturally Aspirated</p>
                 <p>Ruleset: LMP900</p>
                 <p>Designed by Andy Thorby</p>
-                <p>First Event: 2004 Le Mans</p>
+                <p>First Event: 2003 Sebring</p>
                 <p>Last Event: 2005 Spa</p>
                 <p>
                   Originally planned to use a Judd V10 but a Chevy V8 was
