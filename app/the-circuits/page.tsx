@@ -77,6 +77,13 @@ export default function Circuits() {
                 <p>Lap Record: 3.30,466 (2006)</p>
               </li>
               <li>
+                <p>Layout: Circuit des 24 Heures (2007-2017)</p>
+                <p>Circuit Length: 13.629 km</p>
+                <p>Races Hosted: 9 (2007-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 3.16,887 (2015)</p>
+              </li>
+              <li>
                 <p>Layout: Bugatti Circuit (2002-2005)</p>
                 <p>Circuit Length: 4.180 km</p>
                 <p>Races Hosted: 1 (2003)</p>
@@ -463,6 +470,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 2.05,964 (2004)</p>
               </li>
+              <li>
+                <p>Layout: Grand Prix (2007-)</p>
+                <p>Circuit Length: 7.004 km</p>
+                <p>Races Hosted: 9 (2007-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.54,755 (2015)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -487,6 +501,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.04,459 (2006)</p>
               </li>
+              <li>
+                <p>Layout: Indycar layout with altered T1 chicane</p>
+                <p>Circuit Length: 2.709 km</p>
+                <p>Races Hosted: 1 (2007)</p>
+                <p>Races Cancelled: 1 (2008)</p>
+                <p>Lap Record: 1.01,824 (2007)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -498,6 +519,66 @@ export default function Circuits() {
                 <p>Races Hosted: 2 (2006-2007)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 2.18,128 (2007)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Streets of St. Petersburg, St. Petersburg, Florida</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 2.910 km</p>
+                <p>Races Hosted: 3 (2007-2009)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.02,825 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Long Beach Street Circuit, Long Beach, California</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.167 km</p>
+                <p>Races Hosted: 7 (2007-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.11,330 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit Ricardo Tormo, Cheste, Spain</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.005 km</p>
+                <p>Races Hosted: 1 (2007)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.23,489 (2007)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Belle Isle Street Circuit, Detroit, Michigan</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 2007-2008 IndyCar version</p>
+                <p>Circuit Length: 3.331 km</p>
+                <p>Races Hosted: 2 (2007-2008)</p>
+                <p>Races Cancelled: 1 (2009)</p>
+                <p>Lap Record: 1.13,357 (2007)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodromo Jose Carlos Pace, Interlagos, Brazil</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.309 km</p>
+                <p>Races Hosted: 4 (2007, 2012-2014)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.17,442 (2014)</p>
               </li>
             </ul>
           </div>
