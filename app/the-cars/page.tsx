@@ -36,6 +36,11 @@ import COURAGELC70 from "../../public/COURAGELC70.jpg";
 import ZYTEK06 from "../../public/ZYTEK06S.jpg";
 import CREATIONHYBRID from "../../public/CREATIONCA06H.jpg";
 import LAVAGGI from "../../public/LAVAGGILS1.jpg";
+import PORSCHESPYDEREVO from "../../public/PORSCHERSSpyderEvo.jpg";
+import PESCAROLO01 from "../../public/PESCAROLO01.jpg";
+import CREATIONCA07 from "../../public/CREATIONCA07.jpg";
+import ACURAARX01 from "../../public/ACURAARX-01b.jpg";
+import PEUGEOT908HDI from "../../public/PEUGEOT908HDIFAP.jpg";
 
 export default function Cars() {
   return (
@@ -487,6 +492,27 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Porsche RS Spyder Evo</p>
+                <p>Engine: 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP2 (2004-2008)</p>
+                <p>
+                  Designed by Michael Mauer and Michael Pfadenhauer for Porsche
+                </p>
+                <p>First Event: 2007 Sebring</p>
+                <p>Last Event: 2008 Laguna Seca</p>
+                <p>
+                  Evolution of the 2006 car with heavily upgraded aero-package
+                  and upgraded engine
+                </p>
+                <Image
+                  src={PORSCHESPYDEREVO}
+                  width={500}
+                  height={500}
+                  alt="Porsche RS Spyder Evo"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -843,6 +869,25 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Pescarolo 01</p>
+                <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Andre de Cortanze for Pescarolo Sport</p>
+                <p>First Event: 2007 Monza</p>
+                <p>Last Event: 2008 Silverstone</p>
+                <p>
+                  New car built for LMP1 regulations by Pescarolo, also sold to
+                  customers in both LMP1 and LMP2
+                </p>
+                <Image
+                  src={PESCAROLO01}
+                  width={500}
+                  height={500}
+                  alt="Pescarolo 01"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -870,6 +915,28 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Creation CA07</p>
+                <p>Engine: Judd/AIM 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>
+                  Originally designed by Reynard before being bought by IRM and
+                  later modified by KWM
+                </p>
+                <p>First Event: 2007 Le Mans</p>
+                <p>Last Event: 2009 Le Mans</p>
+                <p>
+                  New car for the new LMP1 regulations, still based on the
+                  previous Reynard design
+                </p>
+                <Image
+                  src={CREATIONCA07}
+                  width={500}
+                  height={500}
+                  alt="Creation CA07"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -894,6 +961,56 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Lavaggi LS1"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Acura</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Acura ARX-01</p>
+                <p>Engine: 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP2 (2004-2008)</p>
+                <p>
+                  Designed by Nick Wirth for Acura and Honda Performance
+                  Development
+                </p>
+                <p>First Event: 2007 Sebring</p>
+                <p>Last Event: 2009 Laguna Seca</p>
+                <p>
+                  Started as a Courage LC75, heavily updated by Acura and HPD
+                </p>
+                <Image
+                  src={ACURAARX01}
+                  width={500}
+                  height={500}
+                  alt="Acura ARX 01b"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Peugeot</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Peugeot 908 HDi FAP</p>
+                <p>Engine: 5.5L V12 Twin-turbo Diesel</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Paolo Catone for Peugeot Sport</p>
+                <p>First Event: 2007 Monza</p>
+                <p>Last Event: 2010 Zhuhai</p>
+                <p>
+                  The car was designed to take on Audi with its own brand new
+                  diesel engine
+                </p>
+                <Image
+                  src={PEUGEOT908HDI}
+                  width={500}
+                  height={500}
+                  alt="Peugeot 908 HDI FAP"
                   className="w-72"
                 />
               </li>
