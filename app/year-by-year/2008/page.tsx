@@ -115,8 +115,12 @@ export default function ZeroEight() {
             </li>
             <li>
               In 2007 Oreca bought Courage with the goal to develop a new car
-              for 2009. In 2008 the Oreca team ran 2 modified LC70s badged as
-              Courage-Orecas.
+              for 2009. The LC70s were heavily updated around a new Judd V10
+              powerplant, and the cars were now badged as Courage-Orecas. The
+              renamed Team Oreca Matmut brought 2 cars to the LMS season and Le
+              Mans, with a third car at Le Mans run by a group of university
+              students in the Tokai University-team, who helped develop the aero
+              of the 2008 car.
             </li>
             <li>
               Creation Autosportif went into their 2nd season with the CA07,
@@ -577,6 +581,46 @@ export default function ZeroEight() {
                 </tr>
                 <tr>
                   <td>Benoit Treluyer(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={8}>
+                    <strong>Team Oreca Matmut</strong>
+                  </td>
+                  <td rowSpan={8}>Courage-Oreca LC70</td>
+                  <td rowSpan={4}>6</td>
+                  <td>Olivier Panis(FRA)</td>
+                  <td>
+                    Barcelona, Monza, Spa, Le Mans, Nurburgring, Silverstone
+                  </td>
+                </tr>
+                <tr>
+                  <td>Nicolas Lapierre(FRA)</td>
+                  <td>Barcelona, Monza, Spa, Nurburgring, Silverstone</td>
+                </tr>
+                <tr>
+                  <td>Simon Pagenaud(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Marcel Fässler(CHE)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={4}>5</td>
+                  <td>Soheil Ayari(FRA)</td>
+                  <td>Barcelona, Monza, Le Mans, Nurburgring, Silverstone</td>
+                </tr>
+                <tr>
+                  <td>Stephane Ortelli(MCO)</td>
+                  <td>Barcelona, Monza, Nurburgring, Silverstone</td>
+                </tr>
+                <tr>
+                  <td>Loïc Duval(FRA)</td>
+                  <td>Le Mans, Nurburgring</td>
+                </tr>
+                <tr>
+                  <td>Laurent Groppi(FRA)</td>
                   <td>Le Mans</td>
                 </tr>
                 <tr>
@@ -1384,9 +1428,7 @@ export default function ZeroEight() {
         </div>
         <div className="flex flex-col gap-2 w-full">
           <h2>Misc Links</h2>
-          <ul>
-            
-          </ul>
+          <ul></ul>
         </div>
       </main>
     </div>

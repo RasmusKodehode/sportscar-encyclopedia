@@ -42,6 +42,7 @@ import CREATIONCA07 from "../../public/CREATIONCA07.jpg";
 import ACURAARX01 from "../../public/ACURAARX-01b.jpg";
 import PEUGEOT908HDI from "../../public/PEUGEOT908HDIFAP.jpg";
 import EPSILON from "../../public/EPSILONEUSKADIEE1.jpg";
+import COURAGEORECA from "../../public/COURAGEORECA.jpg";
 import DOMES102 from "../../public/DOMES102.jpg";
 
 export default function Cars() {
@@ -446,6 +447,26 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Courage LC70"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Courage-Oreca LC70</p>
+                <p>
+                  Engine: Judd/AIM 5.5L V10 Naturally Aspirated
+                </p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Paolo Catone, redesigned by Oreca</p>
+                <p>First Event: 2008 Barcelona</p>
+                <p>Last Event: 2009 Barcelona </p>
+                <p>
+                  Updated by Oreca after it took over Courage
+                </p>
+                <Image
+                  src={COURAGEORECA}
+                  width={500}
+                  height={500}
+                  alt="Courage Oreca LC70"
                   className="w-72"
                 />
               </li>
