@@ -68,20 +68,71 @@ export default function ZeroSeven() {
           <h2>Manufacturer News</h2>
           <ul>
             <li>
-              The big news of the season was{" "}
+              2007 saw Peugeot return to top-class competition at Le Mans for
+              the first time since 1993. The project was{" "}
+              <a
+                href="http://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans685.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                confirmed in June 2005
+              </a>
+              , and{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2006lemans/lemans796.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Paolo Catone was brought in to design the new car
+              </a>{" "}
+              around a 5.5L twin-turbo diesel V12. Development started late{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans731.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                in the Autumn of 2005
+              </a>
+              , with a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2006lemans/lemans893.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                concept render first revealed
+              </a>{" "}
+              in September of 2006. Testing was originally{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2006lemans/lemans895.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                planned to start in early December 2006
+              </a>
+              , but delays meant the car was only{" "}
+              <a
+                href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=65B24BA1-1143-FDC9-359F20065FCE107A.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                shaken down in January 2007
+              </a>
+              . The program including the new{" "}
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=65C017EB-1143-FDC9-356A552AFD502693.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
-                Peugeot returning to sportscar racing
+                908 HDi FAP was formally revealed
               </a>{" "}
-              with the 908 HDi FAP, competing in the Le Mans Series and Le Mans
-              with 2 cars.
+              a few days later, with the team planning to contest the LMS and Le
+              Mans with 2 factory cars for 2007.
             </li>
             <li>
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=5B764705-1143-FDC9-3561936C19731BD0.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Audi continued their program{" "}
               </a>
@@ -93,6 +144,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2006alms/alms856.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 the RS Spyder Evo
               </a>
@@ -102,6 +154,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2006alms/alms896.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 who replaced their Lolas from 2006
               </a>
@@ -111,6 +164,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2006alms/alms803.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Acura joined ALMS with a new factory effort
               </a>{" "}
@@ -120,6 +174,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2006alms/alms828.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Two of the teams ran the new car
               </a>
@@ -133,6 +188,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=65DFB5DA-1143-FDC9-35482CF7F89CE211.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 2 factory operated cars
               </a>{" "}
@@ -151,6 +207,7 @@ export default function ZeroSeven() {
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/lemans/2006lemans/lemans928.htm"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 customer teams operating the new car
               </a>
