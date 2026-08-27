@@ -458,6 +458,16 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 0.44,659 (2007)</p>
               </li>
+              <li>
+                <p>
+                  Layout: Original Circuit with new chicane and extended west
+                  bend
+                </p>
+                <p>Circuit Length: 2.430 km</p>
+                <p>Races Hosted: 3 (2008-2010)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 0.46,696 (2008)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -520,6 +530,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 2.18,128 (2007)</p>
               </li>
+              <li>
+                <p>Layout: Outer Circuit</p>
+                <p>Circuit Length: 4.905 km</p>
+                <p>Races Hosted: 3 (2008-2010)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.30,645 (2009)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -579,6 +596,30 @@ export default function Circuits() {
                 <p>Races Hosted: 4 (2007, 2012-2014)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.17,442 (2014)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit de Catalunya, Montmelo, Spain</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix (2007-2020)</p>
+                <p>Circuit Length: 4.655 km</p>
+                <p>Races Hosted: 2 (2008-2009)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.31,875 (2008)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Shanghai International Circuit, Shanghai, China</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 5.451 km</p>
+                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Cancelled: 3 (2008-2009)</p>
+                <p>Lap Record: 1.42,621 (2015)</p>
               </li>
             </ul>
           </div>
