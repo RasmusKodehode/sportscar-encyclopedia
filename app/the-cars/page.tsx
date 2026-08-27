@@ -41,6 +41,8 @@ import PESCAROLO01 from "../../public/PESCAROLO01.jpg";
 import CREATIONCA07 from "../../public/CREATIONCA07.jpg";
 import ACURAARX01 from "../../public/ACURAARX-01b.jpg";
 import PEUGEOT908HDI from "../../public/PEUGEOT908HDIFAP.jpg";
+import EPSILON from "../../public/EPSILONEUSKADIEE1.jpg";
+import DOMES102 from "../../public/DOMES102.jpg";
 
 export default function Cars() {
   return (
@@ -1011,6 +1013,51 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Peugeot 908 HDI FAP"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Epsilon Euskadi</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Epsilon Euskadi EE1</p>
+                <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by John Travis</p>
+                <p>First Event: 2008 Barcelona</p>
+                <p>Last Event: 2008 Silverstone</p>
+                <p>Spanish constructor, primarily focused on single seaters</p>
+                <Image
+                  src={EPSILON}
+                  width={500}
+                  height={500}
+                  alt="Epsilon Euskadi EE1"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Dome</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Dome S102</p>
+                <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Hiroshi Yuchi</p>
+                <p>First Event: 2008 Le Mans</p>
+                <p>Last Event: 2008 Le Mans</p>
+                <p>
+                  Replaced the aging S101 which had raced in various specs since
+                  2001
+                </p>
+                <Image
+                  src={DOMES102}
+                  width={500}
+                  height={500}
+                  alt="Dome S102"
                   className="w-72"
                 />
               </li>
