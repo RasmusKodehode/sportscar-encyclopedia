@@ -623,6 +623,30 @@ export default function Circuits() {
               </li>
             </ul>
           </div>
+          <div className="flex flex-col gap-1">
+            <h3>Algarve International Circuit, Portimao, Portugal</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.653 km</p>
+                <p>Races Hosted: 2 (2009-2010)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.30,681 (2010)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Okayama International Circuit, Mimasaka, Japan</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 3.703 km</p>
+                <p>Races Hosted: 2 (2009)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.19,143 (2009)</p>
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </div>
