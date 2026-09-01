@@ -44,6 +44,11 @@ import PEUGEOT908HDI from "../../public/PEUGEOT908HDIFAP.jpg";
 import EPSILON from "../../public/EPSILONEUSKADIEE1.jpg";
 import COURAGEORECA from "../../public/COURAGEORECA.jpg";
 import DOMES102 from "../../public/DOMES102.jpg";
+import AUDIR15 from "../../public/AUDIR15TDI.jpg";
+import PESCAROLOEVO from "../../public/PESCAROLO01EVO.jpg";
+import ACURAARX02 from "../../public/ACURAARX-02a.jpg";
+import LOLAASTONMARTIN from "../../public/LOLAASTONMARTIN.jpg";
+import ORECA01 from "../../public/ORECA01.jpg";
 
 export default function Cars() {
   return (
@@ -224,6 +229,27 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Audi R10 TDI"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R15 TDI</p>
+                <p>Engine: 5.5L V10 Turbo Diesel</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>
+                  Designed by Audi Sport under Ralf Jüttner and Ulrich Baretzky
+                </p>
+                <p>First Event: 2009 Sebring</p>
+                <p>Last Event: 2009 Petit Le Mans</p>
+                <p>
+                  All new car to replace the R10 with a new, more efficient
+                  engine
+                </p>
+                <Image
+                  src={AUDIR15}
+                  width={500}
+                  height={500}
+                  alt="Audi R15 TDI"
                   className="w-72"
                 />
               </li>
@@ -452,16 +478,12 @@ export default function Cars() {
               </li>
               <li>
                 <p className="font-bold">Courage-Oreca LC70</p>
-                <p>
-                  Engine: Judd/AIM 5.5L V10 Naturally Aspirated
-                </p>
+                <p>Engine: Judd/AIM 5.5L V10 Naturally Aspirated</p>
                 <p>Ruleset: LMP1 (2006-2008)</p>
                 <p>Designed by Paolo Catone, redesigned by Oreca</p>
                 <p>First Event: 2008 Barcelona</p>
                 <p>Last Event: 2009 Barcelona </p>
-                <p>
-                  Updated by Oreca after it took over Courage
-                </p>
+                <p>Updated by Oreca after it took over Courage</p>
                 <Image
                   src={COURAGEORECA}
                   width={500}
@@ -911,6 +933,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Pescarolo 01 Evo</p>
+                <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>Designed by Andre de Cortanze for Pescarolo Sport</p>
+                <p>First Event: 2009 Barcelona</p>
+                <p>Last Event: 2009 Okayama2</p>
+                <p>Updated version of the 01 for 2009</p>
+                <Image
+                  src={PESCAROLOEVO}
+                  width={500}
+                  height={500}
+                  alt="Pescarolo 01 Evo"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -1013,6 +1051,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Acura ARX-02</p>
+                <p>Engine: 4.0L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>Designed by Wirth Research for Acura and HPD</p>
+                <p>First Event: 2009 Sebring</p>
+                <p>Last Event: 2009 Laguna Seca</p>
+                <p>Bespoke new car for LMP1 for Acura</p>
+                <Image
+                  src={ACURAARX02}
+                  width={500}
+                  height={500}
+                  alt="Acura ARX 02a"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -1079,6 +1133,53 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Dome S102"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Aston Martin</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Lola Aston Martin DBR1-2</p>
+                <p>Engine: 6.0L V12 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>
+                  Designed by Marek Reichmann and Julian Sole from Lola Cars
+                </p>
+                <p>First Event: 2009 Barcelona</p>
+                <p>Last Event: 2011 Zhuhai</p>
+                <p>
+                  Based on the Lola B08/60 and redesigned by Aston Martin and
+                  Prodrive, built by Lola Cars
+                </p>
+                <Image
+                  src={LOLAASTONMARTIN}
+                  width={500}
+                  height={500}
+                  alt="Lola Aston Martin DBR 1 2"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Oreca</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Oreca 01</p>
+                <p>Engine: AIM 5.5L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>Designed by David Floury</p>
+                <p>First Event: 2009 Spa</p>
+                <p>Last Event: 2010 Le Mans</p>
+                <p>New car after the takeover of Courage</p>
+                <Image
+                  src={ORECA01}
+                  width={500}
+                  height={500}
+                  alt="Oreca 01"
                   className="w-72"
                 />
               </li>
