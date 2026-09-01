@@ -115,7 +115,7 @@ export default function ZeroEight() {
             </li>
             <li>
               In 2007 Oreca bought Courage with the goal to develop a new car
-              for 2009. The LC70s were heavily updated around a new Judd V10
+              for 2009. For 2008 the LC70s were heavily updated around a new Judd V10
               powerplant, and the cars were now badged as Courage-Orecas. The
               renamed Team Oreca Matmut brought 2 cars to the LMS season and Le
               Mans, with a third car at Le Mans run by a group of university
