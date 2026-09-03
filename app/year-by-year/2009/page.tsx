@@ -563,9 +563,28 @@ export default function ZeroNine() {
                   <td>Okayama1, Okayama2</td>
                 </tr>
                 <tr>
-                  <td rowSpan={8}>
+                  <td rowSpan={12}>
                     <strong>Team Oreca Matmut AIM</strong>
                   </td>
+                  <td rowSpan={4}>Courage-Oreca LC70</td>
+                  <td rowSpan={2}>10</td>
+                  <td>Stephane Ortelli(MCO)</td>
+                  <td>Barcelona</td>
+                </tr>
+                <tr>
+                  <td>Bruno Senna(BRA)</td>
+                  <td>Barcelona</td>
+                </tr>
+                <tr>
+                  <td rowSpan={2}>11</td>
+                  <td>Olivier Panis(FRA)</td>
+                  <td>Barcelona</td>
+                </tr>
+                <tr>
+                  <td>Nicolas Lapierre(FRA)</td>
+                  <td>Barcelona</td>
+                </tr>
+                <tr>
                   <td rowSpan={8}>Oreca 01</td>
                   <td rowSpan={5}>10</td>
                   <td>Stephane Ortelli(MCO)</td>
