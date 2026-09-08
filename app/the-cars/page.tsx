@@ -38,6 +38,7 @@ import CREATIONHYBRID from "../../public/CREATIONCA06H.jpg";
 import LAVAGGI from "../../public/LAVAGGILS1.jpg";
 import PORSCHESPYDEREVO from "../../public/PORSCHERSSpyderEvo.jpg";
 import PESCAROLO01 from "../../public/PESCAROLO01.jpg";
+import COURAGEAER from "../../public/COURAGELC70AER.jpg";
 import CREATIONCA07 from "../../public/CREATIONCA07.jpg";
 import ACURAARX01 from "../../public/ACURAARX-01b.jpg";
 import PEUGEOT908HDI from "../../public/PEUGEOT908HDIFAP.jpg";
@@ -457,13 +458,11 @@ export default function Cars() {
               </li>
               <li>
                 <p className="font-bold">Courage LC70</p>
-                <p>
-                  Engine: Mugen 4.5L V8 Naturally Aspirated/AER 3.6L V8 Turbo
-                </p>
+                <p>Engine: Mugen 4.5L V8 Naturally Aspirated</p>
                 <p>Ruleset: LMP1 (2006-2008)</p>
                 <p>Designed by Paolo Catone</p>
                 <p>First Event: 2006 Istanbul</p>
-                <p>Last Event: 2007 Silverstone</p>
+                <p>Last Event: 2006 Jarama</p>
                 <p>
                   New car for the new LMP1 regulations, also developed into the
                   LC75 for LMP2
@@ -472,7 +471,23 @@ export default function Cars() {
                   src={COURAGELC70}
                   width={500}
                   height={500}
-                  alt="Courage LC70"
+                  alt="Courage LC70 - Mugen"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Courage LC70</p>
+                <p>Engine: AER 3.6L V8 Turbo</p>
+                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2007 Monza</p>
+                <p>Last Event: 2007 Silverstone</p>
+                <p>Updated around new AER engine</p>
+                <Image
+                  src={COURAGEAER}
+                  width={500}
+                  height={500}
+                  alt="Courage LC70 - AER"
                   className="w-72"
                 />
               </li>
