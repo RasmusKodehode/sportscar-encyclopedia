@@ -212,6 +212,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.30,359 (2008)</p>
               </li>
+              <li>
+                <p>Layout: Arena Grand Prix Circuit (2010)</p>
+                <p>Circuit Length: 5.901 km</p>
+                <p>Races Hosted: 1 (2010)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.43,475 (2010)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -644,6 +651,42 @@ export default function Circuits() {
                 <p>Races Hosted: 2 (2009)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.19,143 (2009)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit Paul Ricard, Le Castellet, France</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 1A-V2</p>
+                <p>Circuit Length: 5.791 km</p>
+                <p>Races Hosted: 2 (2010-2011)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.41,195 (2010)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Hungaroring, Mogyorod, Hungary</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix (2003-)</p>
+                <p>Circuit Length: 4.381 km</p>
+                <p>Races Hosted: 1 (2010)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.32,431 (2010)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Zhuhai International Circuit, Zhuhai, China</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 4.319 km</p>
+                <p>Races Hosted: 2 (2010-2011)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.21,769 (2011)</p>
               </li>
             </ul>
           </div>
