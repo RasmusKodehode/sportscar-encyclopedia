@@ -50,6 +50,7 @@ import PESCAROLOEVO from "../../public/PESCAROLO01EVO.jpg";
 import ACURAARX02 from "../../public/ACURAARX-02a.jpg";
 import LOLAASTONMARTIN from "../../public/LOLAASTONMARTIN.jpg";
 import ORECA01 from "../../public/ORECA01.jpg";
+import AUDIR15Plus from "../../public/AUDIR15TDIPlus.jpg";
 
 export default function Cars() {
   return (
@@ -251,6 +252,27 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Audi R15 TDI"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R15 TDI Plus</p>
+                <p>Engine: 5.5L V10 Turbo Diesel</p>
+                <p>Ruleset: LMP1 (2009-2010)</p>
+                <p>
+                  Designed by Audi Sport under Ralf Jüttner and Ulrich Baretzky
+                </p>
+                <p>First Event: 2010 Castellet</p>
+                <p>Last Event: 2011 Sebring</p>
+                <p>
+                  Heavily revised version of the 2009 car following problems and
+                  controversies
+                </p>
+                <Image
+                  src={AUDIR15Plus}
+                  width={500}
+                  height={500}
+                  alt="Audi R15 TDI Plus"
                   className="w-72"
                 />
               </li>
