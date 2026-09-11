@@ -51,6 +51,9 @@ import ACURAARX02 from "../../public/ACURAARX-02a.jpg";
 import LOLAASTONMARTIN from "../../public/LOLAASTONMARTIN.jpg";
 import ORECA01 from "../../public/ORECA01.jpg";
 import AUDIR15Plus from "../../public/AUDIR15TDIPlus.jpg";
+import AUDIR18 from "../../public/AUDIR18TDI.jpg";
+import PEUGEOT908 from "../../public/PEUGEOT908.jpg";
+import ASTONAMR1 from "../../public/ASTONMARTINAMRONE.jpg";
 
 export default function Cars() {
   return (
@@ -273,6 +276,24 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Audi R15 TDI Plus"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R18 TDI</p>
+                <p>Engine: 3.7L V6 Turbo Diesel</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>
+                  Designed by Audi Sport under Chris Reinke and Ulrich Baretzky
+                </p>
+                <p>First Event: 2011 Spa</p>
+                <p>Last Event: 2012 Sebring</p>
+                <p>New closed-cockpit car for the 2011 regulations</p>
+                <Image
+                  src={AUDIR18}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 TDI"
                   className="w-72"
                 />
               </li>
@@ -1128,6 +1149,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Peugeot 908</p>
+                <p>Engine: 3.7L V8 Twin-turbo Diesel</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed by Paolo Catone for Peugeot Sport</p>
+                <p>First Event: 2011 Sebring</p>
+                <p>Last Event: 2011 Zhuhai</p>
+                <p>New car from the ground up for the 2011 regulations</p>
+                <Image
+                  src={PEUGEOT908}
+                  width={500}
+                  height={500}
+                  alt="Peugeot 908"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -1196,6 +1233,25 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Lola Aston Martin DBR 1 2"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Aston Martin AMR-One</p>
+                <p>Engine: 2.0L I6 Turbo</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed by George Howard-Chappel</p>
+                <p>First Event: 2011 Castellet</p>
+                <p>Last Event: 2011 Le Mans</p>
+                <p>
+                  New car for 2011, but fundamental structural issues saw the
+                  car abandoned half way through the season
+                </p>
+                <Image
+                  src={ASTONAMR1}
+                  width={500}
+                  height={500}
+                  alt="Aston Martin AMR One"
                   className="w-72"
                 />
               </li>
