@@ -219,6 +219,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.43,475 (2010)</p>
               </li>
+              <li>
+                <p>Layout: Arena Grand Prix Circuit (2011- )</p>
+                <p>Circuit Length: 5.891 km</p>
+                <p>Races Hosted: 5 (2011-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.39,534 (2015)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -475,6 +482,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 0.46,696 (2008)</p>
               </li>
+              <li>
+                <p>Layout: Original Circuit with new chicane</p>
+                <p>Circuit Length: 2.372 km</p>
+                <p>Races Hosted: 3 (2011-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 0.44,017 (2012)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -687,6 +701,30 @@ export default function Circuits() {
                 <p>Races Hosted: 2 (2010-2011)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.21,769 (2011)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Autodromo Enzo e Dino Ferrari, Imola, Italy</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix (2008-)</p>
+                <p>Circuit Length: 4.909 km</p>
+                <p>Races Hosted: 1 (2011)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.31,736 (2011)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Baltimore Street Circuit, Baltimore, Maryland</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: 2011 IndyCar layout</p>
+                <p>Circuit Length: 3.283 km</p>
+                <p>Races Hosted: 1 (2011)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.27,750 (2011)</p>
               </li>
             </ul>
           </div>
