@@ -13,6 +13,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=23C6A95B-1143-FDC9-3556701BD8D11B8F.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 new class structure for 2010
               </a>
@@ -28,6 +29,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=EEB13DA1-1143-FDC9-3541DF8B5B03128A.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 adding a fifth class for the Oreca FLM
               </a>{" "}
@@ -38,6 +40,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=F29D54E1-1143-FDC9-350E024472BDD5B3.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 revised calendar for 2010
               </a>
@@ -49,6 +52,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=61AFEEC4-1143-FDC9-352B9D2062FE4FB8.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 slightly modified calendar
               </a>
@@ -61,26 +65,13 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=6FD936D3-1143-FDC9-358B501ADD59013D.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Intercontinental Le Mans Cup
               </a>
               , a new championship taking in 3 races across the 3 Le Mans
               Series', starting at the LMS race at Silverstone before moving to
-              the Petit Le Mans and ending at the sole AsLMS race at Zhuhai.{" "}
-              <a
-                href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=2C70681B-1143-FDC9-355442E2DA7736B5.html"
-                target="_blank"
-              >
-                Peugeot joined
-              </a>
-              ,{" "}
-              <a
-                href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=A45C7DCA-1143-FDC9-35D1C29C8F1CCD63.html"
-                target="_blank"
-              >
-                as did Audi
-              </a>
-              , both with 2 cars each.
+              the Petit Le Mans and ending at the sole AsLMS race at Zhuhai.
             </li>
           </ul>
         </div>
@@ -92,6 +83,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=62B36186-1143-FDC9-35AD3C3C71F6D285.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 heavily revised R15 TDI Plus
               </a>
@@ -99,6 +91,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=76783063-B2F7-C457-FD77B99C1C21BA3D.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 debuting a single car at the LMS Opener
               </a>{" "}
@@ -107,6 +100,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=A45C7DCA-1143-FDC9-35D1C29C8F1CCD63.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 contesting the ILMC with 2 cars
               </a>
@@ -117,6 +111,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=2BDC458E-FDBC-88D7-4432D1EA399FD3CE.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 similar program to 2009
               </a>{" "}
@@ -126,6 +121,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=2C70681B-1143-FDC9-355442E2DA7736B5.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 2 cars to the ILMC
               </a>
@@ -137,6 +133,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=89B566DB-96AD-E70E-9E57397B2F02428D.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 targeting a variety of events
               </a>
@@ -154,6 +151,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=2B59118D-C9CA-4660-4BDEA056A551AFA7.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 partnership with Highcroft
               </a>{" "}
@@ -163,6 +161,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=95DF5377-1143-FDC9-35B544C06C0FE1C6.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 the car contested Le Mans
               </a>
@@ -176,6 +175,7 @@ export default function OneZero() {
               <a
                 href="http://archive2.dailysportscar.com/viewArticle.cfm@articleUID=D2DFEEF3-1143-FDC9-35FAA09D2BD77520.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 put into administration
               </a>{" "}
