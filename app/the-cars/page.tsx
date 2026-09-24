@@ -54,6 +54,12 @@ import AUDIR15Plus from "../../public/AUDIR15TDIPlus.jpg";
 import AUDIR18 from "../../public/AUDIR18TDI.jpg";
 import PEUGEOT908 from "../../public/PEUGEOT908.jpg";
 import ASTONAMR1 from "../../public/ASTONMARTINAMRONE.jpg";
+import AUDIULTRA from "../../public/AUDIR18Ultra.jpg";
+import AUDIETRON13 from "../../public/AUDIR18E-Tron13.jpg";
+import TOYOTATS03012 from "../../public/TOYOTATS030Hybrid12.jpg";
+import PESCAROLO03 from "../../public/PESCAROLO03.jpg";
+import PEUGEOTHYBRID4 from "../../public/PEUGEOT908HYBRID4.jpg";
+import DOMES1025 from "../../public/DOMES102.5.jpg";
 
 export default function Cars() {
   return (
@@ -297,6 +303,42 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Audi R18 Ultra</p>
+                <p>Engine: 3.7L V6 Turbo Diesel</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>
+                  Designed by Audi Sport under Chris Reinke and Ulrich Baretzky
+                </p>
+                <p>First Event: 2012 Spa</p>
+                <p>Last Event: 2012 Interlagos</p>
+                <p>Updated, ultra light-weight version of the 2011 car</p>
+                <Image
+                  src={AUDIULTRA}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 Ultra"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Audi R18 E-tron Quattro</p>
+                <p>Engine: 3.7L V6 Turbo Diesel + Flywheel Electric MGU-K</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>
+                  Designed by Audi Sport under Chris Reinke and Ulrich Baretzky
+                </p>
+                <p>First Event: 2012 Spa</p>
+                <p>Last Event: 2013 Bahrain</p>
+                <p>Same as R18 Ultra with hybrid system</p>
+                <Image
+                  src={AUDIETRON13}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 E Tron Quattro 2013"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -396,6 +438,27 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Toyota GT-One"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Toyota TS030 Hybrid</p>
+                <p>
+                  Engine: 3.4L V8 Naturally Aspirated + Supercapacitor MGU-K
+                </p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed under Pascal Vasselon from Toyota Motorsport</p>
+                <p>First Event: 2012 Le Mans</p>
+                <p>Last Event: 2013 Spa</p>
+                <p>
+                  New car built to challenge Audi in the top class with hybrid
+                  technology
+                </p>
+                <Image
+                  src={TOYOTATS03012}
+                  width={500}
+                  height={500}
+                  alt="Toyota TS030 Hybrid 2012"
                   className="w-72"
                 />
               </li>
@@ -1007,6 +1070,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Pescarolo 03</p>
+                <p>Engine: Judd 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed by Nicolas Perrin for Pescarolo Sport</p>
+                <p>First Event: 2012 Le Mans</p>
+                <p>Last Event: 2012 Le Mans</p>
+                <p>Heavily updated version of the Aston Martin AMR-One</p>
+                <Image
+                  src={PESCAROLO03}
+                  width={500}
+                  height={500}
+                  alt="Pescarolo 03"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -1165,6 +1244,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Peugeot 908 Hybrid4</p>
+                <p>Engine: 3.7L V8 Twin-turbo Diesel + Battery MGU-K</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed by Paolo Catone for Peugeot Sport</p>
+                <p>First Event: N/A</p>
+                <p>Last Event: N/A</p>
+                <p>Updated version of the 908 with hybrid system</p>
+                <Image
+                  src={PEUGEOTHYBRID4}
+                  width={500}
+                  height={500}
+                  alt="Peugeot 908 Hybrid4"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -1207,6 +1302,22 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Dome S102"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Dome S102.5</p>
+                <p>Engine: Judd 3.4L V8 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed by Hiroshi Yuchi</p>
+                <p>First Event: 2012 Spa</p>
+                <p>Last Event: 2012 Le Mans</p>
+                <p>Updated version of the S102 for the new regulations</p>
+                <Image
+                  src={DOMES1025}
+                  width={500}
+                  height={500}
+                  alt="Dome S102 point 5"
                   className="w-72"
                 />
               </li>
