@@ -164,6 +164,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 1 (2000)</p>
                 <p>Lap Record: 1.16,349 (1999)</p>
               </li>
+              <li>
+                <p>Layout: Grand Prix (2005-)</p>
+                <p>Circuit Length: 4.563 km</p>
+                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.22,639 (2015)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -725,6 +732,37 @@ export default function Circuits() {
                 <p>Races Hosted: 1 (2011)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.27,750 (2011)</p>
+              </li>
+              <li>
+                <p>Layout: 2012 IndyCar layout</p>
+                <p>Circuit Length: 3.283 km</p>
+                <p>Races Hosted: 1 (2012)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.25,174 (2012)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Virginia International Raceway, Alton, Virginia</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Full Circuit</p>
+                <p>Circuit Length: 5.248 km</p>
+                <p>Races Hosted: 2 (2012-2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.35,434 (2012)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Bahrain International Circuit, Sakhir, Bahrain</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix (2005-)</p>
+                <p>Circuit Length: 5.412 km</p>
+                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.39,670 (2015)</p>
               </li>
             </ul>
           </div>
