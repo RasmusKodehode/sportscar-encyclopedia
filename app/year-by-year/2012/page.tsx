@@ -13,6 +13,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=561FEE38-1143-FDC9-350931FD33B8F8F9.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 FIA World Endurance Championship
               </a>{" "}
@@ -25,6 +26,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=5319381A-1143-FDC9-35BB3AAF00A39095.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Le Mans Series dropped the LMP1 class
               </a>{" "}
@@ -32,6 +34,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=38F9DBAE-1143-FDC9-35C51FEBC0658817.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 European Le Mans Series
               </a>
@@ -42,6 +45,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=96BB9E87-1143-FDC9-359DD17E941B333F.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 WEC announced an 8 round calendar
               </a>
@@ -53,6 +57,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=BB65E827-1143-FDC9-3515E6A4743D673D.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 calendar for 2012
               </a>
@@ -61,6 +66,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=EE043902-1143-FDC9-35B3C915063191E2.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 4h race at VIR
               </a>
@@ -76,6 +82,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=018712BF-1143-FDC9-352AA746AB7BB1B7.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 return to sportscar racing
               </a>{" "}
@@ -84,6 +91,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=10FBF43B-1143-FDC9-35442871810C9056.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 TS030 Hybrid
               </a>
@@ -91,6 +99,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=A07F1FE2-1143-FDC9-35AABB189772F16F.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 testing accident
               </a>{" "}
@@ -101,6 +110,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=CAB39AA9-1143-FDC9-35154352F2FA428D.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 two updated versions
               </a>{" "}
@@ -116,6 +126,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=9AB6EB16-1143-FDC9-3551E7FA6A5B9C5C.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 new car for 2012
               </a>
@@ -124,6 +135,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=F2CA4DC9-1143-FDC9-3518AC12C64DF660.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 intended to complete the WEC season
               </a>{" "}
@@ -131,6 +143,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=29B497E9-1143-FDC9-35EC5EFBC6245B98.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 economic difficulties
               </a>{" "}
@@ -142,6 +155,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=3D327974-1143-FDC9-359143C4A5F111AC.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 announced a return
               </a>{" "}
@@ -154,6 +168,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=F17A9CC1-1143-FDC9-3528CAEF74DDAB37.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 cancellation of its sports car program
               </a>{" "}
@@ -166,6 +181,7 @@ export default function OneTwo() {
               <a
                 href="https://archive2.dailysportscar.com/viewArticle.cfm@articleUID=49AC3AD0-1143-FDC9-356AB22B06A563C4.html"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 reverted to the LMGTE-classes
               </a>{" "}
@@ -268,7 +284,7 @@ export default function OneTwo() {
                 </tr>
                 <tr>
                   <td rowSpan={6}>Audi R18 Ultra</td>
-                  <td rowSpan={6}>3</td>
+                  <td rowSpan={3}>3</td>
                   <td>Romain Dumas(FRA)</td>
                   <td>Spa, Le Mans</td>
                 </tr>
