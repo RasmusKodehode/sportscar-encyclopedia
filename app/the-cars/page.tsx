@@ -60,6 +60,7 @@ import TOYOTATS03012 from "../../public/TOYOTATS030Hybrid12.jpg";
 import PESCAROLO03 from "../../public/PESCAROLO03.jpg";
 import PEUGEOTHYBRID4 from "../../public/PEUGEOT908HYBRID4.jpg";
 import DOMES1025 from "../../public/DOMES102.5.jpg";
+import TOYOTATS03013 from "../../public/TOYOTATS030Hybrid13.jpg";
 
 export default function Cars() {
   return (
@@ -459,6 +460,24 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Toyota TS030 Hybrid 2012"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Toyota TS030 Hybrid</p>
+                <p>
+                  Engine: 3.4L V8 Naturally Aspirated + Supercapacitor MGU-K
+                </p>
+                <p>Ruleset: LMP1 (2011-2013)</p>
+                <p>Designed under Pascal Vasselon from Toyota Motorsport</p>
+                <p>First Event: 2013 Spa</p>
+                <p>Last Event: 2013 Bahrain</p>
+                <p>Heavily updated car for 2013</p>
+                <Image
+                  src={TOYOTATS03013}
+                  width={500}
+                  height={500}
+                  alt="Toyota TS030 Hybrid 2013"
                   className="w-72"
                 />
               </li>
