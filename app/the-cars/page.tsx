@@ -61,6 +61,10 @@ import PESCAROLO03 from "../../public/PESCAROLO03.jpg";
 import PEUGEOTHYBRID4 from "../../public/PEUGEOT908HYBRID4.jpg";
 import DOMES1025 from "../../public/DOMES102.5.jpg";
 import TOYOTATS03013 from "../../public/TOYOTATS030Hybrid13.jpg";
+import AUDIETRON14 from "../../public/AUDIR18E-Tron14.jpg";
+import TOYOTATS040 from "../../public/TOYOTATS040HYBRID.webp";
+import PORSCHE91914 from "../../public/PORSCHE919HYBRID14.jpg";
+import BYKOLLES14 from "../../public/BYKOLLESCLMP10114.jpg";
 
 export default function Cars() {
   return (
@@ -340,6 +344,24 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Audi R18 E-tron Quattro</p>
+                <p>Engine: 4.0L V6 Turbo Diesel + Flywheel Electric MGU-K</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>
+                  Designed by Audi Sport under Chris Reinke and Ulrich Baretzky
+                </p>
+                <p>First Event: 2014 Silverstone</p>
+                <p>Last Event: 2014 Interlagos</p>
+                <p>New car for 2014 with updated engine and hybrid system</p>
+                <Image
+                  src={AUDIETRON14}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 E Tron Quattro 2014"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -478,6 +500,24 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Toyota TS030 Hybrid 2013"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Toyota TS040 Hybrid</p>
+                <p>
+                  Engine: 3.7L V8 Naturally Aspirated + Supercapacitor MGU-K
+                </p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed under Pascal Vasselon from Toyota Motorsport</p>
+                <p>First Event: 2014 Silverstone</p>
+                <p>Last Event: 2015 Bahrain</p>
+                <p>New car for the updated regulations</p>
+                <Image
+                  src={TOYOTATS040}
+                  width={500}
+                  height={500}
+                  alt="Toyota TS040 Hybrid"
                   className="w-72"
                 />
               </li>
@@ -695,6 +735,22 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Porsche RS Spyder Evo"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Porsche 919 Hybrid</p>
+                <p>Engine: 2.0L V4 Turbo + Battery MGU-K + MGU-H</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed under Alex Hitzinger from Porsche AG</p>
+                <p>First Event: 2014 Silverstone</p>
+                <p>Last Event: 2014 Interlagos</p>
+                <p>New car to compete against Audi and Toyota</p>
+                <Image
+                  src={PORSCHE91914}
+                  width={500}
+                  height={500}
+                  alt="Porsche 919 Hybrid 2014"
                   className="w-72"
                 />
               </li>
@@ -1403,6 +1459,30 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Oreca 01"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>ByKolles</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">CLM P1/01</p>
+                <p>Engine: AER 2.4L V6 Twin Turbo</p>
+                <p>Ruleset: LMP1-L (2014-2016)</p>
+                <p>Designed by Paul White</p>
+                <p>First Event: 2014 COTA</p>
+                <p>Last Event: 2015 Silverstone</p>
+                <p>
+                  New LMP1 car after stepping up from LMP2, initially designed
+                  and raced under partnership with Lotus
+                </p>
+                <Image
+                  src={BYKOLLES14}
+                  width={500}
+                  height={500}
+                  alt="Bykolles CLM P 1 O 1 2014"
                   className="w-72"
                 />
               </li>
