@@ -740,6 +740,13 @@ export default function Circuits() {
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.25,174 (2012)</p>
               </li>
+              <li>
+                <p>Layout: 2013 IndyCar layout</p>
+                <p>Circuit Length: 3.283 km</p>
+                <p>Races Hosted: 1 (2013)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.25,290 (2013)</p>
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -763,6 +770,18 @@ export default function Circuits() {
                 <p>Races Hosted: 4 (2012-2015)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.39,670 (2015)</p>
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
+            <h3>Circuit of the Americas, Austin, Texas</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p>Layout: Grand Prix</p>
+                <p>Circuit Length: 5.513 km</p>
+                <p>Races Hosted: 4 (2013-2015)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.46,018 (2015)</p>
               </li>
             </ul>
           </div>
