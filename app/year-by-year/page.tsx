@@ -232,6 +232,9 @@ export default function YearByYear() {
             <li>
               <Link href="/year-by-year/2014">2014</Link>
             </li>
+            <li>
+              <Link href="/year-by-year/2015">2015</Link>
+            </li>
           </ul>
         </div>
       </main>
