@@ -28,6 +28,21 @@ export default function About() {
             summer it moved into a new home here at Sportscar Encyclopedia.
           </p>
         </div>
+        <div className="flex flex-col gap-2">
+          <h2>What is to come?</h2>
+          <p>
+            The seasons 1999-2015 were already covered, they have now been
+            transferred here. Race notes are stored in a separate file, I'm
+            still debating what to do with them. I'm in the process to collect
+            more detailed news chronicling the development of cars, I want to
+            make the season news sections more detailed. Over time I may add
+            more series, like FIA Sportscar Championship, JLMC and the new ELMS
+            that evolved from the LMS. In this project I will continue to cover
+            the seasons in chronological order, with the seasons from 2023 to
+            present will still be covered in the old project for the forseable
+            future.
+          </p>
+        </div>
         <div className="flex flex-col gap-3">
           <h2>FAQ</h2>
           <div className="flex flex-col gap-2">
