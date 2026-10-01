@@ -802,7 +802,7 @@ export default function Cars() {
                 <p>Designed under Alex Hitzinger from Porsche AG</p>
                 <p>First Event: 2015 Silverstone</p>
                 <p>Last Event: 2015 Bahrain</p>
-                <p>New car around upgraded engine for 2015</p>
+                <p>New car around upgraded engine and hybrid system for 2015</p>
                 <Image
                   src={PORSCHE91915}
                   width={500}
