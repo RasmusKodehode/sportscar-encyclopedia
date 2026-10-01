@@ -65,6 +65,10 @@ import AUDIETRON14 from "../../public/AUDIR18E-Tron14.jpg";
 import TOYOTATS040 from "../../public/TOYOTATS040HYBRID.webp";
 import PORSCHE91914 from "../../public/PORSCHE919HYBRID14.jpg";
 import BYKOLLES14 from "../../public/BYKOLLESCLMP10114.jpg";
+import AUDIETRON15 from "../../public/AUDIR18E-Tron15.jpg";
+import NISSANGTRLM from "../../public/NISSANGTRLMNISMO.webp";
+import PORSCHE91915 from "../../public/PORSCHE919HYBRID15.jpg";
+import BYKOLLES15 from "../../public/BYKOLLESCLMP101.jpg";
 
 export default function Cars() {
   return (
@@ -362,6 +366,22 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Audi R18 E-tron Quattro</p>
+                <p>Engine: 4.0L V6 Turbo Diesel + Flywheel Electric MGU-K</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed by Audi Sport under Chris Reinke</p>
+                <p>First Event: 2015 Silverstone</p>
+                <p>Last Event: 2015 Bahrain</p>
+                <p>Updated car for 2015</p>
+                <Image
+                  src={AUDIETRON15}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 E Tron Quattro 2015"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -566,6 +586,27 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Nissan GT-R LM Nismo</p>
+                <p>
+                  Engine: 3.0L V6 Twin turbo + Twin mechanical flywheel MGU-K
+                </p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed by Ben Bowlby for Nissan Motorsport</p>
+                <p>First Event: 2015 Le Mans</p>
+                <p>Last Event: 2015 Le Mans</p>
+                <p>
+                  Innovative car but ultimately dogged with problems and proved
+                  a disaster
+                </p>
+                <Image
+                  src={NISSANGTRLM}
+                  width={500}
+                  height={500}
+                  alt="Nissan GT R LM Nismo"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -751,6 +792,22 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Porsche 919 Hybrid 2014"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Porsche 919 Hybrid</p>
+                <p>Engine: 2.0L V4 Turbo + Battery MGU-K + MGU-H</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed under Alex Hitzinger from Porsche AG</p>
+                <p>First Event: 2015 Silverstone</p>
+                <p>Last Event: 2015 Bahrain</p>
+                <p>New car around upgraded engine for 2015</p>
+                <Image
+                  src={PORSCHE91915}
+                  width={500}
+                  height={500}
+                  alt="Porsche 919 Hybrid 2015"
                   className="w-72"
                 />
               </li>
@@ -1483,6 +1540,24 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Bykolles CLM P 1 O 1 2014"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">CLM P1/01</p>
+                <p>Engine: AER 2.4L V6 Twin Turbo</p>
+                <p>Ruleset: LMP1-L (2014-2016)</p>
+                <p>Designed by Paul White</p>
+                <p>First Event: 2015 Spa</p>
+                <p>Last Event: </p>
+                <p>
+                  Heavily updated car for 2015 after Bykolles split with Lotus
+                </p>
+                <Image
+                  src={BYKOLLES15}
+                  width={500}
+                  height={500}
+                  alt="Bykolles CLM P 1 O 1 2015"
                   className="w-72"
                 />
               </li>
