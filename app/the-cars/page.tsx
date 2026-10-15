@@ -1058,12 +1058,11 @@ export default function Cars() {
                 <p className="font-bold">Durango PM02</p>
                 <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
                 <p>Ruleset: LMP900</p>
-                <p>Designed by Someone, Maybe GMS?</p>
+                <p>Designed by Gianni Marelli</p>
                 <p>First Event: 2003 Le Mans</p>
                 <p>Last Event: 2003 Le Mans</p>
                 <p>
-                  New car to improve on the GMS Durango LMP1 from the previous 3
-                  years
+                  Heavily updated GMS Durango LMP1 from the previous 3 years
                 </p>
                 <Image
                   src={DURANGO}

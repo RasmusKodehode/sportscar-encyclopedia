@@ -5,16 +5,39 @@ export default function OneSix() {
     <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans">
       <main className="flex flex-1 w-full flex-col items-center justify-start lg:py-12 lg:px-16 bg-white gap-8 py-4 px-6">
         <h1>2016 Season</h1>
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 w-full">
           <h2>Series and Regulation News</h2>
           <ul>
-            <li></li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2015/06/10/2015-lmp1-performance-sparks-potential-performance-curb.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Huge speed increase between 2014-15, rule changes debated
+              </a>
+            </li>
           </ul>
         </div>
-        <div className="flex flex-col gap-2">
+        <div className="flex flex-col gap-2 w-full">
           <h2>Manufacturer News</h2>
           <ul>
-            <li></li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2015/07/16/nissan-to-test-revised-gt-r-lm-at-cota.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Nissan set to continue testing with revised GT-R LM
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2015/07/30/nissans-cota-test-sees-progress-with-revised-gt-r-lm.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                , rolls out high downforce aero-package
+              </a>
+            </li>
           </ul>
         </div>
         <div className="flex flex-col gap-2 w-full">
@@ -90,7 +113,7 @@ export default function OneSix() {
           <h2>Season Totals</h2>
           <div>
             <p>Number of Races: </p>
-            <p>Total Distance Covered:  km</p>
+            <p>Total Distance Covered: km</p>
           </div>
         </div>
         <div className="flex flex-col gap-2 w-full">

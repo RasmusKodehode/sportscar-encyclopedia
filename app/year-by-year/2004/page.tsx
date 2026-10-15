@@ -10,11 +10,59 @@ export default function ZeroFour() {
           <ul>
             <li>
               The ACO announced changes in the class structure for 2004, with
-              LMP900, LMGTP and LMP675 being replaced by LMP1 and LMP2. LMP900
-              and LMGTP-cars moved to LMP1, and LMP675 cars could be converted
-              to either of the new classes. Rule changes were also announced for
-              LMP1 with overhang limited and the floor structure changed to
-              limit downforce and make the cars less likely to take off.{" "}
+              LMP900, LMGTP and LMP675 being replaced by LMP1 and LMP2. LMP1 was
+              given a minimum weight of{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans018.htm"
+                target="_blamk"
+                rel="noopener noreferrer"
+              >
+                900 kg, with LMP2 set at 750 kg
+              </a>
+              . Engine regulations for LMP1 were similar to LMP900/LMGTP, but an
+              option for{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans022.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                5.5L turbo-diesel engines were added
+              </a>
+              . LMP2 would feature smaller and simpler engines, aimed at
+              privateer entries. Rule changes were also announced for LMP1 with
+              overhang limited and the floor structure changed to limit
+              downforce and make the cars less likely to take off.
+            </li>
+            <li>
+              It was also announced that older LMP900/LMP675/LMGTP cars would be
+              allowed to continue racing in the new classes. LMP900 and LMGTP
+              would compete in LMP1, carbon-chassised LMP675 cars would also
+              move to LMP1 (
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans027.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                keeping the 675 kg minimum weight
+              </a>
+              ), while aluminium and spaceframe cars could compete in LMP2
+              (running at 750 kg). Older cars running in the new classes would
+              also feature{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans245.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                smaller fuel tanks, narrower rear wings and smaller air
+                restrictors
+              </a>
+              . Older cars would continue to be eligible to race until the end
+              of 2005, but for the final year they would be even more restricted
+              with a 950 kg minimum weight for LMP900/LMGTP and 720 kg for
+              LMP675, an even smaller air restrictor and an extra 10mm thick
+              skid block.
+            </li>
+            <li>
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms292.htm"
                 target="_blank"
@@ -24,18 +72,27 @@ export default function ZeroFour() {
                 in ALMS,
               </a>{" "}
               allowing both new LMP1 and LMP2 cars and old LMP900 and LMP675
-              cars to compete in what became the P1 and P2 class. This allowed
-              Dyson racing to continue using their LMP675-spec MG-Lolas in P1.
+              cars to compete in what became the P1 and P2 class running to
+              2003-spec. This allowed Dyson racing to continue using their
+              LMP675-spec MG-Lolas in P1.
             </li>
             <li>
               After the announcement of the 1000 km of Le Mans preview race in
-              2003, ACO launched the new Le Mans Endurance Series, racing on
-              classic European circuits and bringing back the classic 1000 km/6
-              hour format from the old World Sportscar Championship days. Having
-              learned from the ELMS in 2001, the new series attracted several
-              teams from the FIA Sportscar championship and FIA GT championship,
-              with the resulting lack of interest forcing the FIA Sportscar
-              Championship to end following the 2003 season.
+              2003,{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans183.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                ACO launched the new Le Mans Endurance Series
+              </a>
+              , racing on classic European circuits and bringing back the
+              classic 1000 km/6 hour format from the old World Sportscar
+              Championship days. Having learned from the ELMS in 2001, the new
+              series attracted several teams from the FIA Sportscar championship
+              and FIA GT championship, with the resulting lack of interest
+              forcing the FIA Sportscar Championship to end following the 2003
+              season.
             </li>
             <li>
               <a
@@ -86,37 +143,82 @@ export default function ZeroFour() {
             <li>
               Having originally developed the 02S in 2002, Reynard went bankrupt
               and International Racing Management took over the project and
-              renamed it the DBA 03S for 2003. In 2004 the production was taken
-              over by Zytek, with the 2003 chassis sold to Creation Autosportif
-              and the new cars were{" "}
+              renamed it the DBA 03S for 2003. Going into 2004 the DBA was sold
+              to Creation Autosportif, while Zytek took over production of new
+              chassis'. The{" "}
               <a
-                href="http://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans348.htm"
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans317.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                badged as the Zytek 04S
-              </a>{" "}
-              and{" "}
-              <a
-                href="http://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans317.htm"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                campaigned by the Zytek factory team
+                2004-spec car was badged as a Zytek 04S
               </a>
-              . Both cars were entered in the LMES, with Zytek only running a
-              limited program while Creation brought the 2003-car to the two
-              final ALMS rounds as well.
+              , featuring some weight reduction measures and an updated engine
+              delivering more power. The first new chassis was built for Jota
+              Sport and was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans343.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                shaken down in early April
+              </a>
+              , with the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans348.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                factory car ready a week later
+              </a>
+              . Jota Sport ran their chassis with factory support for the full
+              LMES season, while the works team competed in selected LMES events
+              along with a Le Mans entry, and the team also considered bringing
+              the car to the final two ALMS-rounds. It also focused on
+              supporting the Jota-run car for the full LMES season. Creation
+              Autosportif brought their 2003-car to the full LMES season, as
+              well as the two final ALMS rounds.
             </li>
             <li>
-              Lister went into their 2nd season with the Storm LMP, starting at
-              Le Mans before finishing the LMES season.
+              After a challenging 2003 season with teething issues for the new
+              Storm LMP, Lister went into 2004 working on{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans254.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                updates both to the chassis and the engine to extract more power
+              </a>
+              . An updated car with a modified air intake and rear wing was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans296.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                testing in February
+              </a>
+              , with the car running in{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans409.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                its final Le Mans spec in May
+              </a>
+              . finishing the LMES season.
             </li>
             <li>
               Having been a Courage customer for several years, Henri
               Pescarolo's team took their 2003 car and updated it themselves,
-              improving the aero and switching out the Peugeot engine for a new
-              Judd V10. They debuted{" "}
+              improving the aero and switching out the Peugeot engine for a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans268.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                new Judd V10
+              </a>
+              . They debuted{" "}
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans372.htm"
                 target="_blank"
@@ -137,9 +239,15 @@ export default function ZeroFour() {
               reduced to supporting the remaining customers.
             </li>
             <li>
-              As the new LMP1 regulations made older LMP900 obsolete, Automotive
-              Durango switched its focus back to single seaters and didn't
-              return to sportscars in 2004.
+              After successfully competing at Le Mans in 2003 Automotive Durango
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans252.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                hoped to return in 2004
+              </a>
+              , aiming to compete in the new LMES as well as Le Mans.
             </li>
           </ul>
         </div>

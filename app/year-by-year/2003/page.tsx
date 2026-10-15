@@ -30,10 +30,17 @@ export default function ZeroThree() {
             </li>
             <li>
               Meanwhile, two years on from the failed ELMS, ACO tried again to
-              plan its own sportscar championship in Europe. To prepare for
-              this, it set up another experimental race at La Sarthe to check
-              the interest before committing to the new Le Mans Endurance Series
-              in 2004.
+              plan its own sportscar championship in Europe. To prepare for the
+              new Le Mans Endurance Series a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans201.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                1000 km/6h race was planned on the Bugatti Circuit at Le Mans
+              </a>{" "}
+              in November. In order to attract entries all class winners would
+              be awarded an automatic entry for Le Mans in 2004.
             </li>
           </ul>
         </div>
@@ -78,35 +85,87 @@ export default function ZeroThree() {
               in 2003.
             </li>
             <li>
-              MG too did not continue into 2003, following financial strain on
-              the company after two years where none of their cars reached the
-              finish. However the car lived on in the hands of privateers across
-              the world.
+              After two years competing at Le Mans with no finishes to show for
+              it MG looked set to scale back their factory involvement. The
+              manufacturer did look to get{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans008.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                two factory-supported entries
+              </a>{" "}
+              running alongside as many as two other customer cars at Le Mans,
+              but mysteriously the entry list was revealed with{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans041.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                only a single privately entered MG
+              </a>
+              .
             </li>
             <li>
-              Riley continued its partnership with Jim Matthews Racing,
-              competing at Sebring and Le Mans while Riley started working on
-              new projects.
+              Riley continued its{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans029.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                partnership with Jim Matthews Racing
+              </a>
+              , competing at Sebring and Le Mans with the MK III C. Riley
+              meanwile aimed to start work on a car to the new LMP regs coming,
+              hoping to partner with a manufacturer or backer to help fund the
+              project.
             </li>
             <li>
-              Courage continued into 2003, racing its C60 against Pescarolo's
-              now redesigned C60 Evo whilst also developing the C65 which debuted
-              at Le Mans in the LMP675 class.
+              Courage Competition went into another season with the C60,
+              featuring some{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans089.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                small evolutions compared to 2002
+              </a>
+              . The team went to Le Mans racing against Pescarolo Sport's
+              heavily redesigned C60 Evos, while developing and debuting the new
+              C65 in the LMP675-class.
             </li>
             <li>
               Lister Cars had competed in GT racing since the 90s with the
               Lister Storm, but for 2003 the manufacturer decided to switch to
               prototype racing. Andy Thorby was hired as chief designer,
               originally planning the car around a Judd V10 engine before a
-              Chevrolet V8 was eventually chosen. The new car debuted at Sebring
-              as preparations for Le Mans, before the team entered the new 1000
-              km race at Le Mans at the end of the season.
+              Chevrolet V8 was eventually chosen. The new Lister Storm was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans004.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                rolled out in February 2003
+              </a>{" "}
+              ahead of its debut at Sebring in preparation for Le Mans, before
+              the team entered the new 1000 km race at Le Mans at the end of the
+              season.
             </li>
             <li>
-              Having run a GMS-designed car in the FIA Sportscar Championship
-              since 2000, for 2003 Automotive Durango constructed their own car.
-              The PM02 again competed in the FIA Sportscar Championship, but
-              this year the team also went to Le Mans for the first time.
+              Durango Automotive had raced in the Sports Racing World Cup and
+              FIA Sportscar Championship since 2000 with the GMS-constructed GMS
+              Durango LMP1. Going into 2003 the team made{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans033.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                substantial developments to the car
+              </a>{" "}
+              led by Gianni Marelli, and the team made efforts to be recognized
+              by the FIA as a constructor. The newly named PM02 was testing in
+              March as development continued towards a Le Mans effort in
+              addition to another season in the FIA Sportscar Championship.
             </li>
             <li>
               For 2003 Ascari moved its focus back to Europe, competing in the

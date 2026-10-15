@@ -71,21 +71,33 @@ export default function OneFive() {
               >
                 abandon the start of the season
               </a>
-              , instead aiming for a Le Mans debut.
+              , instead aiming for a Le Mans debut. The plan was originally to
+              run the car in the 8MJ class with rear deployment, but the issues
+              in testing forced them to revise that{" "}
+              <a
+                href="https://www.dailysportscar.com/2015/05/16/nissans-darren-cox-confirms-2015-gt-r-lm-will-race-in-2-mj-category.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                to 2MJ and front deployment
+              </a>
+              .
             </li>
             <li>
-              After a promising fiest season Porsche rolled out a{" "}
+              Based on a promising first season Porsche developed a{" "}
               <a
                 href="https://www.dailysportscar.com/2015/03/26/porsches-2015-919-hybrid-launch-details.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                heavily updated 919 Hybrid
+                brand new 919 Hybrid
               </a>{" "}
-              for 2015. The car featured updated aero and updated hybrid system
-              to move the car to the top 8MJ category. The team returned for an
-              unchanged lineup of 2 cars for the full season, as well as adding
-              a{" "}
+              for 2015. The car featured updated aero based on learnings from
+              2014 and an updated engine and hybrid system to move the car to
+              the top 8MJ category. An early version of the new car was rolled
+              out in December 2014, with the final specification unveiled at the
+              WEC Prologue. The team returned for an unchanged lineup of 2 cars
+              for the full season, as well as adding a{" "}
               <a
                 href="https://www.dailysportscar.com/2014/11/24/porsche-confirm-third-919-hybrid-for-2015-le-mans.html"
                 target="_blank"
