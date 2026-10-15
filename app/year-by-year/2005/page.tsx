@@ -129,6 +129,20 @@ export default function ZeroFive() {
               Hybrid in the hope that it would be more competitive.
             </li>
             <li>
+              The Dome S101 had run in privateer hands since 2001, but for 2005
+              Dome{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans491.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                partnered with Team Gainer to enter a full factory car
+              </a>{" "}
+              for Le Mans. Over the winter the car was updated to the Hybrid
+              regulations and became the S101-Hb, and the team entered the LMES
+              opener at Spa as part of the preparation for Le Mans.
+            </li>
+            <li>
               Porsche{" "}
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms630.htm"
@@ -372,6 +386,27 @@ export default function ZeroFive() {
                 <tr>
                   <td>Jens Møller(DEN)</td>
                   <td>Silverstone</td>
+                </tr>
+                <tr>
+                  <td rowSpan={4}>
+                    <strong>Jim Gainer International</strong>
+                  </td>
+                  <td rowSpan={4}>Dome S101-Hb</td>
+                  <td rowSpan={4}>5</td>
+                  <td>Ryo Michigami(JAP)</td>
+                  <td>Spa, Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Seiji Ara(JAP)</td>
+                  <td>Spa, Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Shigekazu Wakisaka(JAP)</td>
+                  <td>Spa</td>
+                </tr>
+                <tr>
+                  <td>Katsutomo Kaneishi(JAP)</td>
+                  <td>Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={2}>

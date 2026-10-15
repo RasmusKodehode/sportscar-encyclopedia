@@ -205,7 +205,7 @@ export default function ZeroFour() {
               >
                 its final Le Mans spec in May
               </a>
-              . finishing the LMES season.
+              . Following Le Mans the team aimed to finish the LMES season.
             </li>
             <li>
               Having been a Courage customer for several years, Henri
@@ -239,7 +239,7 @@ export default function ZeroFour() {
               reduced to supporting the remaining customers.
             </li>
             <li>
-              After successfully competing at Le Mans in 2003 Automotive Durango
+              After successfully competing at Le Mans in 2003 Automotive Durango{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans252.htm"
                 target="_blank"
