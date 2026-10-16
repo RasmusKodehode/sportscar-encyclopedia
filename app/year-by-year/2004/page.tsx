@@ -173,11 +173,17 @@ export default function ZeroFour() {
               </a>
               . Jota Sport ran their chassis with factory support for the full
               LMES season, while the works team competed in selected LMES events
-              along with a Le Mans entry, and the team also considered bringing
-              the car to the final two ALMS-rounds. It also focused on
-              supporting the Jota-run car for the full LMES season. Creation
-              Autosportif brought their 2003-car to the full LMES season, as
-              well as the two final ALMS rounds.
+              along with a Le Mans entry, and the team also{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms464.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                considered bringing the car to the final two ALMS-rounds
+              </a>
+              . It also focused on supporting the Jota-run car for the full LMES
+              season. Creation Autosportif brought their 2003-car to the full
+              LMES season, as well as the two final ALMS rounds.
             </li>
             <li>
               After a challenging 2003 season with teething issues for the new
@@ -197,7 +203,15 @@ export default function ZeroFour() {
               >
                 testing in February
               </a>
-              , with the car running in{" "}
+              , with the team{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/lmes/2004/monza/monza1000_preview.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                skipping the LMES opener at Monza
+              </a>{" "}
+              in favour of more testing. The car tested in{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans409.htm"
                 target="_blank"
@@ -205,7 +219,7 @@ export default function ZeroFour() {
               >
                 its final Le Mans spec in May
               </a>
-              . Following Le Mans the team aimed to finish the LMES season.
+              , and following Le Mans the team aimed to finish the LMES season.
             </li>
             <li>
               Having been a Courage customer for several years, Henri
@@ -229,6 +243,46 @@ export default function ZeroFour() {
               at Monza, competing in LMES as well as bringing 2 cars to Le Mans.
             </li>
             <li>
+              Team Nasamax spent 2003 racing a Reynard 01Q with a Cosworth
+              engine running on a new sustainable bio-ethanol fuel. The team
+              continued the development of the bio-ethanol fuel, and in December
+              the team{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans261.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                tested the Reynard chassis with a new MG-badged Judd V10 engine
+              </a>
+              . The team was also working to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans280.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                convert the chassis into 2004 LMP1-spec
+              </a>{" "}
+              led by Kieron Salters and KWM who worked at Reynard before the
+              bankruptcy. The new{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans330.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Nasamax DM139 was rolled out in early April
+              </a>{" "}
+              ahead of its debut at the LMES opener at Monza. Following Le Mans,
+              the team opted to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2004lmes/lmes_152.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                skip Nurburgring in favour of more testing
+              </a>{" "}
+              ahead of the final two rounds.
+            </li>
+            <li>
               Meanwhile Courage switched to the LMP2 class to compete with the
               new C65 that debuted the year before.
             </li>
@@ -247,7 +301,16 @@ export default function ZeroFour() {
               >
                 hoped to return in 2004
               </a>
-              , aiming to compete in the new LMES as well as Le Mans.
+              , aiming to compete in the new LMES as well as Le Mans. The team
+              was on the entry list for the LMES-opener at Monza, but became a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/lmes/2004/monza/monza1000_preview.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                late withdrawal without much info
+              </a>
+              .
             </li>
           </ul>
         </div>
@@ -426,6 +489,27 @@ export default function ZeroFour() {
                 <tr>
                   <td>Chris Dyson(USA)</td>
                   <td>Silverstone</td>
+                </tr>
+                <tr>
+                  <td rowSpan={2}>
+                    <strong>Team Nasamax</strong>
+                  </td>
+                  <td rowSpan={2}>Nasamax DM139</td>
+                  <td rowSpan={2}>14</td>
+                  <td>Robbie Sterling(CAN)</td>
+                  <td>Monza, Le Mans, Silverstone, Spa</td>
+                </tr>
+                <tr>
+                  <td>Werner Lupberger(ZAF)</td>
+                  <td>Monza, Le Mans, Silverstone, Spa</td>
+                </tr>
+                <tr>
+                  <td>Kevin McGarrity(GBR)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Romain Dumas(FRA)</td>
+                  <td>Silverstone, Spa</td>
                 </tr>
                 <tr>
                   <td rowSpan={6}>

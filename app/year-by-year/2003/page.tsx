@@ -139,7 +139,8 @@ export default function ZeroThree() {
               Lister Storm, but for 2003 the manufacturer decided to switch to
               prototype racing. Andy Thorby was hired as chief designer,
               originally planning the car around a Judd V10 engine before a
-              Chevrolet V8 was eventually chosen. The new Lister Storm was{" "}
+              Chevrolet-derived V8 was eventually chosen. The new Lister Storm
+              was{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans004.htm"
                 target="_blank"

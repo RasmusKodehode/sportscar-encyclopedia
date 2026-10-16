@@ -25,6 +25,7 @@ import PANOZLMP01 from "../../public/PANOZLMP01.jpg";
 import BENTLEYSPEED8 from "../../public/BENTLEYSpeed8.jpg";
 import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
 import DURANGO from "../../public/DURANGOPM02.jpg";
+import NASAMAX from "../../public/NASAMAXDM139.jpg";
 import ZYTEK04 from "../../public/ZYTEK04S.jpg";
 import PESCAROLOC60 from "../../public/PESCAROLOC60.jpg";
 import PORSCHERSSPYDER from "../../public/PORSCHERSSpyder.jpg";
@@ -648,7 +649,7 @@ export default function Cars() {
                 />
               </li>
               <li>
-                <p className="font-bold">Courage C60 Hybrid</p>
+                <p className="font-bold">Courage C60H</p>
                 <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
                 <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
                 <p>Designed by Paolo Catone</p>
@@ -659,7 +660,7 @@ export default function Cars() {
                   src={COURAGEHYBRID}
                   width={500}
                   height={500}
-                  alt="Courage C60 Hybrid"
+                  alt="Courage C60 H"
                   className="w-72"
                 />
               </li>
@@ -1076,6 +1077,29 @@ export default function Cars() {
             </ul>
           </div>
           <div className="flex flex-col gap-1">
+            <h3>Team Nasamax</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">Nasamax DM139</p>
+                <p>Engine: Judd 5.0L V10 Naturally Aspirated</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
+                <p>Designed by Kieron Salters from KWM</p>
+                <p>First Event: 2004 Monza</p>
+                <p>Last Event: 2004 Spa</p>
+                <p>
+                  Updated version of the Reynard 01Q from 2003
+                </p>
+                <Image
+                  src={NASAMAX}
+                  width={500}
+                  height={500}
+                  alt="Nasamax DM139"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
             <h3>Zytek</h3>
             <ul className="flex flex-col gap-4">
               <li>
@@ -1227,7 +1251,7 @@ export default function Cars() {
                 <p className="font-bold">Dome S101-Hb</p>
                 <p>Engine: Mugen 4.0L V8 Naturally Aspirated</p>
                 <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
-                <p>Designed by Akiyoshi Oku</p>
+                <p>Designed by Hiroshi Yuchi</p>
                 <p>First Event: 2005 Spa</p>
                 <p>Last Event: 2005 Le Mans</p>
                 <p>Hybrid version of the S101, ran by Dome factory team</p>

@@ -87,20 +87,63 @@ export default function ZeroFive() {
             <li>
               After racing the C60 in 2004, Pescarolo{" "}
               <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans520.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                started work on an updated car
+              </a>{" "}
+              to avoit the handicaps imposed on the old LMP900 cars. The new C60
+              Hybrid was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans578.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                shaken down in February
+              </a>{" "}
+              before{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans602.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                testing started in March
+              </a>
+              . The car was{" "}
+              <a
                 href="http://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans621.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                updated the car for 2005
-              </a>{" "}
-              to the new hybrid regulations that meant the car avoided the
-              handicaps imposed on the old LMP900 cars. The team raced 1 of the
-              new C60 Hybrids in the LMES, with a 2nd car joining for Le Mans.
+                formally unveiled in April
+              </a>
+              , with 1 car set to complete the LMES season and a 2nd car joining
+              for Le Mans.
             </li>
             <li>
-              Having tested the new LMP2-spec C65 in 2004 Courage's factory team
-              moved back to LMP1 for 2005, racing an upgraded C60 for the new
-              hybrid regulations.
+              Courage Competition spent 2004 getting the new LMP2-spec C65 up to
+              speed, but over the winter the team worked on developing the old
+              C60 for 2005. Under the partnership with Panoz a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans558.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                switch to the Elan engine was considered
+              </a>
+              , but the team opted to stick with the existing Judd V10 to avoid
+              delays. The new C60H started testing in January despite several
+              sessions having to be{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans635.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                abandoned due to snow
+              </a>
+              . The Courage factory team brought one C60H to the full LMES
+              season, and a second car joined for Le Mans.
             </li>
             <li>
               The Zytek factory team expanded their program for 2005 after new{" "}
@@ -123,10 +166,46 @@ export default function ZeroFive() {
               .
             </li>
             <li>
-              With the sponsorship from Essex Invest moving to Zytek, it left
-              Lister with a reduced budget for 2005. The team started at Spa,
-              but by the Silverstone round the team debuted the new Storm LMP
-              Hybrid in the hope that it would be more competitive.
+              2004 showed promise with the updated Storm LMP, and the team aimed
+              for an expanded program for 2005 including the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans490.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                full LMES as well as a few ALMS races
+              </a>
+              . Lister had also started work on a hybrid version of the car,
+              which was expected to evolve into a new LMP1-spec car for 2006.
+              However at the start of 2005 when the sponsorship from Essex
+              Invest departed the targets for the year were altered, with the
+              team set to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans556.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                start the season with the 2004 car
+              </a>
+              , whilst working on a brand new full LMP1-spec car for 2006. The
+              team continued work on the Hybrid, initially{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/lmes/2005/monza/monza1000_preview.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                hoping to debut it at Monza
+              </a>{" "}
+              before delaying it to Silverstone. The{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2005lmes/lmes_333.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Storm LMP Hybrid rolled out in August
+              </a>
+              , with the team hoping to attract sponsorship to run the car at
+              more races later in the season.
             </li>
             <li>
               The Dome S101 had run in privateer hands since 2001, but for 2005
@@ -138,12 +217,43 @@ export default function ZeroFive() {
               >
                 partnered with Team Gainer to enter a full factory car
               </a>{" "}
-              for Le Mans. Over the winter the car was updated to the Hybrid
-              regulations and became the S101-Hb, and the team entered the LMES
-              opener at Spa as part of the preparation for Le Mans.
+              for Le Mans. Development of the new{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans588.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                S101-Hb started in August 2004
+              </a>
+              , with a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans566.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                wind-tunnel model shown off in February
+              </a>
+              . The car was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans606.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                rolled out in Japan in March
+              </a>
+              , ahead of it's debut in the LMES-opener at Spa as part of the
+              preparation for Le Mans.
             </li>
             <li>
-              Porsche{" "}
+              Roumors circulated in the summer of 2004 about a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans479.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Porsche LMP being under development
+              </a>{" "}
+              and testing in South Africa. In April 2005, Porsche{" "}
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms630.htm"
                 target="_blank"
