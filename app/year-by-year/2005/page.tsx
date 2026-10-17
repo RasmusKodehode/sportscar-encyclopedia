@@ -9,12 +9,21 @@ export default function ZeroFive() {
           <h2>Series and Regulation News</h2>
           <ul>
             <li>
-              With the ageing Audi R8 still being competitive, the ACO announced
-              that 2005 would be the last year that cars built to the old LMP900
-              and LMP675 rules would be permitted to race, and the cars were
-              also handicapped with more ballast and less power than the newer
-              LMP1 machines. Manufacturers were given the opportunity to update
-              older cars with LMP1-spec bodywork, known as Hybrid LMP1, and cars
+              With the publication of the new LMP1 regulations starting in 2004
+              it was also announced that 2005 would be the last year LMP900 and
+              LMP675-spec cars would be eligible at Le Mans and LMES. Further
+              handicaps for 2005 were also announced then, and{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans485.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                confirmed in August 2004
+              </a>
+              , with a further 5% reduction in air restrictor size and new
+              minimum weights of 950 kg for LMP900 cars and 720 kg for LMP675
+              cars. Manufacturers were given the opportunity to update older
+              cars with LMP1-spec bodywork, known as Hybrid LMP1, and cars
               running in this spec would not get the extra handicap.
             </li>
             <li>
@@ -166,7 +175,7 @@ export default function ZeroFive() {
               .
             </li>
             <li>
-              2004 showed promise with the updated Storm LMP, and the team aimed
+              2004 showed promise with the updated Storm LMP, and Lister aimed
               for an expanded program for 2005 including the{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans490.htm"
@@ -175,8 +184,15 @@ export default function ZeroFive() {
               >
                 full LMES as well as a few ALMS races
               </a>
-              . Lister had also started work on a hybrid version of the car,
-              which was expected to evolve into a new LMP1-spec car for 2006.
+              . The team was planning to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2004lmes/lmes_216.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                debut a new hybrid version of the car
+              </a>
+              , which was expected to evolve into a full LMP1-spec car for 2006.
               However at the start of 2005 when the sponsorship from Essex
               Invest departed the targets for the year were altered, with the
               team set to{" "}
@@ -245,6 +261,59 @@ export default function ZeroFive() {
               preparation for Le Mans.
             </li>
             <li>
+              Following an encouraging 2004, Team Nasamax initially planned an
+              expanded 2005 effort with{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2004lmes/lmes_209.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                two heavily updated cars
+              </a>
+              , potentially for both Sebring, LMES and Le Mans. This was later
+              scaled back to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans540.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                a single car for Spa and Le Mans
+              </a>
+              , before building a brand new car for 2006. The team planned to
+              complete the LMES season and they had a Le Mans entry, but at the
+              beginning of April the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans620.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Le Mans entry was withdrawn
+              </a>
+              , and the team never showed up to the LMES opener.
+            </li>
+            <li>
+              Following the end of the MK III-C Riley started work on a new
+              LMP1-car. The{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms608.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                project was announced in March
+              </a>
+              , and renders of the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms637.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                MK XIV was shown off in June
+              </a>
+              . The car was designed to work with a multitude of engines, and
+              Riley estimated that cars could be delivered to customers by the
+              end of 2005.
+            </li>
+            <li>
               Roumors circulated in the summer of 2004 about a{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans479.htm"
@@ -261,11 +330,33 @@ export default function ZeroFive() {
               >
                 announced its return to sportscar racing
               </a>{" "}
-              with the new RS Spyder, built for the LMP2 regulations. Porsche
-              partnered with Penske Motorsport to run the cars as a factory
-              team, testing throughout 2005 and initially planning to debut at
-              Petit Le Mans before that was delayed to the final round at Laguna
-              Seca.
+              with a new LMP2 car, operated together with Penske Motorsports.
+              The RS Spyder was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms638.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                revealed in June
+              </a>{" "}
+              before{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms643.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                testing started in July
+              </a>
+              . The plan was initially to debut the car at Petit Le Mans, but it
+              was eventually{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms665.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                delayed to the final round at Laguna Seca
+              </a>
+              .
             </li>
           </ul>
         </div>

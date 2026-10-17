@@ -238,7 +238,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Audi R10 TDI</p>
                 <p>Engine: 5.5L V12 Twin-turbo Diesel</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Wolfgang Appel and Ulrich Baretzky for Audi</p>
                 <p>First Event: 2006 Sebring</p>
                 <p>Last Event: 2008 Laguna Seca</p>
@@ -667,7 +667,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Courage LC70</p>
                 <p>Engine: Mugen 4.5L V8 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Paolo Catone</p>
                 <p>First Event: 2006 Istanbul</p>
                 <p>Last Event: 2006 Jarama</p>
@@ -686,7 +686,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Courage LC70</p>
                 <p>Engine: AER 3.6L V8 Turbo</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Paolo Catone</p>
                 <p>First Event: 2007 Monza</p>
                 <p>Last Event: 2007 Silverstone</p>
@@ -702,7 +702,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Courage-Oreca LC70</p>
                 <p>Engine: Judd/AIM 5.5L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Paolo Catone, redesigned by Oreca</p>
                 <p>First Event: 2008 Barcelona</p>
                 <p>Last Event: 2009 Barcelona </p>
@@ -1194,7 +1194,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Pescarolo 01</p>
                 <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Andre de Cortanze for Pescarolo Sport</p>
                 <p>First Event: 2007 Monza</p>
                 <p>Last Event: 2008 Silverstone</p>
@@ -1266,7 +1266,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Dome S102</p>
                 <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Hiroshi Yuchi</p>
                 <p>First Event: 2008 Le Mans</p>
                 <p>Last Event: 2008 Le Mans</p>
@@ -1328,7 +1328,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Creation CA07</p>
                 <p>Engine: Judd/AIM 5.5L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>
                   Originally designed by Reynard before being bought by IRM and
                   later modified by KWM
@@ -1358,7 +1358,7 @@ export default function Cars() {
                   Engine: Ford 6.0L V8 Naturally Aspirated/AER 4.0L V8
                   Twin-turbo
                 </p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Giovanni Lavaggi</p>
                 <p>First Event: 2006 Jarama</p>
                 <p>Last Event: 2009 Nurburgring</p>
@@ -1424,7 +1424,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Peugeot 908 HDi FAP</p>
                 <p>Engine: 5.5L V12 Twin-turbo Diesel</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by Paolo Catone for Peugeot Sport</p>
                 <p>First Event: 2007 Monza</p>
                 <p>Last Event: 2010 Zhuhai</p>
@@ -1480,7 +1480,7 @@ export default function Cars() {
               <li>
                 <p className="font-bold">Epsilon Euskadi EE1</p>
                 <p>Engine: Judd 5.5L V10 Naturally Aspirated</p>
-                <p>Ruleset: LMP1 (2006-2008)</p>
+                <p>Ruleset: LMP1 (2004-2008)</p>
                 <p>Designed by John Travis</p>
                 <p>First Event: 2008 Barcelona</p>
                 <p>Last Event: 2008 Silverstone</p>

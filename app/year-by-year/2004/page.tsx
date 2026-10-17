@@ -143,9 +143,23 @@ export default function ZeroFour() {
             <li>
               Having originally developed the 02S in 2002, Reynard went bankrupt
               and International Racing Management took over the project and
-              renamed it the DBA 03S for 2003. Going into 2004 the DBA was sold
-              to Creation Autosportif, while Zytek took over production of new
-              chassis'. The{" "}
+              renamed it the DBA 03S for 2003. The DBA was sold to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_071.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Creation Autosportif in November 2003
+              </a>
+              , and in January it was announced that{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2004lmes/lmes_083.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Zytek would take over production of new chassis'
+              </a>
+              . The{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans317.htm"
                 target="_blank"
@@ -181,9 +195,8 @@ export default function ZeroFour() {
               >
                 considered bringing the car to the final two ALMS-rounds
               </a>
-              . It also focused on supporting the Jota-run car for the full LMES
-              season. Creation Autosportif brought their 2003-car to the full
-              LMES season, as well as the two final ALMS rounds.
+              . Creation Autosportif brought their 2003-car to the full LMES
+              season, as well as the two final ALMS rounds.
             </li>
             <li>
               After a challenging 2003 season with teething issues for the new
@@ -301,8 +314,16 @@ export default function ZeroFour() {
               >
                 hoped to return in 2004
               </a>
-              , aiming to compete in the new LMES as well as Le Mans. The team
-              was on the entry list for the LMES-opener at Monza, but became a{" "}
+              , aiming to compete in the new LMES as well as Le Mans. In
+              february the team was roumored to plan{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2004lmes/lmes_095.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                two cars on the grid for the LMES opener
+              </a>
+              , and they had a car on the Monza entry list, but became a{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/lmes/2004/monza/monza1000_preview.htm"
                 target="_blank"
@@ -491,11 +512,11 @@ export default function ZeroFour() {
                   <td>Silverstone</td>
                 </tr>
                 <tr>
-                  <td rowSpan={2}>
+                  <td rowSpan={4}>
                     <strong>Team Nasamax</strong>
                   </td>
-                  <td rowSpan={2}>Nasamax DM139</td>
-                  <td rowSpan={2}>14</td>
+                  <td rowSpan={4}>Nasamax DM139</td>
+                  <td rowSpan={4}>14</td>
                   <td>Robbie Sterling(CAN)</td>
                   <td>Monza, Le Mans, Silverstone, Spa</td>
                 </tr>
