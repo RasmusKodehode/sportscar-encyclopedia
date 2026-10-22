@@ -48,8 +48,15 @@ export default function ZeroThree() {
           <h2>Manufacturer News</h2>
           <ul>
             <li>
-              Audi pulled out of sportscar racing after 2002 as a works team,
-              however the cars kept racing for privateer teams.{" "}
+              Audi pulled out of sportscar racing at the end of 2002, but the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2003alms/alms007.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                R8 was adapted for the smaller air restrictors
+              </a>{" "}
+              mandated for 2003 in order to keep it racing for privateer teams.{" "}
               <a
                 href="https://web.archive.org/web/20030724235027/http:/www.imsaracing.net/imsa.cfm?h=/2003/news/header.htm&p=/2003/news/020503b.htm"
                 target="_blank"
@@ -57,27 +64,98 @@ export default function ZeroThree() {
               >
                 Joest Racing
               </a>{" "}
-              and Champion Racing contested ALMS, With Champion Racing joining
-              Audi Sport Team UK and the Japanese Team Goh at Le Mans.
+              took one of the old factory Audis for the full ALMS season, and
+              Champion Racing got their{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2003alms/alms013.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                cars up to full 2002-spec
+              </a>{" "}
+              ahead of an ALMS effort along with a Le Mans entry. Team Goh also
+              had their{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans007.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                chassis used in 2002 brought up to spec
+              </a>
+              , the team returned to Le Mans and also{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_010.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                joined the LMES event
+              </a>{" "}
+              at the end of the season. Audi Sport Team UK took over one of the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans094.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                factory cars from Le Mans 2002
+              </a>
+              , they would join the Goh and Champion cars at Le Mans.
             </li>
             <li>
-              Panoz also pulled out as a factory team,{" "}
+              With Audi withdrawing their factory team from ALMS Panoz felt it
+              was unfair to own the series and be the only full factory team
+              competing. It therefore made a deal with{" "}
               <a
                 href="https://web.archive.org/web/20030724235820/http:/www.imsaracing.net/imsa.cfm?h=/2003/news/header.htm&p=/2003/news/020703b.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                with its two LMP01s racing under the JML Team Panoz banner
+                team JML to run the Panoz' for 2003
               </a>{" "}
-              in both ALMS and Le Mans, however the ageing cars struggled for
-              pace.
+              with factory support. However, instead of running the 2002-spec
+              LMP01 Evos, the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2003alms/alms059.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                2003-spec LMP01s
+              </a>{" "}
+              looked very much like rebadged LMP-1 Roadster-S'. The team
+              operated 2 cars for the full ALMS season, and the cars were also
+              brought to Le Mans. The team also entered the LMES-event at the
+              end of the season,{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_014.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                bringing back the old Esperante GTR-1
+              </a>{" "}
+              for one last race.
             </li>
             <li>
-              Bentley debuted a new car, the Speed 8, contesting the 12h of
-              Sebring for the first time as well as Le Mans. For the 3rd season
-              the running of the program was split between Racing Team Norfolk
-              which had operated the cars previously, and Joest Racing who was
-              also working with Audi.
+              Bentley spent 2002 developing a new car around the 4.0L engine ran
+              in the EXP Speed 8 in 2002. The new Speed 8 faced an intense
+              testing program{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2003alms/alms001.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                already underway in February
+              </a>
+              , and the team also opted to{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2003alms/alms045.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                bring the cars to Sebring
+              </a>{" "}
+              for the first time. For the 3rd and final season the running of
+              the program was split between Racing Team Norfolk which had
+              operated the cars previously, and Joest Racing who was also
+              working with Audi.
             </li>
             <li>
               After its most successful year of the program, Cadillac elected
@@ -255,6 +333,36 @@ export default function ZeroThree() {
                   <td>Le Mans</td>
                 </tr>
                 <tr>
+                  <td rowSpan={6}>
+                    <strong>Audi Sport UK</strong>
+                  </td>
+                  <td rowSpan={6}>Audi R8</td>
+                  <td rowSpan={3}>9</td>
+                  <td>Perry McCarthy(GBR)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Mika Salo(FIN)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Jonny Kane(GBR)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>10</td>
+                  <td>Frank Biela(DEU)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Perry McCarthy(GBR)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Mika Salo(FIN)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
                   <td rowSpan={4}>
                     <strong>Audi Sport Japan Team Goh</strong>
                   </td>
@@ -274,23 +382,6 @@ export default function ZeroThree() {
                 <tr>
                   <td>Tom Kristensen(DEN)</td>
                   <td>LM1000k</td>
-                </tr>
-                <tr>
-                  <td rowSpan={3}>
-                    <strong>Audi Sport UK</strong>
-                  </td>
-                  <td rowSpan={3}>Audi R8</td>
-                  <td rowSpan={3}>10</td>
-                  <td>Frank Biela(DEU)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td>Perry McCarthy(GBR)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td>Mika Salo(FIN)</td>
-                  <td>Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={16}>

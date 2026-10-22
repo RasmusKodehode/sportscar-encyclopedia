@@ -32,8 +32,8 @@ export default function ZeroFive() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Older generation LMP900 cars would still be allowed to race in
-                ALMS
+                Older 2003-spec LMP900/675 cars would still be allowed to race
+                in ALMS
               </a>
               , with IMSA not enforcing the new rules yet, allowing older cars
               to compete alongside newer LMP1 cars.
@@ -72,9 +72,17 @@ export default function ZeroFive() {
             </li>
             <li>
               LMES also focused on steady growth after a successful first
-              season, keeping the 4 events from 2004, and{" "}
+              season,{" "}
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/lmes/2005lmes/lmes_261.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                keeping the 4 events from 2004
+              </a>
+              , and{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2005lmes/lmes_262.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -88,10 +96,59 @@ export default function ZeroFive() {
           <h2>Manufacturer News</h2>
           <ul>
             <li>
-              In the US, Champion Racing continued racing their two R8s, also
-              competing at Le Mans. Audi Sport Team UK and Team Goh chose not to
-              continue beyond 2004, with Team Oreca taking over one of the R8s
-              to compete in the LMES and Le Mans.
+              Despite winning at Le Mans in 2004{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans498.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Team Goh lost their main sponsor
+              </a>{" "}
+              in the autumn, and therefore couldn't return in 2005. Team Veloqx
+              also ran into money trouble and was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans500.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                forced to close its doors
+              </a>{" "}
+              at the end of 2004, ruling out any Audi UK-operated Audis in 2005.
+              Team Oreca, which had previously operated the works Dodge Vipers
+              and Chrysler LMP/Dallara SP1s{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans508.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                signed a deal to run an Audi R8
+              </a>{" "}
+              in 2005. Initially the team was planning to only{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans510.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                compete in the LMES opener at Spa and Le Mans
+              </a>
+              , but the team also entered selected LMES events as well. Champion
+              Racing went into 2005 with{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2005alms/alms533.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                new support from Audi Sport North America
+              </a>
+              . The team ran both its cars for the full ALMS season, and the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans552.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                two cars also went to Le Mans
+              </a>
+              .
             </li>
             <li>
               After racing the C60 in 2004, Pescarolo{" "}
@@ -496,7 +553,7 @@ export default function ZeroFive() {
                   <td rowSpan={9}>
                     <strong>Courage Competition</strong>
                   </td>
-                  <td rowSpan={9}>Courage C60 Hybrid</td>
+                  <td rowSpan={9}>Courage C60H</td>
                   <td rowSpan={6}>13</td>
                   <td>Jonathan Cochet(FRA)</td>
                   <td>Spa, Le Mans, Silverstone, Nurburgring</td>

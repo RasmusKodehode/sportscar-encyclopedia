@@ -126,11 +126,65 @@ export default function ZeroFour() {
           <h2>Manufacturer News</h2>
           <ul>
             <li>
-              Audi started work on a new car to succeed the R8, which would
-              ultimately debut in 2006. Meanwhile the Joest Team ended their
-              program in ALMS, leaving only Champion Racing competing in the US.
-              In Europe, Team Goh and Audi Sport UK also operated Audis in the
-              new LMES, with Team UK also making the trip to Sebring.
+              Roumors circulated in late summer of 2003 that Audi was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans212.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                working on a new LMP
+              </a>{" "}
+              with a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans227.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                diesel engine
+              </a>
+              , set to debut in 2004. However the new season came without a new
+              Audi, but the R8s continued racing.{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_068.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Team Joest exited sportscar racing
+              </a>{" "}
+              and moved to DTM, after its duel program in 2003. Audi Sport UK
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans243.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                partnered with Veloqx Mortorsport
+              </a>{" "}
+              to run 2 R8s at Sebring, Le Mans and the LMES season.{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans223.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Team Goh returned with the same R8
+              </a>
+              it ran in 2003, also planning to enter the full LMES season and Le
+              Mans. Champion Racing was the last to announce their program, with{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms282.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                1 car each for the ALMS season and Le Mans
+              </a>
+              . The team then put the Le Mans chassis to work,{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms463.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                entering the final two races
+              </a>{" "}
+              of the season at Petit Le Mans and Laguna Seca.
             </li>
             <li>
               After winning Le Mans in the 3rd year of the program, Bentley
@@ -394,10 +448,40 @@ export default function ZeroFour() {
                   <td>Petit Le Mans, Laguna Seca</td>
                 </tr>
                 <tr>
-                  <td rowSpan={6}>
+                  <td rowSpan={9}>
                     <strong>Audi Sport UK Team Veloqx</strong>
                   </td>
-                  <td rowSpan={6}>Audi R8</td>
+                  <td rowSpan={9}>Audi R8</td>
+                  <td rowSpan={3}>28</td>
+                  <td>Frank Biela(DEU)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Allan McNish(GBR)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Pierre Kaffer(DEU)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>88</td>
+                  <td>Johnny Herbert(GBR)</td>
+                  <td>
+                    Sebring, Monza, Le Mans, Nurburgring, Silverstone, Spa
+                  </td>
+                </tr>
+                <tr>
+                  <td>Jamie Davies(GBR)</td>
+                  <td>
+                    Sebring, Monza, Le Mans, Nurburgring, Silverstone, Spa
+                  </td>
+                </tr>
+                <tr>
+                  <td>Guy Smith(GBR)</td>
+                  <td>Sebring, Le Mans</td>
+                </tr>
+                <tr>
                   <td rowSpan={3}>8</td>
                   <td>Pierre Kaffer(DEU)</td>
                   <td>Monza, Le Mans, Nurburgring, Silverstone, Spa</td>
@@ -408,19 +492,6 @@ export default function ZeroFour() {
                 </tr>
                 <tr>
                   <td>Frank Biela(DEU)</td>
-                  <td>Le Mans</td>
-                </tr>
-                <tr>
-                  <td rowSpan={3}>88</td>
-                  <td>Johnny Herbert(GBR)</td>
-                  <td>Monza, Le Mans, Nurburgring, Silverstone, Spa</td>
-                </tr>
-                <tr>
-                  <td>Jamie Davies(GBR)</td>
-                  <td>Monza, Le Mans, Nurburgring, Silverstone, Spa</td>
-                </tr>
-                <tr>
-                  <td>Guy Smith(GBR)</td>
                   <td>Le Mans</td>
                 </tr>
                 <tr>
