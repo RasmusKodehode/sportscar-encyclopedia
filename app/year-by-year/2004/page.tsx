@@ -151,7 +151,7 @@ export default function ZeroFour() {
               >
                 Team Joest exited sportscar racing
               </a>{" "}
-              and moved to DTM, after its duel program in 2003. Audi Sport UK
+              and moved to DTM, after its duel program in 2003. Audi Sport UK{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans243.htm"
                 target="_blank"
@@ -166,7 +166,7 @@ export default function ZeroFour() {
                 rel="noopener noreferrer"
               >
                 Team Goh returned with the same R8
-              </a>
+              </a>{" "}
               it ran in 2003, also planning to enter the full LMES season and Le
               Mans. Champion Racing was the last to announce their program, with{" "}
               <a

@@ -95,9 +95,9 @@ export default function OneFive() {
               for 2015. The car featured updated aero based on learnings from
               2014 and an updated engine and hybrid system to move the car to
               the top 8MJ category. An early version of the new car was rolled
-              out in December 2014, with the final specification unveiled at the
-              WEC Prologue. The team returned for an unchanged lineup of 2 cars
-              for the full season, as well as adding a{" "}
+              out in December 2014, with the Le Mans specification unveiled at
+              the WEC Prologue. The team returned for an unchanged lineup of 2
+              cars for the full season, as well as adding a{" "}
               <a
                 href="https://www.dailysportscar.com/2014/11/24/porsche-confirm-third-919-hybrid-for-2015-le-mans.html"
                 target="_blank"
@@ -105,7 +105,8 @@ export default function OneFive() {
               >
                 3rd car for Spa and Le Mans
               </a>
-              .
+              . A new high-downforce aero package was rolled out at COTA, and
+              used for the rest of teh season.
             </li>
             <li>
               Audi revealed a{" "}
@@ -126,7 +127,16 @@ export default function OneFive() {
               </a>{" "}
               and updates to maximise the engine and hybrid system. The team
               continued with 2 cars for the WEC season and 3 cars for Spa and Le
-              Mans.
+              Mans. The launch-spec aero package was used at Silverstone, before
+              the Le Mans-package was debuted at Spa. The team{" "}
+              <a
+                href="https://www.dailysportscar.com/2015/10/08/fia-wec-fuji-thursday-paddock-notes-aero-changes-for-audi-and-porsche.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                rolled out another revised aero package at Fuji
+              </a>
+              , which would finish the season.
             </li>
             <li>
               Toyota returned for a second season with an{" "}

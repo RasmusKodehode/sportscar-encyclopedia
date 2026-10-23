@@ -38,6 +38,20 @@ export default function OneSeven() {
               >
                 Strakka announces LMP1 project for 2017
               </a>
+              ,
+              <a href="https://www.dailysportscar.com/2015/11/03/proposed-new-strakka-and-greaves-lmp1-privateer-programmes-hit-the-buffers.html">
+                However the project was parked by November
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2015/11/26/smp-racing-and-the-br01-the-way-forward.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                BR Engineering could build a new LMP1 car following new LMP2
+                regs
+              </a>
             </li>
           </ul>
         </div>
