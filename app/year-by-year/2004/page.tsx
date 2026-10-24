@@ -354,6 +354,37 @@ export default function ZeroFour() {
               new C65 that debuted the year before.
             </li>
             <li>
+              Welter Racing entered 2004 with the same goal as in 2003, aiming
+              to run both the newer and the older chassis'. The LMP-02 from 2003
+              was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans304.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                modified into the LM2004
+              </a>{" "}
+              for the new LMP2-class, with the team also getting an upgraded
+              Peugeot V6. The new car was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans312.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                shaken down in March
+              </a>
+              , ahead of an entry in the LMES, where the team would{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans420.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                contest selected races
+              </a>
+              . For Le Mans the LMP2004 would be joined by the old LMP-01, both
+              running in the LMP2-class.
+            </li>
+            <li>
               With the new LMP1 regulations the R&S MK III C was becoming
               outdated, and with the factory switching its focus to the Rolex
               Sportscar Series DP class, the ALMS and Le Mans program was

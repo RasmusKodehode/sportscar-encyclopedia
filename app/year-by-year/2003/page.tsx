@@ -231,6 +231,37 @@ export default function ZeroThree() {
               season.
             </li>
             <li>
+              Welter Racing rolled out{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans001.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                a new chassis for 2003
+              </a>
+              , the WR LMP-02 was powered by a new naturally aspirated V6
+              engine. The car was intended to be shaken down at the beginning of
+              April, but the car failed to start and forced the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans071.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                shakedown to be delayed by a couple of weeks
+              </a>
+              , before{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans085.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                testing resumed at the end of April
+              </a>
+              . For Le Mans the team would run the new car alongside the old
+              LMP-01, and both cars were also entered in the 1000 km race at the
+              end of the season.
+            </li>
+            <li>
               Durango Automotive had raced in the Sports Racing World Cup and
               FIA Sportscar Championship since 2000 with the GMS-constructed GMS
               Durango LMP1. Going into 2003 the team made{" "}
@@ -591,6 +622,45 @@ export default function ZeroThree() {
                 <tr>
                   <td>Stephan Gregoire(FRA)</td>
                   <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={8}>
+                    <strong>Welter Racing</strong>
+                  </td>
+                  <td rowSpan={4}>WR LMP-02</td>
+                  <td rowSpan={4}>25</td>
+                  <td>Bastien Briere(FRA)</td>
+                  <td>Le Mans, LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Jean-Rene de Fournoux(FRA)</td>
+                  <td>Le Mans, LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Stephane Daoudi(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>William David(FRA)</td>
+                  <td>LM1000k</td>
+                </tr>
+                <tr>
+                  <td rowSpan={4}>WR LMP-01</td>
+                  <td rowSpan={4}>24</td>
+                  <td>Yujiro Terada(JAP)</td>
+                  <td>Le Mans, LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Olivier Porta(FRA)</td>
+                  <td>Le Mans, LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Gavin Pickering(GBR)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Richard Balandras(FRA)</td>
+                  <td>LM1000k</td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>

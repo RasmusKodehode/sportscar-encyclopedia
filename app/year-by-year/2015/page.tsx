@@ -106,7 +106,7 @@ export default function OneFive() {
                 3rd car for Spa and Le Mans
               </a>
               . A new high-downforce aero package was rolled out at COTA, and
-              used for the rest of teh season.
+              used for the rest of the season.
             </li>
             <li>
               Audi revealed a{" "}

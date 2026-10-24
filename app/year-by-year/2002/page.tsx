@@ -119,6 +119,10 @@ export default function ZeroTwo() {
               season with the two last ALMS rounds.
             </li>
             <li>
+              Welter Racing returned for a 2nd season with the LMP-01. For 2002
+              the team brought the car to Sebring, before returning to Le Mans.
+            </li>
+            <li>
               Having spent 2000 and 2001 supporting its customers and getting
               the C60 up to speed, for 2002 the Courage factory team returned.
               The team brought a single C60 to the FIA Sportscar Championship
@@ -453,6 +457,36 @@ export default function ZeroTwo() {
                 </tr>
                 <tr>
                   <td>Jim Matthews(USA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={6}>
+                    <strong>Welter Racing</strong>
+                  </td>
+                  <td rowSpan={6}>WR LMP-01</td>
+                  <td rowSpan={3}>28</td>
+                  <td>Jean-Rene de Fournoux(FRA)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>Stephane Daoudi(FRA)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td>A.J. Smith(USA)</td>
+                  <td>Sebring</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>25</td>
+                  <td>Jean-Rene de Fournoux(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Stephane Daoudi(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Jean-Bernard Bouvet(FRA)</td>
                   <td>Le Mans</td>
                 </tr>
                 <tr>

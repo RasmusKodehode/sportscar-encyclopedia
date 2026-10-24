@@ -142,6 +142,13 @@ export default function ZeroOne() {
               Oreca and Dallara. The new car debuted at the Donington ELMS-race,
               before the factory effort went to Le Mans.
             </li>
+            <li>
+              Welter Racing returned with an updated car, the LMP-01. The team
+              stuck with the Peugeot 4-pot from 2000, but the chassis was
+              redesigned for improved downforce. The team focused on testing at
+              the start of the season, and opted to only contest Le Mans with a
+              single car.
+            </li>
           </ul>
         </div>
         <div className="flex flex-col gap-2 w-full">
@@ -513,6 +520,23 @@ export default function ZeroOne() {
                   <td>Le Mans</td>
                 </tr>
                 <tr>
+                  <td rowSpan={3}>
+                    <strong>Welter Racing</strong>
+                  </td>
+                  <td rowSpan={3}>WR LMP-01</td>
+                  <td rowSpan={3}>30</td>
+                  <td>Jean-Rene de Fournoux(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Stephane Daoudi(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Yojiro Terada(JAP)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
                   <td rowSpan={6}>
                     <strong>DAMS</strong>
                   </td>
@@ -877,8 +901,8 @@ export default function ZeroOne() {
                   cancelled
                 </a>{" "}
                 in May because the circuit failed to comply with FIA safety
-                standards and not enough time to make the necessary improvements.
-                Autodrom Most in the Czech Republic was{" "}
+                standards and not enough time to make the necessary
+                improvements. Autodrom Most in the Czech Republic was{" "}
                 <a
                   href="https://web.archive.org/web/20011230111545fw_/http://www.professionalsportscar.com/news/061901c.htm"
                   target="_blank"

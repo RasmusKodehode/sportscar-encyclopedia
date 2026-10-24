@@ -14,8 +14,8 @@ export default function ZeroZero() {
               smaller, lighter prototypes. The prototypes running under Grand Am
               rules and the FIA Sportscar Championship rules could be modified
               to run in either class. The 900/675-designation refers to the
-              minimum weight of the cars, 900 kg for the former, 675 kg for
-              the latter.
+              minimum weight of the cars, 900 kg for the former, 675 kg for the
+              latter.
             </li>
             <li>
               ALMS revealed{" "}
@@ -130,6 +130,14 @@ export default function ZeroZero() {
               Ascari launched the A410, competing at the European ALMS-rounds in
               addition to the Sports Racing World Cup, but the team debuted too
               late to get an entry for Le Mans.
+            </li>
+            <li>
+              Welter Racing returned for the first time since 1998, and 3 years
+              on from the tragic accident in pre-qualifying at Le Mans 1997 that
+              took the life of the driver Sebastien Enjolras. The new WR LMP was
+              built for the LMP675-class, and powered by a Peugeot inline-4
+              engine. The team entered two cars at Le Mans, but didn't race
+              anywhere else.
             </li>
             <li>
               For 2000 Courage Competition developed a brand new car, the C60.
@@ -564,6 +572,36 @@ export default function ZeroZero() {
                 <tr>
                   <td>Jeffrey van Hooydonck(BEL)</td>
                   <td>Nurburgring</td>
+                </tr>
+                <tr>
+                  <td rowSpan={6}>
+                    <strong>Welter Racing</strong>
+                  </td>
+                  <td rowSpan={6}>WR LMP</td>
+                  <td rowSpan={3}>36</td>
+                  <td>Yojiro Terada(JAP)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Richard Balandras(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Sylvain Boulay(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>35</td>
+                  <td>Xavier Pompidou(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Stephane Daoudi(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Jean-Bernard Bouvet(FRA)</td>
+                  <td>Le Mans</td>
                 </tr>
               </tbody>
             </table>

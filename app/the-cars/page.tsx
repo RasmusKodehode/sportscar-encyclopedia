@@ -13,10 +13,12 @@ import AUDIR8 from "../../public/AUDIR8.jpg";
 import PANOZLMP07 from "../../public/PANOZLMP07.jpg";
 import CADILLACNORTHSTARLMP from "../../public/CADILLACNORTHSTARLMP.jpeg";
 import ASCARIA410 from "../../public/ASCARIA410.jpg";
+import WRLMP from "../../public/WRLMP.jpg";
 import CADILLACNORTHSTARLMP01 from "../../public/CADILLACNORTHSTARLMP01.jpeg";
 import CHRYSLERLMP from "../../public/CHRYSLERLMP.jpg";
 import BENTLEYEXP from "../../public/BENTLEYEXPSpeed8.jpg";
 import MGLOLA from "../../public/MGLOLAEX257.jpeg";
+import WRLMP01 from "../../public/WRLMP01.jpg";
 import PANOZLMP01EVO from "../../public/PANOZLMP01EVO.jpg";
 import CADILLACNORTHSTARLMP02 from "../../public/CADILLACNORTHSTARLMP02.jpeg";
 import RILEYMK3C from "../../public/RILEY&SCOTTMK3C.jpg";
@@ -25,6 +27,7 @@ import PANOZLMP01 from "../../public/PANOZLMP01.jpg";
 import BENTLEYSPEED8 from "../../public/BENTLEYSpeed8.jpg";
 import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
 import DURANGO from "../../public/DURANGOPM02.jpg";
+import WRLMP02 from "../../public/WRLMP02.jpg";
 import NASAMAX from "../../public/NASAMAXDM139.jpg";
 import ZYTEK04 from "../../public/ZYTEK04S.jpg";
 import PESCAROLOC60 from "../../public/PESCAROLOC60.jpg";
@@ -899,6 +902,62 @@ export default function Cars() {
             </ul>
           </div>
           <div className="flex flex-col gap-1">
+            <h3>Welter Racing</h3>
+            <ul className="flex flex-col gap-4">
+              <li>
+                <p className="font-bold">WR LMP</p>
+                <p>Engine: Peugeot 2.0L I4 Turbo</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Gerard Welter</p>
+                <p>First Event: 2000 Le Mans</p>
+                <p>Last Event: 2000 Le Mans</p>
+                <p>
+                  Small French constructor led by former head of design at
+                  Peugeot
+                </p>
+                <Image
+                  src={WRLMP}
+                  width={500}
+                  height={500}
+                  alt="WR LMP from 2000"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">WR LMP-01</p>
+                <p>Engine: Peugeot 2.0L I4 Turbo</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Gerard Welter</p>
+                <p>First Event: 2001 Le Mans</p>
+                <p>Last Event: 2003 LM1000k</p>
+                <p>Updated car for 2001</p>
+                <Image
+                  src={WRLMP01}
+                  width={500}
+                  height={500}
+                  alt="WR LMP 01 from 2001"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">WR LMP-02</p>
+                <p>Engine: Peugeot 3.0L V6 Naturally aspirated</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Gerard Welter</p>
+                <p>First Event: 2003 Le Mans</p>
+                <p>Last Event: 2003 LM1000k</p>
+                <p>New car built around new V6 engine</p>
+                <Image
+                  src={WRLMP02}
+                  width={500}
+                  height={500}
+                  alt="WR LMP 02 from 2003"
+                  className="w-72"
+                />
+              </li>
+            </ul>
+          </div>
+          <div className="flex flex-col gap-1">
             <h3>Chrysler</h3>
             <ul className="flex flex-col gap-4">
               <li>
@@ -1086,9 +1145,7 @@ export default function Cars() {
                 <p>Designed by Kieron Salters from KWM</p>
                 <p>First Event: 2004 Monza</p>
                 <p>Last Event: 2004 Spa</p>
-                <p>
-                  Updated version of the Reynard 01Q from 2003
-                </p>
+                <p>Updated version of the Reynard 01Q from 2003</p>
                 <Image
                   src={NASAMAX}
                   width={500}
