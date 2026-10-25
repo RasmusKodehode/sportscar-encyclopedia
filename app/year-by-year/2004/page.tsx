@@ -289,25 +289,57 @@ export default function ZeroFour() {
               , and following Le Mans the team aimed to finish the LMES season.
             </li>
             <li>
-              Having been a Courage customer for several years, Henri
-              Pescarolo's team took their 2003 car and updated it themselves,
-              improving the aero and switching out the Peugeot engine for a{" "}
+              After running and modifying customer Courages for several years,
+              Henri Pescarolo's team{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans235.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                lost the Peugeot engine deal and funding
+              </a>{" "}
+              going into 2004. In January a deal was made to{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans268.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                new Judd V10
+                switch to a Judd V10
               </a>
-              . They debuted{" "}
+              , and designer Andre de Cortanze continued work on an updated
+              chassis. The new car{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans339.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                began testing in early April
+              </a>
+              , before the newly badged Pescarolo C60 was{" "}
               <a
                 href="http://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans372.htm"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                the new Pescarolo C60
-              </a>{" "}
-              at Monza, competing in LMES as well as bringing 2 cars to Le Mans.
+                formally launched at the end of April
+              </a>
+              . The team{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans290.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                aimed for 2 Le Mans entries
+              </a>
+              , but with budgets still tight only the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans305.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMES opener was also planned
+              </a>
+              , with more races dependent on more funding.
             </li>
             <li>
               Team Nasamax spent 2003 racing a Reynard 01Q with a Cosworth
@@ -350,8 +382,43 @@ export default function ZeroFour() {
               ahead of the final two rounds.
             </li>
             <li>
-              Meanwhile Courage switched to the LMP2 class to compete with the
-              new C65 that debuted the year before.
+              Courage Competition resumed testing with the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans267.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                C65 in december
+              </a>
+              following a successful outing at the Le Mans 1000 km. The team
+              spent the winter reworking the car for the LMP2-regs, and more
+              cars were built and sold to customers. The car was seen{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans300.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                testing in different configurations
+              </a>{" "}
+              over the winter, before the final{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans331.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMP2-spec car started testing by early April
+              </a>
+              . The Courage factory team returned, initially aiming to run one
+              C60 and one C65 at Le Mans, however{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2004lemans/lemans315.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                only the C65-entry was accepted
+              </a>
+              . The team also contested a part LMES season while supporting its
+              customers both in Europe and in North America.
             </li>
             <li>
               Welter Racing entered 2004 with the same goal as in 2003, aiming

@@ -28,6 +28,7 @@ import BENTLEYSPEED8 from "../../public/BENTLEYSpeed8.jpg";
 import LISTERSTORM from "../../public/LISTERSTORMLMP.jpg";
 import DURANGO from "../../public/DURANGOPM02.jpg";
 import WRLMP02 from "../../public/WRLMP02.jpg";
+import COURAGEC65 from "../../public/COURAGEC65.jpg";
 import NASAMAX from "../../public/NASAMAXDM139.jpg";
 import ZYTEK04 from "../../public/ZYTEK04S.jpg";
 import PESCAROLOC60 from "../../public/PESCAROLOC60.jpg";
@@ -652,6 +653,22 @@ export default function Cars() {
                 />
               </li>
               <li>
+                <p className="font-bold">Courage C65</p>
+                <p>Engine: JPX 3.4L V6 Naturally Aspirated</p>
+                <p>Ruleset: LMP675</p>
+                <p>Designed by Paolo Catone</p>
+                <p>First Event: 2003 Le Mans</p>
+                <p>Last Event: 2003 LM1000k</p>
+                <p>New light-weight version of the C60</p>
+                <Image
+                  src={COURAGEC65}
+                  width={500}
+                  height={500}
+                  alt="Courage C65 2003"
+                  className="w-72"
+                />
+              </li>
+              <li>
                 <p className="font-bold">Courage C60H</p>
                 <p>Engine: Judd 4.0L V10 Naturally Aspirated</p>
                 <p>Ruleset: Hybrid LMP1 (2005-2006)</p>
@@ -941,7 +958,7 @@ export default function Cars() {
               </li>
               <li>
                 <p className="font-bold">WR LMP-02</p>
-                <p>Engine: Peugeot 3.0L V6 Naturally aspirated</p>
+                <p>Engine: Peugeot 3.4L V6 Naturally aspirated</p>
                 <p>Ruleset: LMP675</p>
                 <p>Designed by Gerard Welter</p>
                 <p>First Event: 2003 Le Mans</p>

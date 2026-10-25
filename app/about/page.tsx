@@ -44,8 +44,6 @@ export default function About() {
           </p>
           <p>Programs to be chronicled more detailed:</p>
           <ul>
-            <li>Pescarolo 2004</li>
-            <li>Courage 2004</li>
             <li>Ascari 2003?</li>
             <li>Riley 2004</li>
             <li>Epsilon Euskadi (Caution! articles dates back to 2005)</li>

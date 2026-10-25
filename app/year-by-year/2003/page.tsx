@@ -208,9 +208,32 @@ export default function ZeroThree() {
               >
                 small evolutions compared to 2002
               </a>
-              . The team went to Le Mans racing against Pescarolo Sport's
-              heavily redesigned C60 Evos, while developing and debuting the new
-              C65 in the LMP675-class.
+              . The team also spent the winter developing a new car for the
+              LMP675-class. The new{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans016.htm"
+                target="_blank"
+              >
+                C65 was shaken down at the end of February
+              </a>{" "}
+              , and by April it was{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans059.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                running with its intended JPX V6 engine
+              </a>
+              . The C60 was only entered for Le Mans, while the new C65 made its
+              debut at Le Mans, before being{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_029.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                entered in the season-ending LMES-event
+              </a>
+              .
             </li>
             <li>
               Lister Cars had competed in GT racing since the 90s with the
@@ -241,7 +264,15 @@ export default function ZeroThree() {
               </a>
               , the WR LMP-02 was powered by a new naturally aspirated V6
               engine. The car was intended to be shaken down at the beginning of
-              April, but the car failed to start and forced the{" "}
+              April, but{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans054.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                the car failed to start
+              </a>{" "}
+              and forced the{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2003lemans/lemans071.htm"
                 target="_blank"
@@ -607,7 +638,7 @@ export default function ZeroThree() {
                   <td>LM1000k</td>
                 </tr>
                 <tr>
-                  <td rowSpan={3}>
+                  <td rowSpan={9}>
                     <strong>Courage Competition</strong>
                   </td>
                   <td rowSpan={3}>Courage C60</td>
@@ -622,6 +653,33 @@ export default function ZeroThree() {
                 <tr>
                   <td>Stephan Gregoire(FRA)</td>
                   <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={6}>Courage C65</td>
+                  <td rowSpan={3}>31</td>
+                  <td>Philippe Alliot(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>Carl Rosenblad(SWE)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td>David Hallyday(FRA)</td>
+                  <td>Le Mans</td>
+                </tr>
+                <tr>
+                  <td rowSpan={3}>13</td>
+                  <td>Wim Eyckmans(BEL)</td>
+                  <td>LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Roman Rusinov(RUS)</td>
+                  <td>LM1000k</td>
+                </tr>
+                <tr>
+                  <td>Enrico Muscioni(ITA)</td>
+                  <td>LM1000k</td>
                 </tr>
                 <tr>
                   <td rowSpan={8}>
@@ -647,7 +705,7 @@ export default function ZeroThree() {
                 <tr>
                   <td rowSpan={4}>WR LMP-01</td>
                   <td rowSpan={4}>24</td>
-                  <td>Yujiro Terada(JAP)</td>
+                  <td>Yojiro Terada(JAP)</td>
                   <td>Le Mans, LM1000k</td>
                 </tr>
                 <tr>
@@ -1155,7 +1213,7 @@ export default function ZeroThree() {
                 Kristensen(DEN), Seiji Ara(JAP), 5:59.53,245
               </p>
               <p>
-                LMP675 Winner: #13 Courage Competition, Courage C65 - JPX, Wim
+                LMP675 Winner: #13 Courage Competition, Courage C65, Wim
                 Eyckmans(BEL), Roman Rusinov(RUS), Enrico Muscioni(ITA), +11
                 Laps
               </p>
