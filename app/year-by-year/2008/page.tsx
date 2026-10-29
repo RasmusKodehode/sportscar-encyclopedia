@@ -115,12 +115,12 @@ export default function ZeroEight() {
             </li>
             <li>
               In 2007 Oreca bought Courage with the goal to develop a new car
-              for 2009. For 2008 the LC70s were heavily updated around a new Judd V10
-              powerplant, and the cars were now badged as Courage-Orecas. The
-              renamed Team Oreca Matmut brought 2 cars to the LMS season and Le
-              Mans, with a third car at Le Mans run by a group of university
-              students in the Tokai University-team, who helped develop the aero
-              of the 2008 car.
+              for 2009. For 2008 the LC70s were heavily updated around a new
+              Judd V10 powerplant, and the cars were now badged as
+              Courage-Orecas. The renamed Team Oreca Matmut brought 2 cars to
+              the LMS season and Le Mans, with a third car at Le Mans run by a
+              group of university students in the Tokai University-team, who
+              helped develop the aero of the 2008 car.
             </li>
             <li>
               Creation Autosportif went into their 2nd season with the CA07,
@@ -182,7 +182,7 @@ export default function ZeroEight() {
         <div className="flex flex-col gap-2 w-full">
           <h2>The Teams</h2>
           <div className="w-full overflow-x-auto">
-            <table>
+            <table className="w-full">
               <thead>
                 <tr>
                   <th scope="col">Team</th>

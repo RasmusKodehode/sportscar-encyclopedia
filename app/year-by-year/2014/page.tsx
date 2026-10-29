@@ -283,7 +283,7 @@ export default function OneFour() {
         <div className="flex flex-col gap-2 w-full">
           <h2>The Teams</h2>
           <div className="w-full overflow-x-auto">
-            <table>
+            <table className="w-full">
               <thead>
                 <tr>
                   <th scope="col">Team</th>

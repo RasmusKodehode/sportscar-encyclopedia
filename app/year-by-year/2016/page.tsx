@@ -27,7 +27,7 @@ export default function OneSix() {
               >
                 hybrid power was cut
               </a>{" "}
-              to avoid 1000+ hp cars. However, it was later clarified that the
+              to avoid 1000+ hp cars. However, it was later clarified that the{" "}
               <a
                 href="https://www.dailysportscar.com/2015/10/06/world-motorsport-council-clarifications-2-hybrid-power-cap.html"
                 target="_blank"
@@ -59,16 +59,18 @@ export default function OneSix() {
                 rel="noopener noreferrer"
               >
                 ACO organized a meeting with teams and constructors
-              </a>
+              </a>{" "}
               to investigate what could be done to boost the popularity and
-              bring more privateers back to LMP1.
+              bring more privateers back to LMP1.{" "}
               <a
                 href="https://www.dailysportscar.com/2016/03/28/a-week-to-save-non-hybrid-lmp1-factory-engines-drs.html"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Another meeting held at WEC Prologue
+                Another meeting was held at the WEC Prologue
               </a>
+              , to continue the discussion and make plans potentially for 2017
+              and beyond.
             </li>
             <li>
               The WEC revealed a{" "}
@@ -131,7 +133,7 @@ export default function OneSix() {
               >
                 work on a heavily revised car
               </a>{" "}
-              for 2016 with a new, battery based hybrid system. By October the
+              for 2016 with a new, battery based hybrid system. By October the{" "}
               <a
                 href="https://www.dailysportscar.com/2015/10/01/nissan-lmp1-not-to-race-again-until-2016.html"
                 target="_blank"
@@ -170,7 +172,7 @@ export default function OneSix() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                new engine started after Le Mans
+                new engine started after Le Mans 2015
               </a>
               , with the 3.7L naturally aspirated V8 replaced by a lighter 2.4L
               twin-turbo V6. It was also decided to{" "}
@@ -198,11 +200,11 @@ export default function OneSix() {
                 official launch at Paul Ricard
               </a>{" "}
               ahead of the WEC Prologue in March. The team was set for an
-              identical program with 2 cars for the full WEC season.
+              identical program to 2015 with 2 cars for the full WEC season.
             </li>
             <li>
-              Audi started work on a brand new car after a challenging 2014
-              season. It confirmed{" "}
+              Audi started work on a brand new car after the challenges it faced
+              in 2014. It confirmed{" "}
               <a
                 href="https://www.dailysportscar.com/2015/08/29/reinke-we-should-discuss-leaving-the-rules-as-they-are.html"
                 target="_blank"
@@ -292,7 +294,7 @@ export default function OneSix() {
                 two new chassis' produced
               </a>
               , initially looking at an expanded 2-car effort for 2016. This was
-              later revised to a single entry as well as a confirmation of a
+              later revised to a single entry as well as a confirmation of a{" "}
               <a
                 href="https://www.dailysportscar.com/2016/02/05/bykolles-switch-to-dunlop-for-2016.html"
                 target="_blank"
@@ -349,7 +351,7 @@ export default function OneSix() {
         <div className="flex flex-col gap-2 w-full">
           <h2>The Teams</h2>
           <div className="w-full overflow-x-auto">
-            <table>
+            <table className="w-full">
               <thead>
                 <tr>
                   <th scope="col">Team</th>
