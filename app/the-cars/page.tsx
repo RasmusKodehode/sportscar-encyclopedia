@@ -75,6 +75,10 @@ import AUDIETRON15 from "../../public/AUDIR18E-Tron15.jpg";
 import NISSANGTRLM from "../../public/NISSANGTRLMNISMO.webp";
 import PORSCHE91915 from "../../public/PORSCHE919HYBRID15.jpg";
 import BYKOLLES15 from "../../public/BYKOLLESCLMP101.jpg";
+import AUDIR1816 from "../../public/AUDIR18.jpg";
+import TOYOTATS05016 from "../../public/TOYOTATS050Hybrid16.jpg";
+import PORSCHE91916 from "../../public/PORSCHE919HYBRID16.jpg";
+import BYKOLLES16 from "../../public/BYKOLLESCLMP10116.jpg";
 
 export default function Cars() {
   return (
@@ -388,6 +392,24 @@ export default function Cars() {
                   className="w-72"
                 />
               </li>
+              <li>
+                <p className="font-bold">Audi R18</p>
+                <p>Engine: 4.0L V6 Turbo Diesel + Battery MGU-K</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed by Audi Sport under Chris Reinke</p>
+                <p>First Event: 2016 Silverstone</p>
+                <p>Last Event: 2016 Bahrain</p>
+                <p>
+                  Brand new car for 2016, switch to battery-based hybrid system
+                </p>
+                <Image
+                  src={AUDIR1816}
+                  width={500}
+                  height={500}
+                  alt="Audi R18 2016"
+                  className="w-72"
+                />
+              </li>
             </ul>
           </div>
           <div className="flex flex-col gap-1">
@@ -544,6 +566,22 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Toyota TS040 Hybrid"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Toyota TS050 Hybrid</p>
+                <p>Engine: 2.4L V6 Twin-turbo + Battery MGU-K</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed under Pascal Vasselon from Toyota Motorsport</p>
+                <p>First Event: 2016 Silverstone</p>
+                <p>Last Event: 2016 Bahrain</p>
+                <p>New car with new battery-based hybrid system</p>
+                <Image
+                  src={TOYOTATS05016}
+                  width={500}
+                  height={500}
+                  alt="Toyota TS050 Hybrid"
                   className="w-72"
                 />
               </li>
@@ -830,6 +868,22 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Porsche 919 Hybrid 2015"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">Porsche 919 Hybrid</p>
+                <p>Engine: 2.0L V4 Turbo + Battery MGU-K + MGU-H</p>
+                <p>Ruleset: LMP1-H (2014-2016)</p>
+                <p>Designed under Alex Hitzinger from Porsche AG</p>
+                <p>First Event: 2016 Silverstone</p>
+                <p>Last Event: 2016 Bahrain</p>
+                <p>Updated car for 2016, better efficiency</p>
+                <Image
+                  src={PORSCHE91916}
+                  width={500}
+                  height={500}
+                  alt="Porsche 919 Hybrid 2016"
                   className="w-72"
                 />
               </li>
@@ -1659,11 +1713,11 @@ export default function Cars() {
               </li>
               <li>
                 <p className="font-bold">CLM P1/01</p>
-                <p>Engine: AER 2.4L V6 Twin Turbo</p>
+                <p>Engine: AER 2.4L V6 Twin-Turbo</p>
                 <p>Ruleset: LMP1-L (2014-2016)</p>
                 <p>Designed by Paul White</p>
                 <p>First Event: 2015 Spa</p>
-                <p>Last Event: </p>
+                <p>Last Event: 2015 Bahrain </p>
                 <p>
                   Heavily updated car for 2015 after Bykolles split with Lotus
                 </p>
@@ -1672,6 +1726,24 @@ export default function Cars() {
                   width={500}
                   height={500}
                   alt="Bykolles CLM P 1 O 1 2015"
+                  className="w-72"
+                />
+              </li>
+              <li>
+                <p className="font-bold">CLM P1/01</p>
+                <p>Engine: AER 2.4L V6 Twin-Turbo</p>
+                <p>Ruleset: LMP1-L (2014-2016)</p>
+                <p>Designed by Paul White</p>
+                <p>First Event: 2016 Silverstone</p>
+                <p>Last Event: 2016 Bahrain</p>
+                <p>
+                  Updated car for 2016 with new chassis
+                </p>
+                <Image
+                  src={BYKOLLES16}
+                  width={500}
+                  height={500}
+                  alt="Bykolles CLM P 1 O 1 2016"
                   className="w-72"
                 />
               </li>

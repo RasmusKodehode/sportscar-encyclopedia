@@ -8,7 +8,15 @@ export default function OneSeven() {
         <div className="flex flex-col gap-2 w-full">
           <h2>Series and Regulation News</h2>
           <ul>
-            <li></li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/03/25/imsa-dpis-at-le-mans-lmp2-lmp1-non-hybrid-or.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                IMSA DPi revealed - could they go to Le Mans?
+              </a>
+            </li>
           </ul>
         </div>
         <div className="flex flex-col gap-2 w-full">

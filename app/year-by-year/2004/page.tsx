@@ -191,8 +191,25 @@ export default function ZeroFour() {
               ended their sportscar program and didn't return.
             </li>
             <li>
-              Panoz too elected not to return in the top class with the LMP01,
-              instead focusing on their GT-class program.
+              After a successful outing at the 1000 km race at Le Mans there was
+              some hope of seeing a{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/lmes/2003lmes/lmes_055.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                factory entry with the old closed-cockpit
+              </a>{" "}
+              Panoz Esperante GTR-1 in ALMS for 2004. A car was entered,{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms324.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                but by Larbre Competition
+              </a>
+              , instead of the factory team who opted to focus on the new
+              Esperante GT-program.
             </li>
             <li>
               Having originally developed the 02S in 2002, Reynard went bankrupt

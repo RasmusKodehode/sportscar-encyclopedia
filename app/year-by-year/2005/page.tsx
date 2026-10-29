@@ -190,7 +190,15 @@ export default function ZeroFive() {
             <li>
               Courage Competition spent 2004 getting the new LMP2-spec C65 up to
               speed, but over the winter the team worked on developing the old
-              C60 for 2005. Under the partnership with Panoz a{" "}
+              C60 for 2005. Under the{" "}
+              <a
+                href="https://archive.dailysportscar.com/subscribers/news/alms/2004alms/alms482.htm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                partnership with Panoz
+              </a>{" "}
+              a{" "}
               <a
                 href="https://archive.dailysportscar.com/subscribers/news/lemans/2005lemans/lemans558.htm"
                 target="_blank"

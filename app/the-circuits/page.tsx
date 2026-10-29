@@ -229,7 +229,7 @@ export default function Circuits() {
               <li>
                 <p>Layout: Arena Grand Prix Circuit (2011- )</p>
                 <p>Circuit Length: 5.891 km</p>
-                <p>Races Hosted: 5 (2011-2015)</p>
+                <p>Races Hosted: 6 (2011-2016)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.39,534 (2015)</p>
               </li>
