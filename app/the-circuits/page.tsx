@@ -511,7 +511,7 @@ export default function Circuits() {
               <li>
                 <p>Layout: Grand Prix (2007-)</p>
                 <p>Circuit Length: 7.004 km</p>
-                <p>Races Hosted: 9 (2007-2015)</p>
+                <p>Races Hosted: 10 (2007-2016)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.54,755 (2015)</p>
               </li>

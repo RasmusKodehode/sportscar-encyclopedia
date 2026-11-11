@@ -16,6 +16,31 @@ export default function OneSeven() {
               >
                 IMSA DPi revealed - could they go to Le Mans?
               </a>
+              <a
+                href="https://www.dailysportscar.com/2016/06/18/dpi-conversion-talks-shift-to-p1-privateer-for-le-mans.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                DPi more likely to fit into LMP1-L but disagreements remain
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/06/01/wec-moving-closer-to-cota-exit-indy-under-consideration.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                FIA WEC could abandon COTA for Indy?
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/06/16/aco-outlines-the-future-of-prototype-racing.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMP1-H aero tweaked, LMP1-L updated for 2017
+              </a>
             </li>
           </ul>
         </div>
@@ -59,6 +84,33 @@ export default function OneSeven() {
               >
                 BR Engineering could build a new LMP1 car following new LMP2
                 regs
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/06/04/peugeot-lmp1-there-is-no-programme.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                No Peugeot return
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/06/10/choose-adess-considering-the-possibility-of-producing-an-lmp1-chassis.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Adess considering LMP1-L chassis
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/06/17/does-audi-driver-status-hint-at-2017-plan.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Maybe no 3rd Audi again for 2017
               </a>
             </li>
           </ul>

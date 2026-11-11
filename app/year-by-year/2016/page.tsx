@@ -240,7 +240,16 @@ export default function OneSix() {
               >
                 reduce their program to two cars
               </a>{" "}
-              for the full season, with no third car for Le Mans.
+              for the full season, with no third car for Le Mans. The R18 ran
+              with the Prologue aero-package at Silverstone, before the{" "}
+              <a
+                href="https://www.dailysportscar.com/2016/05/04/spa-wednesday-paddock-notes-new-aero-gibsons-belgian-aston-wings.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Le Mans package was rolled out at Spa
+              </a>
+              .
             </li>
             <li>
               Porsche went into 2016 after a dominant 2015 where the team took
@@ -280,7 +289,16 @@ export default function OneSix() {
               >
                 2 cars for the full season
               </a>
-              , without a third entry for Le Mans.
+              , without a third entry for Le Mans. The team ran the launch spec
+              car at Silverstone, before the{" "}
+              <a
+                href="https://www.dailysportscar.com/2016/05/05/spa-thursday-paddock-notes-statwatch.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Le Mans spec aero was debuted at Spa
+              </a>
+              .
             </li>
             <li>
               After a tough 2015 season where the ByKolles CLM regularly
@@ -369,28 +387,28 @@ export default function OneSix() {
                   <td rowSpan={6}>Audi R18</td>
                   <td rowSpan={3}>7</td>
                   <td>Andre Lotterer(DEU)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Benoit Treluyer(FRA)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Marcel Fässler(CHE)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>8</td>
                   <td>Loïc Duval(FRA)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Lucas di Grassi(BRA)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Oliver Jarvis(GBR)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={6}>
@@ -399,28 +417,28 @@ export default function OneSix() {
                   <td rowSpan={6}>Toyota TS050 Hybrid</td>
                   <td rowSpan={3}>5</td>
                   <td>Sebastien Buemi(CHE)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Anthony Davidson(GBR)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Kazuki Nakajima(JAP)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>6</td>
                   <td>Stephane Sarrazin(FRA)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Mike Conway(GBR)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Kamui Kobayashi(JAP)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={6}>
@@ -429,45 +447,49 @@ export default function OneSix() {
                   <td rowSpan={6}>Porsche 919 Hybrid</td>
                   <td rowSpan={3}>1</td>
                   <td>Timo Bernhard(DEU)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Brendon Hartley(NZE)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Mark Webber(AUS)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>2</td>
                   <td>Marc Lieb(DEU)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Romain Dumas(FRA)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Neel Jani(CHE)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
-                  <td rowSpan={3}>
+                  <td rowSpan={4}>
                     <strong>ByKolles Racing Team</strong>
                   </td>
-                  <td rowSpan={3}>CLM P1/01</td>
-                  <td rowSpan={3}>4</td>
+                  <td rowSpan={4}>CLM P1/01</td>
+                  <td rowSpan={4}>4</td>
                   <td>Simon Trummer(CHE)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>Oliver Webb(GBR)</td>
-                  <td>Silverstone, Spa</td>
+                  <td>Silverstone, Spa, Le Mans</td>
                 </tr>
                 <tr>
                   <td>James Rossiter(GBR)</td>
                   <td>Silverstone, Spa</td>
+                </tr>
+                <tr>
+                  <td>Pierre Kaffer(DEU)</td>
+                  <td>Le Mans</td>
                 </tr>
               </tbody>
             </table>
@@ -525,11 +547,38 @@ export default function OneSix() {
               <p>Race Format: 6 Hours</p>
               <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
               <p>Circuit Length: 7.004 km</p>
-              <p>Laps Completed: 0</p>
-              <p>Distance Covered: 0 km</p>
+              <p>Laps Completed: 160</p>
+              <p>Distance Covered: 1120.640 km</p>
               <p>
                 Number of cars entered: 34 (9 LMP1, 12 LMP2, 7 LMGTE-Pro, 6
                 LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 27 (8 LMP1, 9 LMP2, 4 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS), 1.55,793
+              </p>
+              <p>
+                Overall Winner: #8 Audi Sport Team Joest, Audi R18, Loïc
+                Duval(FRA), Lucas di Grassi(BRA), Oliver Jarvis(GBR),
+                6:00.32,112
+              </p>
+              <p>
+                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +9
+                Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #71 AF Corse, Ferrari 488 GTE, Davide
+                Rigon(ITA), Sam Bird(GBR), +15 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #98 Aston Martin Racing, Aston Martin V8
+                Vantage GTE, Pedro Lamy(POR), Mathias Lauda(AUT), Paul Dalla
+                Lana(CAN), +20 Laps
               </p>
             </li>
             <li>
@@ -538,6 +587,43 @@ export default function OneSix() {
               </p>
               <p>Circuit de la Sarthe, Le Mans, France</p>
               <p>Date: 18-19.06.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 24 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 13.629 km</p>
+              <p>Laps Completed: 384</p>
+              <p>Distance Covered: 5233.536 km</p>
+              <p>
+                Number of cars entered: 60 (9 LMP1, 23 LMP2, 14 LMGTE-Pro, 13
+                LMGTE-Am, 1 Garage56)
+              </p>
+              <p>
+                Number of cars finished: 44 (6 LMP1, 17 LMP2, 9 LMGTE-Pro, 11
+                LMGTE-Am, 1 Garage56)
+              </p>
+              <p>
+                Pole Position: #2 Porsche Team, Porsche 919 Hybrid, Marc
+                Lieb(DEU), Romain Dumas(FRA), Neel Jani(CHE), 3.19,733
+              </p>
+              <p>
+                Overall Winner: #2 Porsche Team, Porsche 919 Hybrid, Marc
+                Lieb(DEU), Romain Dumas(FRA), Neel Jani(CHE), 24:00.38,449
+              </p>
+              <p>
+                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +27
+                Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #68 Ford Chip Ganassi Team USA, Ford GT GTE,
+                Dirk Müller(DEU), Sebastien Bourdais(FRA), Joey Hand(USA), +44
+                Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #62 Scuderia Corsa, Ferrari 458 Italia GT2,
+                Townsend Bell(USA), Jeff Segal(USA), Bill Sweedler(USA), +53
+                Laps
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Nürburgring</p>
