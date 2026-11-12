@@ -41,6 +41,22 @@ export default function OneSeven() {
               >
                 LMP1-H aero tweaked, LMP1-L updated for 2017
               </a>
+              <a
+                href="https://www.dailysportscar.com/2016/06/24/le-mans-dates-and-wec-lmp1-privateer-changes-approved-by-fia.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMP1-L changes approved
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/08/31/fia-wec-calendar-updates.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Speculation about COTA
+              </a>
             </li>
           </ul>
         </div>
@@ -111,6 +127,40 @@ export default function OneSeven() {
                 rel="noopener noreferrer"
               >
                 Maybe no 3rd Audi again for 2017
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/08/05/rebellion-drops-to-one-car-for-rest-of-16-will-return-to-lmp1-in-17.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Rebellion shifts resources to 2017 LMP1-L regs
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/08/08/renaultalpine-pondering-future-programmes.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Alpine still pondering LMP1
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/09/02/menezes-alpines-future-is-definitely-in-lmp2.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMP2 is still the focus
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/08/31/bykolles-set-to-return-to-lmp1-privateer-class-in-2017.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                ByKolles set to return with new car for 2017
               </a>
             </li>
           </ul>

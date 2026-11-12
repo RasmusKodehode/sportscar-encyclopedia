@@ -200,7 +200,17 @@ export default function OneSix() {
                 official launch at Paul Ricard
               </a>{" "}
               ahead of the WEC Prologue in March. The team was set for an
-              identical program to 2015 with 2 cars for the full WEC season.
+              identical program to 2015 with 2 cars for the full WEC season. The
+              team ran the cars in launch-spec for the prologue and Silverstone,
+              before the Le Mans spec aero was debuted at Spa. The team then ran{" "}
+              <a
+                href="https://www.dailysportscar.com/2016/07/21/new-aero-for-toyota-ts050-revealed.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                a new high-downforce aero-package
+              </a>{" "}
+              from Nurburgring onwards.
             </li>
             <li>
               Audi started work on a brand new car after the challenges it faced
@@ -249,7 +259,15 @@ export default function OneSix() {
               >
                 Le Mans package was rolled out at Spa
               </a>
-              .
+              . The team then switched to a new{" "}
+              <a
+                href="https://www.dailysportscar.com/2016/07/22/audi-confirm-third-iteration-of-2016-aero-for-nurburgring.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                high-downforce aero-package
+              </a>{" "}
+              at the Nurburgring, which was used for the rest of the season.
             </li>
             <li>
               Porsche went into 2016 after a dominant 2015 where the team took
@@ -298,7 +316,16 @@ export default function OneSix() {
               >
                 Le Mans spec aero was debuted at Spa
               </a>
-              .
+              . A new{" "}
+              <a
+                href="https://www.dailysportscar.com/2016/07/21/porsches-new-aero-pictured.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                high-downforce aero package
+              </a>{" "}
+              was then debuted at the Nurburgring and used for the rest of the
+              season.
             </li>
             <li>
               After a tough 2015 season where the ByKolles CLM regularly
@@ -387,28 +414,40 @@ export default function OneSix() {
                   <td rowSpan={6}>Audi R18</td>
                   <td rowSpan={3}>7</td>
                   <td>Andre Lotterer(DEU)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Benoit Treluyer(FRA)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, <em>Mexico City</em>, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Marcel Fässler(CHE)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>8</td>
                   <td>Loïc Duval(FRA)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Lucas di Grassi(BRA)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Oliver Jarvis(GBR)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={6}>
@@ -417,28 +456,41 @@ export default function OneSix() {
                   <td rowSpan={6}>Toyota TS050 Hybrid</td>
                   <td rowSpan={3}>5</td>
                   <td>Sebastien Buemi(CHE)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Anthony Davidson(GBR)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, <em>Mexico City</em>
+                    , COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Kazuki Nakajima(JAP)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>6</td>
                   <td>Stephane Sarrazin(FRA)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Mike Conway(GBR)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Kamui Kobayashi(JAP)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={6}>
@@ -447,28 +499,40 @@ export default function OneSix() {
                   <td rowSpan={6}>Porsche 919 Hybrid</td>
                   <td rowSpan={3}>1</td>
                   <td>Timo Bernhard(DEU)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Brendon Hartley(NZE)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Mark Webber(AUS)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>2</td>
                   <td>Marc Lieb(DEU)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Romain Dumas(FRA)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Neel Jani(CHE)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td rowSpan={4}>
@@ -477,11 +541,15 @@ export default function OneSix() {
                   <td rowSpan={4}>CLM P1/01</td>
                   <td rowSpan={4}>4</td>
                   <td>Simon Trummer(CHE)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>Oliver Webb(GBR)</td>
-                  <td>Silverstone, Spa, Le Mans</td>
+                  <td>
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                  </td>
                 </tr>
                 <tr>
                   <td>James Rossiter(GBR)</td>
@@ -489,7 +557,7 @@ export default function OneSix() {
                 </tr>
                 <tr>
                   <td>Pierre Kaffer(DEU)</td>
-                  <td>Le Mans</td>
+                  <td>Le Mans, Nurburgring, Mexico City</td>
                 </tr>
               </tbody>
             </table>
@@ -629,16 +697,100 @@ export default function OneSix() {
               <p className="font-bold">6 Hours of Nürburgring</p>
               <p>Nürburgring, Nürburg, Germany</p>
               <p>Date: 24.07.2016</p>
+              <p>Series: WEC</p>
+              <p>Race format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 5.148 km</p>
+              <p>Laps Completed: 194</p>
+              <p>Distance Covered: 998.712 km</p>
+              <p>
+                Number of cars entered: 33 (9 LMP1, 11 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 29 (8 LMP1, 9 LMP2, 7 LMGTE-Pro, 5
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #7 Audi Sport Team Joest, Audi R18, Andre
+                Lotterer(DEU), Marcel Fässler(CHE), 1.39,444
+              </p>
+              <p>
+                Overall Winner: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS),
+                6:01.16,183
+              </p>
+              <p>
+                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +16
+                Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #51 AF Corse, Ferrari 488 GTE, Gianmaria
+                Bruni(ITA), James Calado(GBR), +24 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #98 Aston Martin Racing, Aston Martin V8
+                Vantage GTE, Pedro Lamy(POR), Mathias Lauda(AUT), Paul Dalla
+                Lana(CAN), +28 Laps
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Mexico</p>
               <p>Autodromo Hermanos Rodriguez, Mexico City, Mexico</p>
               <p>Date: 03.09.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 4.304 km</p>
+              <p>Laps Completed: 230</p>
+              <p>Distance Covered: 989.920 km</p>
+              <p>
+                Number of cars entered: 32 (8 LMP1, 11 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 27 (7 LMP1, 9 LMP2, 7 LMGTE-Pro, 4
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #8 Audi Sport Team Joest, Audi R18, Loïc
+                Duval(FRA), Lucas di Grassi(BRA), Oliver Jarvis(GBR), 1.25,069
+              </p>
+              <p>
+                Overall Winner: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS),
+                6:00.43,702
+              </p>
+              <p>
+                LMP2 Winner: #43 RGR Sport by Morand, Ligier JS P2 - Nissan,
+                Bruno Senna(BRA), Filipe Albuquerque(POR), Ricardo
+                Gonzalez(MEX), +20 Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #97 Aston Martin Racing, Aston Martin Vantage
+                GTE, Darren Turner(GBR), Richie Stanaway(NZE), +28 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #88 Abu Dhabi-Proton Racing, Porsche 911 RSR,
+                Patrick Long(USA), David Heinemeier-Hansson(DEN), Khaled Al
+                Qubaisi(UAE), +33 Laps
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Circuit of the Americas</p>
               <p>Circuit of the Americas, Austin, Texas</p>
               <p>Date: 17.09.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 5.513 km</p>
+              <p>Laps Completed: 0</p>
+              <p>Distance Covered: 0 km</p>
+              <p>
+                Number of cars entered: 31 (8 LMP1, 10 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Fuji</p>

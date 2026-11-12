@@ -79,7 +79,7 @@ export default function Circuits() {
               <li>
                 <p>Layout: Circuit des 24 Heures (2007-2017)</p>
                 <p>Circuit Length: 13.629 km</p>
-                <p>Races Hosted: 9 (2007-2015)</p>
+                <p>Races Hosted: 10 (2007-2016)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 3.16,887 (2015)</p>
               </li>
@@ -251,6 +251,13 @@ export default function Circuits() {
                 <p>Races Hosted: 7 (2004-2009, 2015)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.36,192 (2015)</p>
+              </li>
+              <li>
+                <p>Layout: Grand Prix Strecke w/ F1 chicane</p>
+                <p>Circuit Length: 5.148 km</p>
+                <p>Races Hosted: 1 (2016)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.38,777 (2016)</p>
               </li>
             </ul>
           </div>
@@ -454,6 +461,13 @@ export default function Circuits() {
                 <p>Races Hosted: 0</p>
                 <p>Races Cancelled: 1 (2003)</p>
                 <p>Lap Record: N/A</p>
+              </li>
+              <li>
+                <p>Layout: Grand Prix (2015-)</p>
+                <p>Circuit Length: 4.304 km</p>
+                <p>Races Hosted: 1 (2016)</p>
+                <p>Races Cancelled: 0</p>
+                <p>Lap Record: 1.24,763</p>
               </li>
             </ul>
           </div>
