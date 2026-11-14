@@ -167,7 +167,7 @@ export default function Circuits() {
               <li>
                 <p>Layout: Grand Prix (2005-)</p>
                 <p>Circuit Length: 4.563 km</p>
-                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Hosted: 5 (2012-2016)</p>
                 <p>Races Cancelled: 0</p>
                 <p>Lap Record: 1.22,639 (2015)</p>
               </li>
@@ -250,7 +250,7 @@ export default function Circuits() {
                 <p>Circuit Length: 5.137 km</p>
                 <p>Races Hosted: 7 (2004-2009, 2015)</p>
                 <p>Races Cancelled: 0</p>
-                <p>Lap Record: 1.36,192 (2015)</p>
+                <p>Lap Record: 1.36,036 (2015)</p>
               </li>
               <li>
                 <p>Layout: Grand Prix Strecke w/ F1 chicane</p>
@@ -659,7 +659,7 @@ export default function Circuits() {
               <li>
                 <p>Layout: Grand Prix</p>
                 <p>Circuit Length: 5.451 km</p>
-                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Hosted: 5 (2012-2016)</p>
                 <p>Races Cancelled: 3 (2008-2009)</p>
                 <p>Lap Record: 1.42,621 (2015)</p>
               </li>
@@ -781,9 +781,9 @@ export default function Circuits() {
               <li>
                 <p>Layout: Grand Prix (2005-)</p>
                 <p>Circuit Length: 5.412 km</p>
-                <p>Races Hosted: 4 (2012-2015)</p>
+                <p>Races Hosted: 5 (2012-2016)</p>
                 <p>Races Cancelled: 0</p>
-                <p>Lap Record: 1.39,670 (2015)</p>
+                <p>Lap Record: 1.38,828 (2016)</p>
               </li>
             </ul>
           </div>
@@ -793,9 +793,9 @@ export default function Circuits() {
               <li>
                 <p>Layout: Grand Prix</p>
                 <p>Circuit Length: 5.513 km</p>
-                <p>Races Hosted: 4 (2013-2015)</p>
+                <p>Races Hosted: 4 (2013-2016)</p>
                 <p>Races Cancelled: 0</p>
-                <p>Lap Record: 1.46,018 (2015)</p>
+                <p>Lap Record: 1.45,703 (2016)</p>
               </li>
             </ul>
           </div>

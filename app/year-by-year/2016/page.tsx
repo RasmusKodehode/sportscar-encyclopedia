@@ -415,38 +415,44 @@ export default function OneSix() {
                   <td rowSpan={3}>7</td>
                   <td>Andre Lotterer(DEU)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Benoit Treluyer(FRA)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, <em>Mexico City</em>, COTA
+                    Silverstone, Spa, Le Mans, <em>Mexico City</em>, COTA, Fuji,
+                    Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Marcel Fässler(CHE)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>8</td>
                   <td>Loïc Duval(FRA)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Lucas di Grassi(BRA)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Oliver Jarvis(GBR)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
@@ -457,39 +463,44 @@ export default function OneSix() {
                   <td rowSpan={3}>5</td>
                   <td>Sebastien Buemi(CHE)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Anthony Davidson(GBR)</td>
                   <td>
                     Silverstone, Spa, Le Mans, Nurburgring, <em>Mexico City</em>
-                    , COTA
+                    , COTA, Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Kazuki Nakajima(JAP)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>6</td>
                   <td>Stephane Sarrazin(FRA)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Mike Conway(GBR)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Kamui Kobayashi(JAP)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
@@ -500,38 +511,44 @@ export default function OneSix() {
                   <td rowSpan={3}>1</td>
                   <td>Timo Bernhard(DEU)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Brendon Hartley(NZE)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Mark Webber(AUS)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td rowSpan={3}>2</td>
                   <td>Marc Lieb(DEU)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Romain Dumas(FRA)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Neel Jani(CHE)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
@@ -542,13 +559,15 @@ export default function OneSix() {
                   <td rowSpan={4}>4</td>
                   <td>Simon Trummer(CHE)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
                   <td>Oliver Webb(GBR)</td>
                   <td>
-                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA
+                    Silverstone, Spa, Le Mans, Nurburgring, Mexico City, COTA,
+                    Fuji, Shanghai, Bahrain
                   </td>
                 </tr>
                 <tr>
@@ -557,7 +576,9 @@ export default function OneSix() {
                 </tr>
                 <tr>
                   <td>Pierre Kaffer(DEU)</td>
-                  <td>Le Mans, Nurburgring, Mexico City</td>
+                  <td>
+                    Le Mans, Nurburgring, Mexico City, Fuji, Shanghai, Bahrain
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -635,7 +656,7 @@ export default function OneSix() {
                 6:00.32,112
               </p>
               <p>
-                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                LMP2 Winner: #36 Signatech Alpine, Alpine A460, Nicolas
                 Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +9
                 Laps
               </p>
@@ -678,7 +699,7 @@ export default function OneSix() {
                 Lieb(DEU), Romain Dumas(FRA), Neel Jani(CHE), 24:00.38,449
               </p>
               <p>
-                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                LMP2 Winner: #36 Signatech Alpine, Alpine A460, Nicolas
                 Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +27
                 Laps
               </p>
@@ -721,7 +742,7 @@ export default function OneSix() {
                 6:01.16,183
               </p>
               <p>
-                LMP2 Winner: #36 Signatech Alpine, Apline A460, Nicolas
+                LMP2 Winner: #36 Signatech Alpine, Alpine A460, Nicolas
                 Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +16
                 Laps
               </p>
@@ -785,35 +806,171 @@ export default function OneSix() {
               <p>Race Format: 6 Hours</p>
               <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
               <p>Circuit Length: 5.513 km</p>
-              <p>Laps Completed: 0</p>
-              <p>Distance Covered: 0 km</p>
+              <p>Laps Completed: 186</p>
+              <p>Distance Covered: 1025.418 km</p>
               <p>
                 Number of cars entered: 31 (8 LMP1, 10 LMP2, 7 LMGTE-Pro, 6
                 LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 29 (8 LMP1, 8 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #7 Audi Sport Team Joest, Audi R18, Andre
+                Lotterer(DEU), Benoit Treluyer(FRA), Marcel Fässler(CHE),
+                1.45,750
+              </p>
+              <p>
+                Overall Winner: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS),
+                6:01.30,181
+              </p>
+              <p>
+                LMP2 Winner: #36 Signatech Alpine, Alpine A460, Nicolas
+                Lapierre(FRA), Stephane Richelmi(MCO), Gustavo Menezes(USA), +14
+                Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #95 Aston Martin Racing, Aston Martin Vantage
+                GTE, Nicki Thiim(DEN), Marco Sørensen(DEN), +23 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #98 Aston Martin Racing, Aston Martin V8
+                Vantage GTE, Pedro Lamy(POR), Mathias Lauda(AUT), Paul Dalla
+                Lana(CAN), +28 Laps
               </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Fuji</p>
               <p>Fuji International Speedway, Oyama, Japan</p>
               <p>Date: 16.10.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 4.563 km</p>
+              <p>Laps Completed: 244</p>
+              <p>Distance Covered: 1113.372 km</p>
+              <p>
+                Number of cars entered: 32 (8 LMP1, 11 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 29 (6 LMP1, 11 LMP2, 7 LMGTE-Pro, 5
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #8 Audi Sport Team Joest, Audi R18, Loïc
+                Duval(FRA), Lucas di Grassi(BRA), Oliver Jarvis(GBR), 1.23,570
+              </p>
+              <p>
+                Overall Winner: #6 Toyota Gazoo Racing, Toyota TS050 Hybrid,
+                Stephane Sarrazin(FRA), Mike Conway(GBR), Kamui Kobayashi(JAP),
+                6:00.37,284
+              </p>
+              <p>
+                LMP2 Winner: #26 G-Drive Racing, Oreca 05 - Nissan, Will
+                Stevens(GBR), Alex Brundle(GBR), Roman Rusinov(RUS), +21 Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #67 Ford Chip Ganassi Team UK, Ford GT GTE,
+                Harry Tincknell(GBR), Andy Priaulx(GBR), +32 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #98 Aston Martin Racing, Aston Martin V8
+                Vantage GTE, Pedro Lamy(POR), Mathias Lauda(AUT), Paul Dalla
+                Lana(CAN), +36 Laps
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Shanghai</p>
               <p>Shanghai International Circuit, Shanghai, China</p>
               <p>Date: 06.11.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 5.451 km</p>
+              <p>Laps Completed: 195</p>
+              <p>Distance Covered: 1062.945 km</p>
+              <p>
+                Number of cars entered: 31 (8 LMP1, 10 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 29 (8 LMP1, 9 LMP2, 6 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS), 1.44,462
+              </p>
+              <p>
+                Overall Winner: #1 Porsche Team, Porsche 919 Hybrid, Timo
+                Bernhard(DEU), Brendon Hartley(NZE), Mark Webber(AUS),
+                6:00.27,901
+              </p>
+              <p>
+                LMP2 Winner: #26 G-Drive Racing, Oreca 05 - Nissan, Will
+                Stevens(GBR), Alex Brundle(GBR), Roman Rusinov(RUS), +15 Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #67 Ford Chip Ganassi Team UK, Ford GT GTE,
+                Harry Tincknell(GBR), Andy Priaulx(GBR), +25 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #98 Aston Martin Racing, Aston Martin V8
+                Vantage GTE, Pedro Lamy(POR), Mathias Lauda(AUT), Paul Dalla
+                Lana(CAN), +29 Laps
+              </p>
             </li>
             <li>
               <p className="font-bold">6 Hours of Bahrain</p>
               <p>Bahrain International Circuit, Sakhir, Bahrain</p>
               <p>Date: 19.11.2016</p>
+              <p>Series: WEC</p>
+              <p>Race Format: 6 Hours</p>
+              <p>Classes: LMP1, LMP2, LMGTE-Pro, LMGTE-Am</p>
+              <p>Circuit Length: 5.412 km</p>
+              <p>Laps Completed: 201</p>
+              <p>Distance Covered: 1087.812 km</p>
+              <p>
+                Number of cars entered: 31 (8 LMP1, 10 LMP2, 7 LMGTE-Pro, 6
+                LMGTE-Am)
+              </p>
+              <p>
+                Number of cars finished: 30 (8 LMP1, 10 LMP2, 7 LMGTE-Pro, 5
+                LMGTE-Am)
+              </p>
+              <p>
+                Pole Position: #8 Audi Sport Team Joest, Audi R18, Loïc
+                Duval(FRA), Lucas di Grassi(BRA), Oliver Jarvis(GBR), 1.39,207
+              </p>
+              <p>
+                Overall Winner: #8 Audi Sport Team Joest, Audi R18, Loïc
+                Duval(FRA), Lucas di Grassi(BRA), Oliver Jarvis(GBR),
+                6:00.12,387
+              </p>
+              <p>
+                LMP2 Winner: #26 G-Drive Racing, Oreca 05 - Nissan, Will
+                Stevens(GBR), Alex Brundle(GBR), Roman Rusinov(RUS), +17 Laps
+              </p>
+              <p>
+                LMGTE-Pro Winner: #95 Aston Martin Racing, Aston Martin Vantage
+                GTE, Nicki Thiim(DEN), Marco Sørensen(DEN), +27 Laps
+              </p>
+              <p>
+                LMGTE-Am Winner: #88 Abu Dhabi-Proton Racing, Porsche 911 RSR,
+                Patrick Long(USA), David Heinemeier-Hansson(DEN), Khaled Al
+                Qubaisi(UAE), +30 Laps
+              </p>
             </li>
           </ol>
         </div>
         <div className="flex flex-col gap-2 w-full">
           <h2>Season Totals</h2>
           <div>
-            <p>Number of Races: </p>
-            <p>Total Distance Covered: km</p>
+            <p>Number of Races: 9</p>
+            <p>Total Distance Covered: 13775.209 km</p>
           </div>
         </div>
         <div className="flex flex-col gap-2 w-full">

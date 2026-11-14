@@ -58,6 +58,38 @@ export default function OneSeven() {
                 Speculation about COTA
               </a>
             </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/09/22/2017-wec-calendar-revealed.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                2017 calendar revealed
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/09/28/2017-fia-wec-calendar-confirmed.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Calendar Confirmed
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/11/09/neveu-fillon-and-owen-jones-on-the-future-of-lmp1.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Changes must be considered to reduce cost of LMP1
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/11/20/lmp1-h-regulations-frozen-until-2020.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                LMP1-H regs frozen until the end of 2019
+              </a>
+            </li>
           </ul>
         </div>
         <div className="flex flex-col gap-2 w-full">
@@ -77,6 +109,13 @@ export default function OneSeven() {
                 rel="noopener noreferrer"
               >
                 , but decided against it
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/09/27/bmw-to-return-to-le-mans-in-2018.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                BMW enters LMGTE-Pro instead
               </a>
             </li>
             <li>
@@ -128,6 +167,28 @@ export default function OneSeven() {
               >
                 Maybe no 3rd Audi again for 2017
               </a>
+              <a
+                href="https://www.dailysportscar.com/2016/10/16/ullrich-avoids-audi-rumour-looks-to-first-fuji-win.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Roumors about Audi exit after 2017, but Dr. Ullrich remains
+                optimistic
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/10/19/149683.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Roumuors about Audi exiting LMP1 after 2017
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/10/26/audi-to-end-lmp1-programme-at-end-of-2016-season.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Audi quits LMP1 after 2016
+              </a>
             </li>
             <li>
               <a
@@ -136,6 +197,13 @@ export default function OneSeven() {
                 rel="noopener noreferrer"
               >
                 Rebellion shifts resources to 2017 LMP1-L regs
+              </a>
+              <a
+                href="https://www.dailysportscar.com/2016/10/06/rebellion-switches-to-lmp2-for-2017.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Switches to LMP2 for 2017
               </a>
             </li>
             <li>
@@ -153,6 +221,13 @@ export default function OneSeven() {
               >
                 LMP2 is still the focus
               </a>
+              <a
+                href="https://www.dailysportscar.com/2016/11/01/renault-sport-on-the-future-of-the-rs-01-why-renault-isnt-coming-to-lmp1.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                No Renault LMP1 project for the forseeable future
+              </a>
             </li>
             <li>
               <a
@@ -161,6 +236,15 @@ export default function OneSeven() {
                 rel="noopener noreferrer"
               >
                 ByKolles set to return with new car for 2017
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.dailysportscar.com/2016/10/15/vasselon-i-would-say-audi-will-be-there-in-2018.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Toyota planning big updates for 2017
               </a>
             </li>
           </ul>
@@ -185,7 +269,53 @@ export default function OneSeven() {
         <div className="flex flex-col gap-2 w-full">
           <h2>Calendar</h2>
           <ol className="flex flex-col gap-4">
-            <li></li>
+            <li>
+              <p className="font-bold">6 Hours of Silverstone</p>
+              <p>Silverstone Circuit, Silverstone, Great Britain</p>
+              <p>Date: 16.04.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">WEC 6 Hours of Spa-Francorchamps</p>
+              <p>Circuit de Spa-Francorchamps, Stavelot, Belgium</p>
+              <p>Date: 06.05.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">
+                85<sup>e</sup> 24 Heures du Mans
+              </p>
+              <p>Circuit de la Sarthe, Le Mans, France</p>
+              <p>Date: 17-18.06.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Nürburgring</p>
+              <p>Nürburgring, Nürburg, Germany</p>
+              <p>Date: 16.07.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Mexico</p>
+              <p>Autodromo Hermanos Rodriguez, Mexico City, Mexico</p>
+              <p>Date: 03.09.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Circuit of the Americas</p>
+              <p>Circuit of the Americas, Austin, Texas</p>
+              <p>Date: 16.09.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Fuji</p>
+              <p>Fuji International Speedway, Oyama, Japan</p>
+              <p>Date: 15.10.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Shanghai</p>
+              <p>Shanghai International Circuit, Shanghai, China</p>
+              <p>Date: 05.11.2017</p>
+            </li>
+            <li>
+              <p className="font-bold">6 Hours of Bahrain</p>
+              <p>Bahrain International Circuit, Sakhir, Bahrain</p>
+              <p>Date: 18.11.2017</p>
+            </li>
           </ol>
         </div>
         <div className="flex flex-col gap-2 w-full">
